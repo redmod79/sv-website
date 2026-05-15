@@ -1,0 +1,41 @@
+# Nave's Topics — Raw Data
+
+## Topics Retrieved
+
+### ATONEMENT (full entry)
+- DAY OF: Time EXO 30:10; LEV 23:27; 25:9; NUM 29:7. How observed EXO 30:10; LEV 16:2-34; 23:27-32; NUM 29:7-11; ACT 27:9; HEB 5:3; 9:7,19,22
+- MADE BY ANIMAL SACRIFICES: EXO 29:36; 30:12-16; LEV 1:4; 4:20,22-35; 5:6-10; 6:7; 9:7; 10:17; 12:6-8; 14:12-32; 16:6,10,11,15-19,24-34; 17:11; 19:22; NUM 15:22-28
+- MADE BY JESUS: Typified LEV 16:30,34 with HEB 9:7,12,28; LEV 17:11 with HEB 9:22
+- UNCLASSIFIED: ROM 3:24-26; 4:25; 5:1,2,6-11,15-21; DAN 9:24-27
+
+### JUDGMENT (THE GENERAL)
+Full entry: 1CH 16:33; JOB 14:17; PSA 9:7; 50:3-6; 96:13; ECC 3:17; 11:9; 12:14; EZK 18:20-28; DAN 7:9,10; MAT 12:36,37; 25:1-46; ROM 2:5-16; 14:10-12; 1CO 3:13; 4:5; 6:2; 2CO 5:10; HEB 9:27; 2PE 2:4,9; 3:7,10-12; REV 11:18; 20:11-15; 22:12
+
+ACCORDING TO WORKS: EZK 9:4-6; 18:4-9,19-32; MAT 12:37; 25:14-30; ROM 2:5-12; 1CO 3:8,12-15; GAL 6:5-10; REV 2:23; 20:12,13
+
+### BOOK
+- OF LIFE: EXO 32:32,33; PSA 69:28; 87:6; DAN 12:1; LUK 10:20; PHP 4:3; REV 3:5; 13:8; 17:8; 20:12,15; 21:27; 22:19
+- OF REMEMBRANCE: PSA 56:8; 139:16; MAL 3:16
+
+## Semantic Searches (naves_semantic.py)
+
+### "day of atonement judgment" (top results from PROMPT.md)
+| Topic | Score |
+|-------|-------|
+| SANCTIFICATION | 0.67 |
+| INCENSE | 0.60 |
+| ATONEMENT | 0.56 |
+| PURIFICATION | 0.57 |
+| MERCY-SEAT | 0.55 |
+| RIGHTEOUSNESS | 0.54 |
+| SANCTUARY | 0.51 |
+| JUDGMENT | 0.44 |
+| ANCIENT OF DAYS | 0.44 |
+| BOOK | 0.42 |
+| GARMENT | 0.42 |
+| THRONE | 0.40 |
+| PROPITIATION | 0.38 |
+| BLOOD | 0.35 |
+
+---
+*Raw Nave's data retrieved: 2026-05-12*
