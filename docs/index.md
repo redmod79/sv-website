@@ -1,6 +1,6 @@
 # Daniel 8:14 and the Sanctuary Vindication
 
-*A 27-study biblical investigation tracing the complete arc from the daily service to the final verdict — what does "the sanctuary shall be vindicated" mean?*
+*A 29-study biblical investigation tracing the complete arc from the daily service to the final verdict — what does "the sanctuary shall be vindicated" mean?*
 
 ---
 
@@ -16,7 +16,7 @@ This series investigates the question from the ground up, beginning with the fou
 
 ## The Approach
 
-Each of the 27 studies is a genuine investigation. Agents gathered ALL relevant evidence using Bible tools — Nave's Topical Dictionary, Strong's Concordance, Hebrew and Greek parsers, cross-testament parallels, and semantic search. No study presupposed its conclusion. Evidence was classified and every claim required verse support.
+Each of the 29 studies is a genuine investigation. Agents gathered ALL relevant evidence using Bible tools — Nave's Topical Dictionary, Strong's Concordance, Hebrew and Greek parsers, cross-testament parallels, and semantic search. No study presupposed its conclusion. Evidence was classified and every claim required verse support.
 
 The studies follow a strict reference boundary: each study's final analysis may only cite studies completed earlier in the series. This prevents circular reasoning and ensures each study stands on its own biblical evidence while building on established prior findings.
 
@@ -25,7 +25,7 @@ The studies follow a strict reference boundary: each study's final analysis may 
 
 ---
 
-## The 27 Studies
+## The 29 Studies
 
 ### Arc 1 -- Foundations
 
@@ -37,6 +37,7 @@ What is righteousness? What is defilement? How does the sanctuary system work? T
 | 02 | [Biblical Defilement](studies/sv-02-biblical-defilement/conclusion-simple.md) | What does defilement mean? How does it relate to the sanctuary — why is uncleanness incompatible with God's presence? |
 | 03 | [The Daily-to-Annual Connection](studies/sv-03-tamid-doa-connection/conclusion-simple.md) | How does the daily service transfer sin INTO the sanctuary, and how does the Day of Atonement take it OUT? |
 | 04 | [The Day of Atonement Ritual](studies/sv-04-doa-ritual-sequence/conclusion-simple.md) | What is the step-by-step ritual of Leviticus 16? How do the two goats function? |
+| 04b | [Jubilee, Isaiah 61, and the Festival Calendar](studies/sv-04b-jubilee-festival-calendar/CONCLUSION.md) | What happens after the DOA? How does Isaiah 61 bridge Jubilee vocabulary to vindication vocabulary? |
 
 ### Arc 2 -- Daniel 8: The Vision
 
@@ -71,6 +72,7 @@ The theological climax: what the judgment is, what the vindication means, and ho
 |---|-------|----------|
 | 16 | [Daniel 10-12: The Resolution](studies/sv-16-dan-10-12-resolution/conclusion-simple.md) | How does Daniel 10-12 resolve the narrative arc? What does Daniel finally understand? |
 | 17 | [Judgment as Antitypical Day of Atonement](studies/sv-17-judgment-antitypical-doa/conclusion-simple.md) | Does Daniel 7:9-10's judgment scene parallel the Day of Atonement? |
+| 17b | [Vindication as Process, Not Instant](studies/sv-17b-vindication-as-process/CONCLUSION.md) | Does vindication happen instantaneously at the terminus, or begin there and unfold as a process? |
 | 18 | [What Does nitsdaq qodesh Mean?](studies/sv-18-vindication-meaning/conclusion-simple.md) | The climactic question — what does "the sanctuary shall be vindicated" actually mean? |
 | 19 | [Righteousness and Defilement Converge](studies/sv-19-righteousness-defilement-vindication/conclusion-simple.md) | Why tsadaq, not taher? How does vindication include cleansing while exceeding it? |
 

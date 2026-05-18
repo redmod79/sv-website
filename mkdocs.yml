@@ -1,5 +1,5 @@
 site_name: "Daniel 8:14 — The Sanctuary Vindication"
-site_description: A 27-study biblical investigation tracing the complete arc from the tamid to the verdict, covering the sanctuary system, Daniel's prophecies, the 2300 days, and the vindication of God's people and character.
+site_description: A 29-study biblical investigation tracing the complete arc from the tamid to the verdict, covering the sanctuary system, Daniel's prophecies, the 2300 days, and the vindication of God's people and character.
 site_url: "https://redmod79.github.io/sv-website/"
 
 theme:
@@ -142,6 +142,17 @@ nav:
           - "Nave's Topics": studies/sv-04-doa-ritual-sequence/raw-data/naves-topics.md
           - "Cross-Testament Parallels": studies/sv-04-doa-ritual-sequence/raw-data/parallels.md
           - "Strong's Lookups": studies/sv-04-doa-ritual-sequence/raw-data/strongs-lookups.md
+      - "04b -- Jubilee, Isaiah 61, and the Festival Calendar":
+        - Conclusion: studies/sv-04b-jubilee-festival-calendar/CONCLUSION.md
+        - Analysis: studies/sv-04b-jubilee-festival-calendar/03-analysis.md
+        - Verses: studies/sv-04b-jubilee-festival-calendar/02-verses.md
+        - Word Studies: studies/sv-04b-jubilee-festival-calendar/04-word-studies.md
+        - Topics: studies/sv-04b-jubilee-festival-calendar/01-topics.md
+        - Research Scope: studies/sv-04b-jubilee-festival-calendar/PROMPT.md
+        - References: studies/sv-04b-jubilee-festival-calendar/00-references.md
+        - Raw Data:
+          - "Parsing Key Findings": studies/sv-04b-jubilee-festival-calendar/raw-data/parsing-key-findings.md
+          - "Parallels Key Findings": studies/sv-04b-jubilee-festival-calendar/raw-data/parallels-key-findings.md
 
     # ── Arc 2: Daniel 8 — The Vision ──
     - "Arc 2 -- Daniel 8: The Vision":
@@ -356,6 +367,19 @@ nav:
           - "Nave's Topics": studies/sv-17-judgment-antitypical-doa/raw-data/naves-topics.md
           - "Cross-Testament Parallels": studies/sv-17-judgment-antitypical-doa/raw-data/parallels.md
           - "Strong's Lookups": studies/sv-17-judgment-antitypical-doa/raw-data/strongs-lookups.md
+      - "17b -- Vindication as Process, Not Instant":
+        - Conclusion: studies/sv-17b-vindication-as-process/CONCLUSION.md
+        - Analysis: studies/sv-17b-vindication-as-process/03-analysis.md
+        - Verses: studies/sv-17b-vindication-as-process/02-verses.md
+        - Word Studies: studies/sv-17b-vindication-as-process/04-word-studies.md
+        - Topics: studies/sv-17b-vindication-as-process/01-topics.md
+        - Research Scope: studies/sv-17b-vindication-as-process/PROMPT.md
+        - References: studies/sv-17b-vindication-as-process/00-references.md
+        - Raw Data:
+          - "Hebrew Parsings": studies/sv-17b-vindication-as-process/raw-data/hebrew-parsings.md
+          - "Greek Parsings": studies/sv-17b-vindication-as-process/raw-data/greek-parsings.md
+          - "Cross-Testament Parallels": studies/sv-17b-vindication-as-process/raw-data/cross-testament-parallels.md
+          - "Nave's Topical Data": studies/sv-17b-vindication-as-process/raw-data/naves-topical-data.md
       - "18 -- What Does nitsdaq qodesh Mean?":
         - studies/sv-18-vindication-meaning/conclusion-simple.md
         - Conclusion: studies/sv-18-vindication-meaning/CONCLUSION.md
