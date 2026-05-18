@@ -76,6 +76,13 @@ nav:
   - "Research Tools & Process": tools.md
   - Studies:
 
+    # ── Series Overview ──
+    - "Series Overview":
+
+      - "00 -- What This Series Discovered":
+        - studies/sv-00-series-original-contributions/conclusion-simple.md
+        - "Full Technical Detail": studies/sv-00-series-original-contributions/CONCLUSION.md
+
     # ── Arc 1: Foundations ──
     - "Arc 1 -- Foundations":
 

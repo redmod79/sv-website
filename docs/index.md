@@ -22,6 +22,7 @@ The studies follow a strict reference boundary: each study's final analysis may 
 
 [**Read the Methodology**](methodology.md){ .md-button }
 [**Skip to the Grand Synthesis**](studies/sv-23-grand-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
+[**What Did This Series Discover?**](studies/sv-00-series-original-contributions/conclusion-simple.md){ .md-button }
 
 ---
 
