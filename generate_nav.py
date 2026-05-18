@@ -12,6 +12,7 @@ STUDIES = [
     ("sv-02-biblical-defilement", "02 -- Biblical Defilement", "Arc 1 -- Foundations", None),
     ("sv-03-tamid-doa-connection", "03 -- Daily-to-Annual Connection", "Arc 1 -- Foundations", None),
     ("sv-04-doa-ritual-sequence", "04 -- Day of Atonement Ritual", "Arc 1 -- Foundations", None),
+    ("sv-04b-jubilee-festival-calendar", "04b -- Jubilee, Isaiah 61, and the Festival Calendar", "Arc 1 -- Foundations", None),
 
     ("sv-05-daniel-literary-architecture", "05 -- Literary Architecture of Daniel", "Arc 2 -- Daniel 8: The Vision", "Arc 2: Daniel 8 — The Vision"),
     ("sv-06-dan-8-verse-by-verse", "06 -- Daniel 8:8-19 Verse by Verse", "Arc 2 -- Daniel 8: The Vision", None),
@@ -28,6 +29,7 @@ STUDIES = [
 
     ("sv-16-dan-10-12-resolution", "16 -- Daniel 10-12: The Resolution", "Arc 4 -- Judgment and Vindication", "Arc 4: Judgment and Vindication"),
     ("sv-17-judgment-antitypical-doa", "17 -- Judgment as Antitypical DOA", "Arc 4 -- Judgment and Vindication", None),
+    ("sv-17b-vindication-as-process", "17b -- Vindication as Process, Not Instant", "Arc 4 -- Judgment and Vindication", None),
     ("sv-18-vindication-meaning", "18 -- What Does nitsdaq qodesh Mean?", "Arc 4 -- Judgment and Vindication", None),
     ("sv-19-righteousness-defilement-vindication", "19 -- Righteousness and Defilement Converge", "Arc 4 -- Judgment and Vindication", None),
 

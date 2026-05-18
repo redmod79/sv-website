@@ -169,6 +169,12 @@ This binary makes the DOA function as a sorting event. The priest's work in the 
 
 This sorting function is what later studies in this series will connect to the heavenly judgment. The DOA is not just a cleansing ritual. It is a judgment mechanism built into the fabric of Israel's worship calendar.
 
+The asymmetry between the DOA's two requirements sharpens this point. "Do no work" (Lev 23:28) is external and observable — any neighbor can see whether someone is laboring. But "afflict your souls" is internal and invisible. No priest, no elder, no human observer can determine whether a soul has genuinely humbled itself before God. The requirement is real. The penalty is absolute. But the verification is impossible for anyone except God.
+
+The enforcement verbs confirm this. Lev 23:29 uses nikhretah — Niphal perfect of karath, the divine passive. The soul is "cut off" by an unnamed agent. Lev 23:30 goes further: ve'ha'avadeti — Hiphil perfect of abad with first-person singular suffix. "I will destroy that soul from among his people." Not divine passive but divine active. God names Himself as the agent who enforces compliance with a requirement only He can verify.
+
+This means the divine-knowledge function of the antitypical judgment is not a new feature layered onto the type. It is built into the type from the beginning. The DOA always required God to do something no human could do: examine hearts, verify genuine participation, and execute judgment on that basis. When the pre-advent judgment opens the books (Dan 7:10) and examines the life records, it fulfills what the DOA's "afflict your souls" requirement always pointed to — a divine assessment of inner reality that no earthly mechanism could perform.
+
 ### The kaphar→taher Formula (v.30)
 
 The three-verb chain in Leviticus 16:30 traces the complete arc of what the DOA produces: "For on that day shall the priest make an atonement (yekhapper, Piel imperfect, kaphar) for you, to cleanse you (letaher, Piel infinitive construct, taher), that ye may be clean (titharu, Qal imperfect, taher) from all your sins before the LORD."

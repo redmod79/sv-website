@@ -215,6 +215,8 @@ Some elements of the DOA type do not fully transfer to the antitype. The books c
 
 What Daniel did by choosing tsadaq instead of taher was name the bigger reality that includes the smaller. Cleansing (taher) is what happens to contaminated objects. Vindication (tsadaq) is what happens in a courtroom. The heavenly sanctuary operates in judicial categories because it deals with records, verdicts, and persons rather than blood, altars, and garments. The function is the same: address everything that accumulated and restore the sanctuary. The register shifts because the antitype is the reality the type only pointed to.
 
+Two subsequent studies deepen this conclusion. Study 4b (sv-04b) shows that the DOA does not stand alone — the Jubilee is proclaimed on the DOA itself (Lev 25:9-10), and Tabernacles follows five days later, mapping a calendar-level arc from judgment to restoration to celebration. Isaiah 61 bridges Jubilee vocabulary (deror) to vindication vocabulary (tsedeq/tsedaqah), providing a second vocabulary bridge alongside Dan 9:24. Study 17b (sv-17b) establishes that vindication unfolds as a process beginning at the 2300 terminus, not completing instantaneously — strengthening the structural correspondence with the earthly DOA, which was itself a day-long ceremony with multiple stages.
+
 ---
 *Study completed: 2026-05-12*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
