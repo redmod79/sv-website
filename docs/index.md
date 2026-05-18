@@ -28,6 +28,12 @@ The studies follow a strict reference boundary: each study's final analysis may 
 
 ## The 29 Studies
 
+### Series Overview
+
+| # | Study | Question |
+|---|-------|----------|
+| 00 | [**What Did This Series Discover?**](studies/sv-00-series-original-contributions/conclusion-simple.md) | What does this series contribute beyond Ellen White, the Adventist pioneers, and contemporary scholars? Two key discoveries highlighted: the deliberate encoding of Daniel 8:14's time element and the Jubilee-to-vindication bridge through Isaiah 61. |
+
 ### Arc 1 -- Foundations
 
 What is righteousness? What is defilement? How does the sanctuary system work? These foundational questions determine the framework for everything that follows.
