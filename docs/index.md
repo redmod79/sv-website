@@ -37,7 +37,7 @@ What is righteousness? What is defilement? How does the sanctuary system work? T
 | 02 | [Biblical Defilement](studies/sv-02-biblical-defilement/conclusion-simple.md) | What does defilement mean? How does it relate to the sanctuary — why is uncleanness incompatible with God's presence? |
 | 03 | [The Daily-to-Annual Connection](studies/sv-03-tamid-doa-connection/conclusion-simple.md) | How does the daily service transfer sin INTO the sanctuary, and how does the Day of Atonement take it OUT? |
 | 04 | [The Day of Atonement Ritual](studies/sv-04-doa-ritual-sequence/conclusion-simple.md) | What is the step-by-step ritual of Leviticus 16? How do the two goats function? |
-| 04b | [Jubilee, Isaiah 61, and the Festival Calendar](studies/sv-04b-jubilee-festival-calendar/CONCLUSION.md) | What happens after the DOA? How does Isaiah 61 bridge Jubilee vocabulary to vindication vocabulary? |
+| 04b | [Jubilee, Isaiah 61, and the Festival Calendar](studies/sv-04b-jubilee-festival-calendar/conclusion-simple.md) | What happens after the DOA? How does Isaiah 61 bridge Jubilee vocabulary to vindication vocabulary? |
 
 ### Arc 2 -- Daniel 8: The Vision
 
@@ -72,7 +72,7 @@ The theological climax: what the judgment is, what the vindication means, and ho
 |---|-------|----------|
 | 16 | [Daniel 10-12: The Resolution](studies/sv-16-dan-10-12-resolution/conclusion-simple.md) | How does Daniel 10-12 resolve the narrative arc? What does Daniel finally understand? |
 | 17 | [Judgment as Antitypical Day of Atonement](studies/sv-17-judgment-antitypical-doa/conclusion-simple.md) | Does Daniel 7:9-10's judgment scene parallel the Day of Atonement? |
-| 17b | [Vindication as Process, Not Instant](studies/sv-17b-vindication-as-process/CONCLUSION.md) | Does vindication happen instantaneously at the terminus, or begin there and unfold as a process? |
+| 17b | [Vindication as Process, Not Instant](studies/sv-17b-vindication-as-process/conclusion-simple.md) | Does vindication happen instantaneously at the terminus, or begin there and unfold as a process? |
 | 18 | [What Does nitsdaq qodesh Mean?](studies/sv-18-vindication-meaning/conclusion-simple.md) | The climactic question — what does "the sanctuary shall be vindicated" actually mean? |
 | 19 | [Righteousness and Defilement Converge](studies/sv-19-righteousness-defilement-vindication/conclusion-simple.md) | Why tsadaq, not taher? How does vindication include cleansing while exceeding it? |
 
