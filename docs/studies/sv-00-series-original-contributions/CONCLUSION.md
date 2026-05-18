@@ -156,6 +156,17 @@ The comparison runs both ways. EGW and the pioneers provide dimensions the SV se
 
 The SV series is textual analysis. EGW is pastoral theology. Both are needed. The SV series can tell you that *nitsdaq* is a Niphal passive receiving-verdict. EGW can tell you what it means to live under that verdict.
 
+### Scholarly Foundation: Davidson (1996)
+
+One academic predecessor deserves specific acknowledgment. Richard M. Davidson's "The Meaning of Nisdaq in Daniel 8:14" (*Journal of the Adventist Theological Society* 7/1, Spring 1996, pp. 107-119) is the foundational scholarly study of nitsdaq's semantic range. Davidson's paper:
+
+- Provided the same stem distribution the SV series independently confirmed (Qal 22x, Piel 5x, Hiphil 12x, Hithpael 1x, Niphal 1x — the Niphal as hapax)
+- Systematically cataloged the poetic parallelisms showing sdq overlaps with taher, zakah, and bor — proving "cleansing" is embedded within sdq's semantic range
+- Demonstrated that nitsdaq is polyvalent: one word whose three extended meanings (restore, cleanse, vindicate) each answer one of Dan 8:13's three problems
+- Explained why the LXX chose katharizo — not a misreading but recognition of sdq's cultic-purification nuance
+
+The SV series builds on Davidson's word-level analysis and extends it into the full Daniel 8-12 system. Davidson studied one word. The SV series traces the system that word sits in — the eight vocabulary chains, the voice chiasm, the divine passive frame, the erev boqer encoding, the Jubilee bridge, the processual reading, and the cross-testament tracking. Davidson's work is the foundation; the SV series is the architecture built on it.
+
 ---
 *Study sv-00 — completed 2026-05-18*
 *Series: Daniel 8:14 and the Sanctuary Vindication*

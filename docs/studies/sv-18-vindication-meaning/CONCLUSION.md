@@ -74,7 +74,17 @@ The most striking confirmation comes from Rev 16:7: "I heard another out of the 
 
 **Attack 4: Truth cast to the ground (Dan 8:12).** The horn "cast down the truth [emeth] to the ground; and it practised, and prospered." Dan 7:25 — it "thought to change times and laws." God's truth-system was suppressed and replaced with counterfeits. The vindication: "to bring in everlasting righteousness" (Dan 9:24). Psa 119:142 pairs tsedeq with emeth: "Thy righteousness is an everlasting righteousness, and thy law is the truth." The Revelation declarations pair dikaios (from tsedeq) with alethinos (from emeth): "just and true are thy ways" (Rev 15:3). What the horn cast down (emeth), the verdict lifts up (alethinos). What the horn tried to change (times and laws), the verdict declares eternal (tsedeq olamim).
 
-Three injustice-words appear in the question of Dan 8:13: pesha (transgression), shamem (desolation), mirmac (trampling). One justice-word answers them all in 8:14: tsadaq. The semantic inversion is exact: trampling becomes vindication; desolation becomes restoration; transgression becomes righteousness.
+Three problems appear in the question of Dan 8:13, and one word answers all three in 8:14. Davidson (1996) demonstrated that nitsdaq was deliberately chosen for its polyvalent semantic range — a single Hebrew word whose three extended meanings each match one of the three problems:
+
+The tamid (continual ministry) was taken away (Dan 8:11) → nitsdaq as **restoration**: the ministry is put right, returned to its rightful place. This draws on sdq's relational meaning — conformity to what ought to be (the root meaning: a "righteous" weight is one that matches the standard).
+
+The pesha shomem (transgression causing horror) defiles the sanctuary (Dan 8:12-13) → nitsdaq as **cleansing**: the accumulated transgression is purified. This draws on sdq's cultic-purification meaning, established by its poetic parallelism with taher (Job 4:17), zakah (Job 25:4), and bor (Psa 18:20). The LXX translators recognized this nuance when they rendered nitsdaq as katharisthetai.
+
+The sanctuary and host are trampled (Dan 8:13) → nitsdaq as **vindication**: the defamed God, His people, and His system of worship are declared right in a legal proceeding. This draws on sdq's forensic meaning, established by its close association with mishpat (judgment) in at least 18 poetic parallelisms.
+
+Separate Hebrew words exist for each solution: shub for restoration, taher for cleansing, shaphat for vindication. But the heavenly being in Dan 8:14 chose one word that encompasses all three. That word is nitsdaq.
+
+> *Reference: Richard M. Davidson, "The Meaning of Nisdaq in Daniel 8:14," Journal of the Adventist Theological Society 7/1 (Spring 1996): 107-119.*
 
 ### The Three-Phase Accomplishment
 

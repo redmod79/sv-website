@@ -42,6 +42,24 @@ The stem distribution confirms this. The only Niphal of tsadaq in the entire OT 
 
 Deu 25:1 shows tsadaq in its native courtroom setting: "If there be a controversy... then they shall justify (hitsdiq, Hiphil of tsadaq) the righteous, and condemn (hirshiy'u, Hiphil of rasha) the wicked." The paired verbs — justify the righteous, condemn the wicked — are the two possible verdicts in a Hebrew lawsuit. When Dan 8:14 uses the Niphal of the same verb, it places the sanctuary in the defendant's position and declares the verdict: vindicated.
 
+### The Poetic Parallelism Evidence: Tsadaq Includes Cleansing
+
+Before explaining why Daniel chose tsadaq over taher, a critical point must be established: tsadaq and taher are not entirely separate concepts. The Hebrew poetic tradition places them in synonymous parallelism — meaning the original writers recognized semantic overlap between them.
+
+Davidson (1996) systematically cataloged this evidence. The sdq root appears in poetic parallelism with three different cleansing/purity terms:
+
+With taher ("be clean/pure"): Job 4:17 — "Can a mortal be more righteous (tsadaq) than God? Can a man be more pure (taher) than his Maker?" Job 17:9 — "Yet the righteous (tsaddiq) will hold to his way, and he who has clean (tahor) hands will be stronger and stronger."
+
+With zakah ("be pure"): Job 15:14 — "What is man, that he could be pure (zakah)? And he who is born of a woman, that he could be righteous (tsadaq)?" Job 25:4 — "How then can man be righteous (tsadaq) before God? Or how can he be pure (zakah) who is born of a woman?" Psa 51:4 — "That you may be found just (tsadaq) when You speak, and blameless (zakah) when You judge."
+
+With bor ("cleanness"): Psa 18:20 — "The Lord rewarded me according to my righteousness (tsedeq); according to the cleanness (bor) of my hands He has rewarded me."
+
+This is significant. The LXX translators who rendered nitsdaq as katharisthetai ("shall be cleansed") were not misreading a hypothetical Aramaic source. They recognized a genuine semantic nuance within the sdq word-group — in cultic settings, sdq includes the dimension of purification. Job 4:17, where tsadaq parallels taher, is particularly instructive: the LXX translated tsadaq there with katharos ("pure/clean"), the same Greek word-group used for Dan 8:14.
+
+This means the choice of tsadaq in Dan 8:14 does not exclude cleansing. It includes cleansing while going beyond it. Tsadaq is the larger category. The question is why Daniel chose the larger word rather than the more specific one.
+
+> *Reference: Richard M. Davidson, "The Meaning of Nisdaq in Daniel 8:14," Journal of the Adventist Theological Society 7/1 (Spring 1996): 107-119. Davidson's foundational study provides the systematic catalog of sdq's poetic parallelisms and the three-domain semantic analysis that grounds this section.*
+
 ### The Bohr/Augsburger Claim and Its Limits
 
 Some scholars argue that Daniel avoided taher because it was "restricted and narrow" — a technical term tied to earthly sanctuary contexts that would have pointed readers to the type rather than the antitype. This claim is partially right and partially wrong.
@@ -151,7 +169,7 @@ The diyn (H1777) in Zech 3:7 — "thou shalt judge my house" — connects the vi
 ### Hebrews 9:23 — Katharizo for Heavenly Things
 Hebrews 9:23 says it was "necessary that the patterns of things in the heavens should be purified (katharizo) with these; but the heavenly things themselves with better sacrifices." If the NT author uses cleansing language (katharizo — the Greek equivalent of taher) for the heavenly sanctuary, does this undermine the tsadaq-over-taher argument?
 
-No, but it requires careful handling. Hebrews describes the process — the heavenly things are purified/cleansed. Daniel describes the verdict — the sanctuary is vindicated/declared righteous. These are not competing descriptions. They are different angles on the same event. The process of purification (cleansing the accumulated record of sin) produces the verdict of vindication (the sanctuary is declared right). Heb 9:23 answers "what happens?" — purification. Dan 8:14 answers "what does it mean?" — vindication. Both are true. The vocabulary fits the emphasis each author chooses.
+No, but it requires careful handling. The poetic parallelism evidence (see above: Job 4:17, 17:9, Psa 18:20) shows that sdq and taher/katharos overlap semantically in the Hebrew tradition. The LXX translators of Dan 8:14 recognized this same overlap when they chose katharisthetai — they were not mistranslating but reflecting a genuine nuance within sdq's cultic register, as Davidson (1996) demonstrated. Hebrews describes the process — the heavenly things are purified/cleansed. Daniel describes the verdict — the sanctuary is vindicated/declared righteous. These are not competing descriptions. They are different angles on the same event. The process of purification (cleansing the accumulated record of sin) produces the verdict of vindication (the sanctuary is declared right). Heb 9:23 answers "what happens?" — purification. Dan 8:14 answers "what does it mean?" — vindication. Both are true. The vocabulary fits the emphasis each author chooses.
 
 ### Revelation 19:8 — Divine Gift or Human Achievement?
 Rev 19:8 says the fine linen was "granted" to the bride (edothe, divine passive) yet the fine linen IS the dikaiomata (righteous acts/deeds) of the saints. If the garment is a gift, how is it also constituted by the saints' own righteous deeds?
