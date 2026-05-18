@@ -86,6 +86,8 @@ The pioneers built the doctrinal framework — heavenly sanctuary, pre-advent ju
 
 What the SV series adds is the Hebrew and Greek grammar underneath. It shows that the textual evidence runs deeper than anyone in the tradition had mapped. The encoded time unit, the Jubilee-to-vindication bridge, the voice chiasm, the divine passive frame, the vocabulary chains — these are not new doctrines. They are new evidence for existing doctrines, evidence that was always there in the Hebrew text, waiting to be surfaced.
 
+The series also builds on academic scholarship. Richard M. Davidson's 1996 study in the *Journal of the Adventist Theological Society* is the foundational word-level analysis of *nitsdaq*. Davidson mapped the three meanings carried by that single word — restore, cleanse, vindicate — and showed why the LXX translators chose "cleanse" rather than misreading the Hebrew. The SV series takes Davidson's word-level foundation and extends it into the broader Daniel 8-12 system: the vocabulary chains, the voice chiasm, the divine passive frame, and the cross-testament tracking that one word study could not reach on its own.
+
 The series can tell you that *nitsdaq* is a Niphal passive receiving-verdict. EGW can tell you what it means to live under that verdict. Both are needed. Neither is complete without the other.
 
 ---

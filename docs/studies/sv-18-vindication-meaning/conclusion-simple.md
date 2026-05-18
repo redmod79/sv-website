@@ -35,6 +35,14 @@ To understand why a verdict is needed, you have to see what Daniel 8 describes h
 
 Three words in Daniel 8:13 name the damage: *pesha* (transgression), *shamem* (desolation), *mirmac* (trampling). Then one word in 8:14 answers all three: *nitsdaq*. Vindication.
 
+Why one word, though? Richard Davidson demonstrated in a 1996 paper that *nitsdaq* was deliberately chosen because its Hebrew root (*tsadaq*) carries three distinct shades of meaning — and each one matches a different problem from the question in verse 13:
+
+- The daily ministry (*tamid*) was taken away — *nitsdaq* means **restoration**, putting things back to the way they should be.
+- The transgression (*pesha shomem*) defiles the sanctuary — *nitsdaq* means **cleansing**, purifying what was contaminated.
+- The sanctuary and God's people are trampled — *nitsdaq* means **vindication**, a legal declaration that what was defamed is righteous.
+
+Hebrew has separate words for each of these: *shub* for restoration, *taher* for cleansing, *shaphat* for vindication. The heavenly being in Daniel 8:14 could have used any of them. Instead he chose one word that does all three at once. That is why the answer is *nitsdaq* and not something simpler — because no simpler word could carry the full weight of what needed to happen.
+
 ---
 
 ## How the Verdict Is Reached

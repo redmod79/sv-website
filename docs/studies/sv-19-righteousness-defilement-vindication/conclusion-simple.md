@@ -13,9 +13,29 @@ The annual Day of Atonement in Leviticus 16 — the ceremony that Daniel 8:14 ap
 
 If Daniel was pointing to that ceremony, why didn't he use *taher*? Why write *tsadaq* instead?
 
-The study examined every place these two words appear in the Hebrew Bible and found they live in completely different worlds. *Taher* belongs to the temple and the priesthood — its closest neighbors are words like "priest," "wash," "garment," and "atonement." It describes ritual purity. *Tsadaq* belongs to the courtroom — its closest neighbors are words like "judgment," "judge," and "wicked." It describes legal verdicts. When Daniel chose *tsadaq*, he moved the scene from the temple floor to the judge's bench.
+The study examined every place these two words appear in the Hebrew Bible and found they mostly live in different worlds. *Taher* belongs to the temple and the priesthood — its closest neighbors are words like "priest," "wash," "garment," and "atonement." It describes ritual purity. *Tsadaq* belongs to the courtroom — its closest neighbors are words like "judgment," "judge," and "wicked." It describes legal verdicts. When Daniel chose *tsadaq*, he moved the scene from the temple floor to the judge's bench.
 
 There is one more clue: *nitsdaq* in Daniel 8:14 is the only Niphal (passive) form of *tsadaq* in the entire Old Testament. That passive form matters. The sanctuary does not vindicate itself. Someone else — God — declares it vindicated. That is what happens in a courtroom: the judge pronounces the verdict.
+
+---
+
+## But Righteousness and Cleansing Do Overlap
+
+Having said that *tsadaq* and *taher* live in different worlds, there is an important qualification. They are not completely separate concepts. The Hebrew poets knew this, and they left the evidence in their parallelisms.
+
+In Hebrew poetry, when two lines say the same thing in different words (what scholars call "synonymous parallelism"), it tells you the writers treated those words as overlapping in meaning. And *tsadaq* shows up paired with cleansing words more than once.
+
+Job 4:17 asks: "Can a mortal be more righteous (*tsadaq*) than God? Can a man be more pure (*taher*) than his Maker?" The two lines say the same thing — being righteous and being pure are placed side by side as parallel ideas. Job 17:9 does it again: "The righteous will hold to his way, and he who has clean (*tahor*) hands will be stronger." Same pairing. Righteous and clean, treated as companions.
+
+It goes further. Psalm 18:20 says: "The LORD rewarded me according to my righteousness (*tsedeq*); according to the cleanness (*bor*) of my hands He has rewarded me." Righteousness in one line, cleanness in the next — describing the same reality from two angles.
+
+And in Job 15:14 and 25:4, "pure" (*zakah*, another Hebrew word for cleanness) is paired with "righteous" (*tsadaq*) in the exact same way: "How can man be righteous before God? How can he be pure who is born of a woman?"
+
+Richard Davidson cataloged all of this evidence systematically in his 1996 paper on the meaning of *nitsdaq* in Daniel 8:14 (published in the *Journal of the Adventist Theological Society*). What Davidson showed is that the Hebrew writers recognized a real overlap between righteousness and purity — especially in contexts involving God's evaluation of human standing.
+
+This matters for one very practical reason. When the translators of the Greek Old Testament (the Septuagint) came to Daniel 8:14 and rendered *nitsdaq* as "shall be cleansed" (*katharisthetai*), they were not making a mistake. They were not misreading the Hebrew or working from a corrupted text. They recognized something genuine — that *tsadaq* includes a dimension of cleansing. Job 4:17, where *tsadaq* parallels *taher*, was translated in the Septuagint using the same Greek word-group (*katharos*, "pure/clean") that shows up in Daniel 8:14. The translators saw the connection because it was really there.
+
+But here is the crucial point: "cleansed" captures only *part* of what *nitsdaq* means. It gets the purity dimension right. What it misses is the courtroom dimension — the verdict, the public declaration, the judicial vindication. Saying the sanctuary "shall be cleansed" is like describing a court acquittal as "the charges were dropped." That is true as far as it goes, but it leaves out the judge's positive declaration: not just "not guilty" but "righteous." *Tsadaq* is the bigger word. It includes cleansing but goes beyond it to vindication.
 
 ---
 
