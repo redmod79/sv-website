@@ -1,7 +1,7 @@
 # The Grand Synthesis — From the Tamid to the Verdict
 ## A Plain-English Summary
 
-This is the capstone of a 23-study series on Daniel 8:14. If you haven't read any of the previous studies, this summary will walk you through the whole story from beginning to end — what the Bible says God was doing, what went wrong, and how it gets resolved.
+This is the capstone of a 24-study series on Daniel 8:14. If you haven't read any of the previous studies, this summary will walk you through the whole story from beginning to end — what the Bible says God was doing, what went wrong, and how it gets resolved.
 
 ---
 
@@ -60,11 +60,13 @@ This isn't curiosity. It's a legal complaint. A demand for resolution. And the a
 
 ## The Prophecy: A Sealed Timeline
 
-The number 2,300 arrives in an unusual form. Daniel uses a standard word for "days" everywhere else in his book — but here he uses "evening-mornings," a counting unit that appears nowhere else as a measurement of time in the entire Bible. That unusual unit is a fingerprint: the prophecy was intentionally obscured.
+The number 2,300 arrives in an unusual form. Daniel uses a standard word for "days" (*yamim*) everywhere else in his book — in Daniel 12:11-12, for instance. But here he uses "evening-mornings," a counting unit that appears nowhere else as a measurement of time in the entire Hebrew Bible. The compound has no conjunction, no articles, no preposition — just two bare nouns pushed together. Five other passages in the Bible express evening-morning concepts (Genesis 1:5, Leviticus 23:32, Exodus 27:21, Exodus 29:39, and Daniel 8:26), and every one of them uses different grammatical machinery. None matches Daniel 8:14's stripped-down form. It is unique.
 
-In Daniel 8:26, an angel tells Daniel to seal the vision because "it concerns the distant future." The content was encrypted — readable but not yet unlockable.
+This wasn't accidental. Gabriel commanded it. In Daniel 8:26: "Shut thou up the vision; for it shall be for many days." In Daniel 12:4: "Shut up the words, and seal the book." Daniel obeyed by encoding the time element in a form that would be opaque without a key.
 
-What was sealed? Not the general picture (the horn, the persecution) — Gabriel explains all of that in Daniel 8:20-25. What was sealed was the temporal element: 2,300 of something, with no starting point given.
+You can actually watch the encoding at work across three speakers. The heavenly being in Daniel 8:14 uses the bare form: *erev boqer*. Daniel, narrating, uses the articulated form with articles and a conjunction: *ha-erev ve-ha-boqer*. Gabriel, in 8:26, translates it into plain language: *yamim rabbim* — "many days." Three speakers, three registers, one descent from encoded to decoded. And Gabriel's singular pronoun (*emet hu*, "it is true") treats "evening-morning" as one unit, not two. It's a compound — a single encoded time measurement.
+
+What was sealed? Not the general picture (the horn, the persecution) — Gabriel explains all of that in Daniel 8:20-25. What was sealed was the temporal element: 2,300 of something, with no starting point given. The unusual unit is the visible evidence that Gabriel's sealing command was carried out.
 
 ---
 
@@ -112,6 +114,26 @@ What is the verdict about?
 - **God's character:** challenged when the horn exalted itself against God, vindicated when the universe declares him just
 - **God's ministry:** obscured by the counterfeit, vindicated when heaven's reality is acknowledged
 - **God's truth:** cast to the ground, restored when heaven's ways are declared true and righteous
+
+---
+
+## The Day of Atonement Declares Restoration
+
+There's something most readers miss about the Day of Atonement: it doesn't end in solemn silence. On every fiftieth year, the Jubilee is proclaimed *on the Day of Atonement itself*:
+
+> "Then shalt thou cause the trumpet of the jubile to sound on the tenth day of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land. And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land." — *Leviticus 25:9-10*
+
+The DOA cleanses. The Jubilee declares restoration — debts cancelled, slaves freed, land returned to its original owners. Not a separate event. The same day.
+
+And the full festival calendar tells the whole story in sequence. Trumpets sounds the alarm (Tishri 1). The Day of Atonement cleanses and sorts (Tishri 10). The Jubilee proclaims liberty on that same day. Then the Feast of Tabernacles — five days later — commands pure rejoicing: "ye shall rejoice before the LORD your God seven days" (Leviticus 23:40). After the affliction of judgment comes the celebration of dwelling with God. The calendar is a narrative: alarm → judgment → restoration → celebration.
+
+Isaiah 61 compresses this entire arc into one chapter. It opens with the Jubilee keyword *deror* — "liberty" — the same word used in Leviticus 25:10. Then it moves through "the acceptable year of the LORD and the day of vengeance of our God" (verse 2) — matching the Day of Atonement's binary: participate and be cleansed, or refuse and be cut off. Then it arrives at the word that matters most for this series: *tsedeq* — "trees of righteousness" (verse 3). Same root as *nitsdaq* in Daniel 8:14. The chapter continues through "I the LORD love judgment" (verse 8) to "the robe of righteousness" (verse 10) to "righteousness before all the nations" (verse 11). Jubilee language flows directly into vindication language within one chapter.
+
+Jeremiah 34:15 confirms the connection independently. When Zedekiah's subjects briefly proclaimed *deror* to their slaves, God said: "You did the right thing in my sight, in proclaiming liberty." The proclamation of liberty IS righteousness. The words are connected in God's own vocabulary.
+
+There's even a grammatical bridge. The Hebrew verb *avar* in its causative form (Hiphil) appears in Leviticus 25:9 — "you shall cause the trumpet to pass through the land." The same verb in the same form appears in Zechariah 3:4 — "I have caused your iniquity to pass from you." The verb that announces liberty is the verb that removes sin.
+
+This means Daniel 9:24 is not the only bridge between Day of Atonement vocabulary and vindication vocabulary. Isaiah 61 provides a second, independent bridge — one that runs through the festival calendar rather than through the prophetic oracle. Two bridges, two starting points, one destination.
 
 ---
 
