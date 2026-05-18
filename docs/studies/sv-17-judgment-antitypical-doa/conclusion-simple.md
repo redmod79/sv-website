@@ -51,7 +51,7 @@ Isaiah 53:11 advances the same idea through the Suffering Servant:
 
 > "By his knowledge shall my righteous servant justify many; for he shall bear their iniquities."
 
-Bearing sin (the Day of Atonement's mechanism, echoing the scapegoat) produces justification (a court verdict). The two concepts are joined in the Servant's work.
+Bearing sin (the Day of Atonement's mechanism — substitutionary atonement through the Lord's goat, whose blood is shed and applied) produces justification (a court verdict). The two concepts are joined in the Servant's work.
 
 Paul pulls it all together in Romans 3:25-26:
 

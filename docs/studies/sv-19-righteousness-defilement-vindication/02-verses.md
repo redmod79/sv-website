@@ -104,7 +104,7 @@ Hebrew of 12:3: וּמַצְדִּיקֵי הָרַבִּים — Hiphil.Ptcp.mp
 > **53:11** He shall see of the travail of his soul, [and] shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
 > **53:12** Therefore will I divide him [a portion] with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.
 
-Hebrew of 53:11: יַצְדִּיק (Hiphil.Impf.3ms of tsadaq) = "he shall justify/cause to be righteous." The Servant bears iniquities (sabal + avon, cf. scapegoat nasa + avon in Lev 16:22) AND justifies many. Sin-bearing function fused with forensic vindication function.
+Hebrew of 53:11: יַצְדִּיק (Hiphil.Impf.3ms of tsadaq) = "he shall justify/cause to be righteous." The Servant bears iniquities (sabal + avon) AND justifies many. Substitutionary atonement (the Lord's goat function — Lev 16:15-16, where blood is shed and applied) fused with forensic vindication function. Isa 53:12 pairs nasa (bearing sin) with paga (intercession) — a priestly combination, not a scapegoat pattern.
 
 ---
 

@@ -116,8 +116,8 @@
 ### Isaiah 53:11
 **Context:** The Servant's work and its result.
 **Direct statement:** "By his knowledge shall my righteous servant justify many; for he shall bear their iniquities."
-**Original language:** yatsdiq (Hiphil of tsadaq H6663) = "shall cause to be righteous/shall justify." The Hiphil is the declarative/causative stem. The servant bears iniquities (avon, same as Lev 16:21 and Dan 9:24) and the result is justification (tsadaq). This is Step 3 of the kaphar-to-tsadaq bridge: the mechanism is substitutionary sin-bearing (echoing the DOA sacrifice and scapegoat), and the result is named with tsadaq vocabulary.
-**Cross-references:** The Servant bears avon (Isa 53:11) just as the scapegoat bears avon (Lev 16:22, nasa). Both nasa and sabal (Isa 53:4,11) carry the idea of bearing sin. The scapegoat carries sin away physically; the Servant bears it by substitution.
+**Original language:** yatsdiq (Hiphil of tsadaq H6663) = "shall cause to be righteous/shall justify." The Hiphil is the declarative/causative stem. The servant bears iniquities (avon, same as Lev 16:21 and Dan 9:24) and the result is justification (tsadaq). This is Step 3 of the kaphar-to-tsadaq bridge: the mechanism is substitutionary atonement (the Lord's goat function — slain, blood applied per Lev 16:15-16), and the result is named with tsadaq vocabulary.
+**Cross-references:** The Servant bears avon (Isa 53:11) through substitutionary sacrifice, paralleling the Lord's goat whose blood makes atonement (Lev 16:15-16). Both nasa and sabal (Isa 53:4,11) carry the idea of bearing sin. Isa 53:12 pairs nasa with paga (intercession) — a priestly combination pointing to the Lord's goat register, not the scapegoat register (cf. sv-03). The Servant bears sin Godward through sacrifice and intercession.
 **Relationship to other evidence:** Isa 53 links the DOA function (sin-bearing) with the vindication result (yatsdiq). It advances the progression one step: Lev 16:30 (kaphar → taher), Dan 9:24 (kaphar → tsedeq), now Isa 53:11 (sin-bearing → yatsdiq as action verb).
 
 ### Romans 3:25-26

@@ -51,7 +51,7 @@ Three actions follow in quick succession:
 
 > "Take away the filthy garments from him... Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment." (Zechariah 3:4)
 
-Step one: the filthy garments come off. That is defilement addressed. Step two: the iniquity "passes from" Joshua. The Hebrew verb means a transfer — the sin does not get washed off, it crosses over and goes away (the same picture as the Leviticus 16 scapegoat, which carried Israel's sins out into the wilderness). Step three: Joshua receives *machalatsoth* — festival garments, clothing for a special occasion. These are not his old garments cleaned up. They are new garments of an entirely different category, marking a new status. That is vindication: not just "the dirt is gone" but "you now stand clothed in a way that declares you fit for the king's presence."
+Step one: the filthy garments come off. That is defilement addressed. Step two: the iniquity "passes from" Joshua. The Hebrew verb means a transfer — the sin does not get washed off, it crosses over and goes away (the same picture as the Day of Atonement's complete sin-removal process, where atonement was made by the Lord's goat's blood and the atoned sins were then sent away into the wilderness). Step three: Joshua receives *machalatsoth* — festival garments, clothing for a special occasion. These are not his old garments cleaned up. They are new garments of an entirely different category, marking a new status. That is vindication: not just "the dirt is gone" but "you now stand clothed in a way that declares you fit for the king's presence."
 
 **Daniel 9:24** provides the bridge between the two vocabulary systems. It lists six purposes accomplished in the "seventy weeks," and the list moves from removing sin to installing righteousness:
 
@@ -67,7 +67,7 @@ Isaiah 53:11 shows how cleansing and vindication are not two separate events but
 
 > "By his knowledge shall my righteous servant justify many; for he shall bear their iniquities." (Isaiah 53:11)
 
-The Servant bears iniquity (the scapegoat function — taking sin away) and justifies many (the *tsadaq* function — declaring righteous) in one breath. Paul makes the same connection in Romans:
+The Servant bears iniquity (substitutionary atonement — the Lord's goat function of Leviticus 16, where the sacrifice is slain and its blood applied to make reconciliation) and justifies many (the *tsadaq* function — declaring righteous) in one breath. Paul makes the same connection in Romans:
 
 > "Whom God hath set forth to be a propitiation through faith in his blood... that he might be just, and the justifier of him which believeth in Jesus." (Romans 3:25-26)
 
