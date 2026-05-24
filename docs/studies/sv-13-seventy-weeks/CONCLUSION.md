@@ -166,7 +166,7 @@ Three Hebrew words reshape the English reading of Daniel 9:
 
 **gabar (H1396):** Rendered "confirm" in Dan 9:27, but the word means "to be strong, to prevail." The Hiphil ("cause to prevail" or "strengthen") appears only here and in Psalm 12:4. It is NOT karath ("cut a covenant," used 87 times). English readers see "confirm the covenant" and may think of ratifying a new agreement. The Hebrew says the opposite — strengthening an existing one. This eliminates the reading that a future prince makes a new treaty; the subject is strengthening the covenant God already made.
 
-**peplerōtai (G4137):** Jesus' declaration in Mark 1:15 uses the Perfect Passive Indicative of plēroō. The perfect tense means "has been fulfilled" — completed action with present relevance. kairos with the article means "THE appointed time." This is not a vague readiness statement; it is a declaration that a specific prophetic period has reached its end. The G4137-pleroo canonical word study shows passive forms dominate (~78% of NT occurrences) — prophecy is fulfilled by events, not by human agency.
+**peplerōtai (G4137):** Jesus' declaration in Mark 1:15 uses the Perfect Passive Indicative of plēroō. The perfect tense means "has been fulfilled" — completed action with present relevance. kairos with the article means "THE appointed time." This is not a vague readiness statement; it is a declaration that a specific prophetic period has reached its end. The G4137-pleroo canonical word study shows passive and middle/passive forms appear frequently in NT occurrences — prophecy is fulfilled by events, not by human agency.
 
 ## Difficult Passages
 

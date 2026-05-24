@@ -52,7 +52,7 @@ Daniel 8 builds a deliberate three-stage escalation in greatness. The canonical 
 2. The goat "waxed very great" (higdil ad-meod, 8:8) — surpassing the ram.
 3. The horn "waxed exceeding great" (tigdal-yether, 8:9) — surpassing the goat.
 
-The third stage uses yether (H3499) — a noun functioning adverbially to mean "surpassingly, in excess." The canonical word study of yether shows that 65% of its uses mean "the rest of" (a regnal archive formula). Its use as "exceedingly" is rare — only 5% of occurrences. Dan 8:9 is the only prophetic use of yether as an intensifier.
+The third stage uses yether (H3499) — a noun functioning adverbially to mean "surpassingly, in excess." The canonical word study of yether shows that 82% of its uses mean "the rest of" (a regnal archive formula). Its use as "exceedingly" is rare — only 5% of occurrences. Dan 8:9 is the only prophetic use of yether as an intensifier.
 
 The yether requirement sets a mathematical constraint. Gabriel identifies the ram as Medo-Persia (8:20) and the goat as Greece (8:21). The horn must surpass BOTH of these named empires in greatness. Antiochus IV Epiphanes was a minor Seleucid king who never exceeded Medo-Persia in territorial extent, never exceeded the united Macedonian empire in military power, and reigned only 11 years. He does not satisfy the yether requirement. Rome — spanning from republic to empire to religious authority across centuries — does.
 

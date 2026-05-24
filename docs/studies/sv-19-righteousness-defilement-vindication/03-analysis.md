@@ -12,7 +12,7 @@
 ### Zechariah 3:3
 **Context:** Joshua's condition is described before God acts.
 **Direct statement:** "Now Joshua was clothed with filthy garments, and stood before the angel." The high priest who should be wearing holy garments (cf. Lev 16:4) instead wears filthy ones.
-**Original language:** The word for "filthy" is tsow (H6674), an extremely rare adjective appearing only here in the OT. The word describes excrement-soiled clothing — the strongest possible expression of defilement. The garments (beged, H899) are the standard garment term.
+**Original language:** The word for "filthy" is tsow (H6674), an extremely rare adjective appearing only twice in the OT, both in this passage (Zech 3:3 and 3:4). The word describes excrement-soiled clothing — the strongest possible expression of defilement. The garments (beged, H899) are the standard garment term.
 **Cross-references:** Isaiah 64:6 says "all our righteousnesses are as filthy rags." The parallel is striking — human attempts at righteousness are themselves defiled.
 **Relationship to other evidence:** The starting point is tame (defilement). Joshua represents the people's condition. The garments are not just dirty — they are the worst kind of unclean. This is the bottom of the tame→tahor→tsadaq progression.
 
@@ -214,7 +214,7 @@
 ### Deuteronomy 25:1
 **Context:** Civil law — resolution of legal disputes.
 **Direct statement:** "If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked."
-**Original language:** Five courtroom terms: rib (H7379, controversy/lawsuit), mishpat (H4941, judgment), shaphat (H8199, judge), hitsdiq (Hiphil of tsadaq H6663, "declare righteous"), hirshiy'u (Hiphil of rasha H7563, "declare guilty"). This is the pure forensic context of tsadaq: a courtroom, a dispute, judges, and a verdict.
+**Original language:** Five courtroom terms: rib (H7379, controversy/lawsuit), mishpat (H4941, judgment), shaphat (H8199, judge), hitsdiq (Hiphil of tsadaq H6663, "declare righteous"), hirshiy'u (Hiphil of rasha H7561, "declare guilty"). This is the pure forensic context of tsadaq: a courtroom, a dispute, judges, and a verdict.
 **Cross-references:** The collocate data from H6663-tsadaq.md confirms: tsadaq's top collocates are mishpat (8x), shaphat (8x), rasha (6x) — all courtroom vocabulary.
 **Relationship to other evidence:** This verse shows what tsadaq means in its native habitat: a courtroom verdict that declares the righteous party to be in the right. When Daniel used nitsdaq in 8:14, he brought this entire courtroom framework into the sanctuary. The sanctuary is not just being cleaned (taher) — it is being declared righteous in a judicial proceeding (tsadaq).
 

@@ -4,13 +4,13 @@
 What does the Bible mean by righteousness? What are the Hebrew words (tsadaq H6663, tsedeq H6664, tsedaqah H6666, tsaddiyq H6662) and Greek words (dikaios G1342, dikaiosyne G1343, dikaioo G1344, dikaiosis G1347)? How is righteousness received, maintained, and lost? Cover forensic (declared), relational (covenant faithfulness), and character (conduct) dimensions. This study establishes the vocabulary that culminates in Daniel 8:14's nitsdaq.
 
 ## Summary Answer
-Biblical righteousness operates across three dimensions at once. It is a courtroom verdict God declares over the believing sinner (forensic). It is covenant faithfulness — walking rightly before God within His covenant (relational). And it is actual conduct — doing what is right (character). The Hebrew tsadaq word family (530+ OT uses) and the Greek dik- family (234+ NT uses) are linked through the LXX with one of the tightest translation mappings in all of Scripture. Righteousness is received through faith by imputation (Gen 15:6, Rom 4:3-5), maintained through walking in the Spirit and ongoing confession (Rom 8:1-4, 1 John 1:7-9), and can be lost through deliberate, sustained turning from God (Eze 18:24, Heb 10:26-29). All three dimensions matter for understanding Daniel 8:14, where the sanctuary receives a passive verdict of vindication (nitsdaq) — the only Niphal of tsadaq in the entire Old Testament.
+Biblical righteousness operates across three dimensions at once. It is a courtroom verdict God declares over the believing sinner (forensic). It is covenant faithfulness — walking rightly before God within His covenant (relational). And it is actual conduct — doing what is right (character). The Hebrew tsadaq word family (548+ OT uses) and the Greek dik- family (234+ NT uses) are linked through the LXX with one of the tightest translation mappings in all of Scripture. Righteousness is received through faith by imputation (Gen 15:6, Rom 4:3-5), maintained through walking in the Spirit and ongoing confession (Rom 8:1-4, 1 John 1:7-9), and can be lost through deliberate, sustained turning from God (Eze 18:24, Heb 10:26-29). All three dimensions matter for understanding Daniel 8:14, where the sanctuary receives a passive verdict of vindication (nitsdaq) — the only Niphal of tsadaq in the entire Old Testament.
 
 ## Key Verses
 
 > **Genesis 15:6** "And he believed in the LORD; and he counted it to him for righteousness."
 
-> **Deuteronomy 25:1** "When there is a lawsuit between men, and they come unto judgment, then they shall judge them; then they shall justify the righteous, and condemn the wicked."
+> **Deuteronomy 25:1** "If there be a controversy between men, and they come unto judgment, that [the judges] may judge them; then they shall justify the righteous, and condemn the wicked."
 
 > **Isaiah 53:11** "He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities."
 
@@ -18,7 +18,7 @@ Biblical righteousness operates across three dimensions at once. It is a courtro
 
 > **Romans 4:5** "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness."
 
-> **Ezekiel 18:5,9** "But if a man be just, and do that which is lawful and right... he is just, he shall surely live, saith the Lord GOD."
+> **Ezekiel 18:5,9** "But if a man be just, and do that which is lawful and right... he [is] just, he shall surely live, saith the Lord GOD."
 
 > **1 John 3:7** "Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous."
 
@@ -32,11 +32,11 @@ Biblical righteousness operates across three dimensions at once. It is a courtro
 
 ### The Vocabulary: One Root, Two Languages, Three Dimensions
 
-The Hebrew root ts-d-q produces four major words. The verb tsadaq (H6663) occurs 41 times, meaning "to be righteous" or "to declare righteous." The masculine noun tsedeq (H6664) occurs 119 times, meaning "rightness" as an objective standard. The feminine noun tsedaqah (H6666) occurs 165 times, meaning "righteousness" as personal quality or concrete act. The adjective tsaddiyq (H6662) occurs 210 times, meaning "righteous" or "just" as a description of a person. Together they account for over 530 Old Testament occurrences — a massive vocabulary that touches nearly every biblical book.
+The Hebrew root ts-d-q produces four major words. The verb tsadaq (H6663) occurs 54 times, meaning "to be righteous" or "to declare righteous." The masculine noun tsedeq (H6664) occurs 119 times, meaning "rightness" as an objective standard. The feminine noun tsedaqah (H6666) occurs 165 times, meaning "righteousness" as personal quality or concrete act. The adjective tsaddiyq (H6662) occurs 210 times, meaning "righteous" or "just" as a description of a person. Together they account for over 548 Old Testament occurrences — a massive vocabulary that touches nearly every biblical book.
 
 The verb tsadaq appears in five stems, and each stem carries a different shade of meaning. The Qal (22 occurrences) expresses the state of being righteous: "Shall mortal man be more just than God?" (Job 4:17). The Hiphil (12 occurrences) expresses the declarative verdict: "they shall justify the righteous, and condemn the wicked" (Deu 25:1). The Piel (5 occurrences) expresses comparison: "Sodom hath justified thy sister" (Eze 16:52). The Hithpael (1 occurrence) expresses self-clearing: "How shall we justify ourselves?" (Gen 44:16). And the Niphal (1 occurrence — Dan 8:14 alone) expresses receiving passive vindication. This last form is the destination of the entire 23-study series.
 
-The Greek dik- family mirrors the Hebrew tsadaq family with striking precision. The LXX translators chose dikaios (G1342) for tsaddiyq with a PMI score of 32.40 — one of the tightest Hebrew-Greek mappings in all of Scripture (from the canonical translation relationship study TR-tsadaq-dikaioo.md). They chose dikaiosyne (G1343) for tsedaqah with 129 co-occurrences. They chose dikaioo (G1344) for tsadaq with PMI 26.99. When Paul wrote dikaioo, he meant exactly what Moses and Isaiah meant by tsadaq. These are not different concepts. They are the same concept spoken in two languages.
+The Greek dik- family mirrors the Hebrew tsadaq family with striking precision. The LXX translators chose dikaios (G1342) for tsaddiyq with a score of 32.40 (PMI 6.22) — one of the tightest Hebrew-Greek mappings in all of Scripture (from the canonical translation relationship study TR-tsadaq-dikaioo.md). They chose dikaiosyne (G1343) for tsedaqah with 129 co-occurrences. They chose dikaioo (G1344) for tsadaq with a score of 26.99 (PMI 8.73). When Paul wrote dikaioo, he meant exactly what Moses and Isaiah meant by tsadaq. These are not different concepts. They are the same concept spoken in two languages.
 
 Beyond the core four Greek words, the dik- family includes dikaioma (G1345, 10 occurrences — righteous act or ordinance), dikaiosis (G1347, 2 occurrences — the act of justification, found only in Rom 4:25 and 5:18), dikaiokrisia (G1341, 1 occurrence — righteous judgment, Rom 2:5 only), the adverb dikaios (G1346, 5 occurrences — "justly/righteously"), and the root noun dike (G1349, 4 occurrences — justice or penalty). Together the family totals 234+ NT occurrences.
 
@@ -46,7 +46,7 @@ The first dimension of righteousness is forensic — the courtroom verdict. Deut
 
 God Himself operates within this framework. Exodus 23:7 records God's own declaration: "I will not justify the wicked." The Hiphil form atsdiyq (first person singular) means "I will not declare righteous" — God will not pronounce the guilty innocent. Proverbs 17:15 calls it "abomination to the LORD" when anyone justifies the wicked or condemns the just. The courtroom must speak truth. False verdicts are an offense to God.
 
-This forensic language carries directly into the New Testament. The Louw-Nida lexicon classifies dikaioo (G1344) under domain 56.005 — Courts: Judge, Condemn, Acquit. The voice distribution confirms the courtroom setting: out of approximately 39 total forms, about 30 are passive (the sinner receives the verdict) and about 9 are active (God or a person delivers the verdict). Romans 8:33-34 presents the clearest NT courtroom scene: "Who shall lay any thing to the charge of God's elect? It is God that justifieth. Who is he that condemneth?" There is an accuser (who would bring a charge), a defendant (God's elect), a judge (God), and a verdict (justification). This directly echoes Isaiah 50:8: "He is near that justifieth me; who will contend with me?"
+This forensic language carries directly into the New Testament. The Louw-Nida lexicon classifies dikaioo (G1344) under domain 56.005 — Courts: Judge, Condemn, Acquit. The voice distribution confirms the courtroom setting: out of its 48 total occurrences, about 30 are passive (the sinner receives the verdict) and about 9 are active (God or a person delivers the verdict). Romans 8:33-34 presents the clearest NT courtroom scene: "Who shall lay any thing to the charge of God's elect? It is God that justifieth. Who is he that condemneth?" There is an accuser (who would bring a charge), a defendant (God's elect), a judge (God), and a verdict (justification). This directly echoes Isaiah 50:8: "He is near that justifieth me; who will contend with me?"
 
 The dikaiosis/katakrima antonym pair in Romans 5:18 drives the binary nature of the courtroom home. In God's court, there are two and only two possible outcomes: justification (dikaiosis, G1347) or condemnation (katakrima, G2631). No middle ground exists. The sinner is either acquitted or sentenced.
 
@@ -74,7 +74,7 @@ Genesis 18:19 establishes this early. God says of Abraham: "He will command his 
 
 Deuteronomy 6:25 makes the connection explicit: "It shall be our righteousness (tsedaqah), if we observe to do all these commandments before the LORD our God, as he hath commanded us." Obedience to God's commands IS righteousness within the covenant. This does not contradict Rom 3:20 (law-works cannot produce the acquittal verdict). It operates at a different level. Israel was already redeemed from Egypt by grace (Deu 6:23). Obedience was not earning salvation but living faithfully within the relationship God had already established.
 
-Micah 6:8 gathers the relational dimension into a single verse: "What doth the LORD require of thee, but to do justly (mishpat), and to love mercy (checed, H2617), and to walk humbly with thy God?" The canonical word study for checed (H2617) shows 241 occurrences of this word, which means covenant loyalty or faithfulness. checed is the relational glue of the covenant. Loving checed alongside doing mishpat describes the whole of covenant righteousness. And "walking humbly with thy God" names the relational posture: not self-reliance but dependent trust.
+Micah 6:8 gathers the relational dimension into a single verse: "What doth the LORD require of thee, but to do justly (mishpat), and to love mercy (checed, H2617), and to walk humbly with thy God?" The canonical word study for checed (H2617) shows 255 occurrences of this word, which means covenant loyalty or faithfulness. checed is the relational glue of the covenant. Loving checed alongside doing mishpat describes the whole of covenant righteousness. And "walking humbly with thy God" names the relational posture: not self-reliance but dependent trust.
 
 Psalm 103:17-18 ties covenant faithfulness directly to God's own righteousness: "The mercy (checed) of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness (tsedaqah) unto children's children; to such as keep his covenant." God's checed and tsedaqah flow to those who keep His covenant. Righteousness lives within the covenant relationship.
 
@@ -150,9 +150,9 @@ The word study findings shape the analysis at every turn.
 
 **dikaioma (G1345) vs. dikaiosyne (G1343):** English translation hides this distinction. dikaiosyne is the abstract state or quality of righteousness. dikaioma is the concrete righteous act, ordinance, or requirement. Revelation 19:8 uses the plural dikaiomata — righteous acts — for the wedding garment. Luke 1:6 uses dikaiomata for the ordinances walked in. Romans 8:4 uses the singular dikaioma for "the righteous requirement of the law." The wedding garment is composed of actual deeds, confirmed by the divine passive (edothe — "it was granted").
 
-**The imputation vocabulary:** chashab (H2803) in Gen 15:6 maps to logizomai (G3049) in Rom 4:3. Both are accounting terms. logizomai appears 8 times in Rom 4 in the context of reckoning righteousness. ellogeo (G1677, 2 occurrences) adds to the imputation vocabulary in Rom 5:13 and Phm 1:18.
+**The imputation vocabulary:** chashab (H2803) in Gen 15:6 maps to logizomai (G3049) in Rom 4:3. Both are accounting terms. logizomai appears 8 times in Rom 4 in the context of reckoning righteousness. ellogeo (G1677, 4 occurrences) adds to the imputation vocabulary in Rom 5:13 and Phm 1:18.
 
-**checed (H2617):** With 241 occurrences, checed anchors the relational dimension. It means covenant loyalty — the faithful commitment that holds a covenant together. Paired with emeth (truth) 33 times. The LXX renders it as eleos (mercy/compassion) 84% of the time, which loses some of its covenantal force.
+**checed (H2617):** With 255 occurrences, checed anchors the relational dimension. It means covenant loyalty — the faithful commitment that holds a covenant together. Paired with emeth (truth) 33 times. The LXX renders it as eleos (mercy/compassion) 84% of the time, which loses some of its covenantal force.
 
 ## Difficult Passages
 

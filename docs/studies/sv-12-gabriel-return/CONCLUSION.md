@@ -54,7 +54,7 @@ When Gabriel arrives in Dan 9:21, he identifies himself: "the man Gabriel, whom 
 
 The question is simple: where did Daniel see Gabriel before? The name "Gabriel" appears exactly four times in all of Scripture: Dan 8:16, Dan 9:21, Luke 1:19, Luke 1:26. Gabriel does NOT appear by name in Daniel 2. He does NOT appear by name in Daniel 7. Full-text search confirms this (raw-data/strongs-lookups.md). The only prior named appearance of Gabriel before Dan 9:21 is Dan 8:16. The back-reference can point nowhere else.
 
-Gabriel also arrives "about the time of the evening oblation" (minchath ereb, H4503 + H6153). The minchah is part of the tamid — the daily offering system (Exo 29:38-42, Num 28:3-8). The tamid is the very system the horn removes in Dan 8:11-13 (canonical word study H8548 — 100% positive across all 104 OT occurrences, as sv-03 established). Gabriel's return is synchronized with the sanctuary worship cycle. He comes at the moment of the offering his explanation is meant to address.
+Gabriel also arrives "about the time of the evening oblation" (minchath ereb, H4503 + H6153). The minchah is part of the tamid — the daily offering system (Exo 29:38-42, Num 28:3-8). The tamid is the very system the horn removes in Dan 8:11-13 (canonical word study H8548 — 100% positive across all 105 OT occurrences, as sv-03 established). Gabriel's return is synchronized with the sanctuary worship cycle. He comes at the moment of the offering his explanation is meant to address.
 
 Luke confirms the pattern. Gabriel appears to Zacharias "standing on the right side of the altar of incense" (Luke 1:11) — another sanctuary-timed appearance. The angel of prophetic timing consistently appears at moments tied to the worship system.
 
@@ -137,7 +137,7 @@ The connection matters because it establishes the relationship between the 70 we
 
 **chathak (H2852):** Hapax legomenon in Dan 9:24. Root meaning: "cut off." The choice of this unique word over the available charats (H2782, used in 9:26-27) signals that the 70 weeks are severed from a larger period. The canonical word study confirms no other occurrence exists in the OT.
 
-**techillah (H8462):** "At the beginning" in Dan 9:21. A temporal marker pointing to the starting point of the visionary sequence. Three of its 21 OT uses are in Daniel (highest density). Combined with Gabriel's name and the chazon reference, it points unambiguously to Dan 8:16.
+**techillah (H8462):** "At the beginning" in Dan 9:21. A temporal marker pointing to the starting point of the visionary sequence. Three of its 22 OT uses are in Daniel (highest density). Combined with Gabriel's name and the chazon reference, it points unambiguously to Dan 8:16.
 
 **minchah (H4503):** The evening oblation in Dan 9:21. Part of the tamid system. Gabriel arrives at the moment of the offering — synchronizing his return with the sanctuary worship under attack in Dan 8:11-13.
 
@@ -150,7 +150,7 @@ If Gabriel was commissioned for the mar'eh, the back-reference might be expected
 The angel in Dan 10:5-6 is described with supernatural attributes ("clothed in linen," "face as the appearance of lightning," "eyes as lamps of fire") that exceed the simple "man Gabriel" of 9:21. The text never names this figure as Gabriel. Whether it is the same angel or a different one, the vocabulary chains (biyn, chazon, mar'eh, acharith) continue across the chapter boundary regardless. The connection between Dan 8-9 and Dan 10-12 does not depend on the angel's identity.
 
 ### Dan 12:8 — "I Understood Not"
-After the mar'eh is resolved at 10:1, Daniel says in 12:8 "I understood not" (lo vinoti). This seems to reopen the biyn chain. But the object has changed. Dan 12:8 follows the introduction of the 1290 and 1335 time periods (12:7, 12:11-12). These are NEW material — not the 2300 evening-mornings already explained. Daniel's statement in 12:8 concerns these fresh prophecies, not the previously resolved mar'eh.
+After the mar'eh is resolved at 10:1, Daniel says in 12:8 "I understood not" (lo avin — Qal Imperfect 1s of biyn, negated). This seems to reopen the biyn chain. But the object has changed. Dan 12:8 follows the introduction of the 1290 and 1335 time periods (12:7, 12:11-12). These are NEW material — not the 2300 evening-mornings already explained. Daniel's statement in 12:8 concerns these fresh prophecies, not the previously resolved mar'eh.
 
 ### The chathak Debate
 If chathak (9:24) means only "decree" with no cutting metaphor, the 70 weeks could stand independently of the 2300. But the evidence favors the cutting meaning: (a) Daniel used charats for "decree" in the same chapter (9:26-27), making the unique word in 9:24 a deliberate choice; (b) the Theodotion LXX preserves the cutting sense (syntemno); (c) the root in Semitic cognates means physical cutting. The "decree only" reading must explain why a hapax was chosen when a standard word was available three verses later.

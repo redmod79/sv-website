@@ -172,8 +172,8 @@ Same root. Same stem. Same grammatical form. Same object. The 9:23 commission is
 
 ### Daniel 12:8-10
 **Context:** Daniel's final confession of not understanding.
-**Direct statement:** "I heard, but I understood not (lo vinoti)" (12:8). "The words are closed up and sealed till the time of the end" (12:9). "The wise shall understand" (12:10).
-**Original language:** lo vinoti — Qal perfect 1cs of biyn, negated. Daniel does NOT understand. But this concerns NEW material — the 1290 and 1335 time periods of 12:11-12 — NOT the mar'eh already resolved at 10:1. The biyn chain has a new object.
+**Direct statement:** "I heard, but I understood not (lo avin)" (12:8). "The words are closed up and sealed till the time of the end" (12:9). "The wise shall understand" (12:10).
+**Original language:** lo avin — Qal Imperfect 1s of biyn, negated. The Imperfect expresses incomplete or ongoing action ("I do not understand" / "I could not understand"), not completed action as Perfect would. Daniel does NOT understand. But this concerns NEW material — the 1290 and 1335 time periods of 12:11-12 — NOT the mar'eh already resolved at 10:1. The biyn chain has a new object.
 **Cross-references:** Dan 12:10 uses both biyn and sakal for end-time understanding: "none of the wicked shall understand (biyn); but the wise (maskilim, from sakal) shall understand (biyn)." The two understanding verbs yoked together in 9:22 (wayyaben + lehaskilkha) appear together again at the endpoint.
 **Relationship to other evidence:** The biyn chain extends past the mar'eh resolution into eschatological scope. Understanding is discriminating — character determines access (Insight #6, moral/spiritual mechanism).
 
@@ -199,7 +199,7 @@ Same root. Same stem. Same grammatical form. Same object. The 9:23 commission is
 ### Luke 1:26-31 (Gabriel to Mary)
 **Context:** Gabriel is sent to Nazareth to announce the Messiah's birth.
 **Direct statement:** "The angel Gabriel was sent from God... thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS."
-**Original language:** Gabriel is "sent from God" (apestalmenos) — same commission pattern. He announces the coming of the very Messiah whose death Dan 9:26 predicted.
+**Original language:** Gabriel is "sent from God" (ἀπεστάλη, apestale — Aorist Passive Indicative 3S of apostello, G649) — same commission pattern. He announces the coming of the very Messiah whose death Dan 9:26 predicted.
 **Relationship to other evidence:** Gabriel's four appearances trace one arc: commission to explain the time prophecy (Dan 8:16), return to complete the explanation (Dan 9:21), announcement of the forerunner (Luke 1:19), announcement of the Messiah himself (Luke 1:26). The angel who predicted Messiah's coming also announced his arrival.
 
 ---
@@ -260,7 +260,7 @@ Gabriel's back-reference in 9:21 uses chazon ("in the chazon at the beginning"),
 Bohr claims Gabriel's role extends through Dan 11. But the text of Dan 10:5-6 describes a figure "clothed in linen" with supernatural attributes (body like beryl, face like lightning, eyes like lamps of fire). This description is more exalted than "the man Gabriel" of 9:21. The angel in Dan 10-12 is never named. He mentions being opposed by "the prince of the kingdom of Persia" and assisted by "Michael" (10:13) — but he does not identify himself as Gabriel. The connection between Dan 8-9 and Dan 10-12 does not depend on the angel being the same. It depends on the vocabulary chains (biyn, chazon, mar'eh, acharith) that cross all these chapters regardless of the angel's identity.
 
 ### 3. Dan 12:8 — A New Failure to Understand?
-Dan 12:8 says "I understood not" (lo vinoti — Qal perfect of biyn, negated). If the mar'eh was resolved at 10:1, what does Daniel not understand? The answer is that 12:8 concerns the NEW time periods introduced in 12:7-12 — the 1260, 1290, and 1335 days. These are new material, not the already-resolved mar'eh. The biyn chain has a different object here. This is consistent with the text: Daniel asks "what shall be the end of these things?" (12:8) — referring to the time periods just spoken, not to the 2300 evening-mornings explained chapters earlier.
+Dan 12:8 says "I understood not" (lo avin — Qal Imperfect 1s of biyn, negated). If the mar'eh was resolved at 10:1, what does Daniel not understand? The answer is that 12:8 concerns the NEW time periods introduced in 12:7-12 — the 1260, 1290, and 1335 days. These are new material, not the already-resolved mar'eh. The biyn chain has a different object here. This is consistent with the text: Daniel asks "what shall be the end of these things?" (12:8) — referring to the time periods just spoken, not to the 2300 evening-mornings explained chapters earlier.
 
 ### 4. Can "chathak" Mean Only "Determine" Without the Cutting Metaphor?
 Some read chathak in 9:24 as simply "determine" or "decree" — no cutting from a larger period. If so, the 70 weeks would not necessarily be connected to the 2300. However: (a) Daniel had charats (H2782) available and used it in 9:26-27 for exactly that meaning. Why use a hapax when a common word was at hand? (b) The Theodotion LXX preserves the cutting metaphor: syntemno, "cut short." (c) The root meaning of chathak in other Semitic languages is physical cutting. The "determine only" reading requires explaining why a unique word was chosen when a standard one existed.

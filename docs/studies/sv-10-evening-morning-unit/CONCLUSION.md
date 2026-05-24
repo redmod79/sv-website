@@ -144,7 +144,7 @@ The most significant word study findings for this analysis:
 
 **H6153 ereb** (from the canonical library): 125 verses, 97% "evening." Concentrated in Leviticus (29x) -- a sanctuary word. Collocates with boqer 44 times (35% of all occurrences). The pairing is natural but the asyndetic form is not.
 
-**H1242 boqer** (from the canonical library): 205 occurrences, 85%+ "morning." Root baqar = "to inspect." The inspection/examination sense connects to the forensic verdict (nitsdaq) at the end of Dan 8:14.
+**H1242 boqer** (from the canonical library): 207 occurrences, 85%+ "morning." Root baqar = "to inspect." The inspection/examination sense connects to the forensic verdict (nitsdaq) at the end of Dan 8:14.
 
 **H3117 yowm** (from the canonical library): 2,742 tokens across 39 books. The default word for "day" in Hebrew. Its absence from Dan 8:14 is a negative datum -- Daniel's deliberate avoidance of the standard term.
 

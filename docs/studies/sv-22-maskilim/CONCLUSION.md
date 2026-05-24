@@ -52,7 +52,7 @@ The biyn chain runs through Daniel 8-12 with 19 occurrences (H995-biyn.md). It b
 
 The chain immediately fails. Daniel 8:27: "I was astonished at the vision, but none understood it" (eyn mevin — Hiphil participle of biyn with negation). Gabriel's first attempt to fulfill his commission does not produce understanding.
 
-Gabriel returns in Daniel 9:22-23: "O Daniel, I am now come forth to give thee skill and understanding" (lehaskileka — Hiphil infinitive of sakal; biynah — noun from biyn). Both wisdom words appear together. Gabriel commands: "understand the matter, and consider the vision" (biyn, Hiphil imperative). The 70 weeks revelation follows, providing the starting point that unlocks the 2300 time element (sv-13, sv-14).
+Gabriel returns in Daniel 9:22-23: "O Daniel, I am now come forth to give thee skill and understanding" (lehaskileka — Hiphil infinitive of sakal; biynah — noun from biyn). Both wisdom words appear together. Gabriel commands: "understand the matter, and consider the vision" — biyn appears twice, first as Qal imperative (ubiyn, "understand the matter") and then as Hiphil imperative (haven, "consider the vision"). The 70 weeks revelation follows, providing the starting point that unlocks the 2300 time element (sv-13, sv-14).
 
 Daniel 10:1 records the resolution — for Daniel personally: "he understood the thing, and had understanding of the vision" (biyn, Qal perfect — completed action; biynah in the mar'eh). The chain reaches Daniel. He grasps the mar'eh.
 
@@ -96,7 +96,7 @@ Daniel 12:10 maps onto this binary precisely. The maskilim's purification (barar
 
 ### Zahar: the one verb that means both "warn" and "shine"
 
-The canonical word study for zahar (H2094-zahar.md) reveals what may be the most theologically loaded word in the maskilim portrait. Of 22 tokens across 19 verses, 18 verses use zahar to mean "warn, admonish, teach." Only Daniel 12:3 uses it to mean "shine."
+The canonical word study for zahar (H2094-zahar.md) reveals what may be the most theologically loaded word in the maskilim portrait. Of 29 total occurrences, 28 use zahar to mean "warn, admonish, teach." Only Daniel 12:3 uses it to mean "shine."
 
 The root means "to gleam." The warning sense developed from the metaphor of shedding light on danger — illuminating a threat so others can see it. The Ezekiel watchman passages are zahar's primary habitat: "Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me" (Eze 3:17). The watchman's function is to see danger and make it visible to others. That IS the maskilim's function.
 
@@ -124,7 +124,7 @@ Study 18 (sv-18) established the core link. Daniel 8:14 uses nitsdaq — the Nip
 
 Daniel 12:3 uses matsdiqey — the Hiphil participle construct of tsadaq. The Hiphil is causative: the maskilim CAUSE many to be righteous. Same root, complementary stems. The sanctuary receives vindication from God. The maskilim extend that vindication to people.
 
-The canonical word study for tsadaq (H6663-tsadaq.md) traces the root across its five stems: Qal (be righteous, 22 occurrences), Hiphil (justify/declare righteous, 12), Piel (5), Niphal (1 — Dan 8:14 alone), Hithpael (1). The Niphal's uniqueness makes it a marker: the sanctuary's vindication is a one-time, unparalleled event. The Hiphil's broader usage (12 occurrences) shows that causing others to be righteous is a recurring biblical action — one that the maskilim perform at the climax of history.
+The canonical word study for tsadaq (H6663-tsadaq.md) traces the root across its stems. The total count is 54 occurrences. The Niphal has exactly 1 occurrence (Dan 8:14 alone), confirmed by the parser. The Niphal's uniqueness makes it a marker: the sanctuary's vindication is a one-time, unparalleled event. The Hiphil's broader usage (12 occurrences) shows that causing others to be righteous is a recurring biblical action — one that the maskilim perform at the climax of history.
 
 The TR-tsadaq-dikaioo translation relationship shows that Greek dikaioo narrows the Hebrew's range. Paul's use of dikaioo shifts the emphasis toward God's gracious declaration over the ungodly (Rom 4:5). But the Hebrew Hiphil in Daniel 12:3 retains the active causative sense: the maskilim CAUSE many to become righteous. They are not declaring the already-righteous innocent. They are producing righteousness in others through teaching.
 
@@ -168,7 +168,7 @@ The following findings from the canonical word-study library shape the analysis 
 
 **sakal (H7919) vs. biyn (H995):** The WG-wise word group distinguishes sakal as "synthetic prudence" (seeing the whole picture and acting on it) from biyn as "analytical discernment" (separating truth from error). Daniel 12:10 uses both, making the maskilim people who see the big picture AND distinguish the details. The LXX maps both to syniemi (G4920), losing this distinction entirely (TR-sakal-syniemi.md, TR-biyn-syniemi.md).
 
-**zahar (H2094):** The newly generated library entry confirms that 18 of 19 verses use zahar for "warn/admonish/teach." Only Dan 12:3 renders it "shine." The root meaning "to gleam" generated the warning sense through the metaphor of illuminating danger. The maskilim's shining and their teaching are linguistically inseparable.
+**zahar (H2094):** The newly generated library entry confirms that 28 of 29 occurrences use zahar for "warn/admonish/teach." Only Dan 12:3 renders it "shine." The root meaning "to gleam" generated the warning sense through the metaphor of illuminating danger. The maskilim's shining and their teaching are linguistically inseparable.
 
 **tsadaq (H6663):** The five-stem distribution (H6663-tsadaq.md) shows the Niphal (nitsdaq, Dan 8:14) as the only passive occurrence in the OT — the sanctuary uniquely receives vindication. The Hiphil (matsdiqey, Dan 12:3) is causative — the maskilim cause many to be righteous. The TR-tsadaq-dikaioo relationship reveals that Greek dikaioo narrows the Hebrew range, with Paul shifting toward gracious declaration. The Hebrew Hiphil retains the active causative sense.
 
@@ -198,7 +198,7 @@ The maskilim are defined by five characteristics that emerge from the convergenc
 
 First, they come from among the people. The construct form maskiley am (Dan 11:33) places them within, not above, the covenant community. They are not an external elite imposed on God's people — they rise from within it.
 
-Second, they teach and produce understanding. Daniel 11:33 uses two Hiphil causative verbs: they both have insight (sakal) and cause understanding in others (biyn Hiphil). Daniel 12:3 describes this same function as shining (zahar, H2094 — the verb that means "warn/teach" in 18 of 19 occurrences) and turning many to righteousness (matsdiqey, Hiphil of tsadaq). Their brightness is not a separate reward. It is the radiance of their instructing ministry.
+Second, they teach and produce understanding. Daniel 11:33 uses two Hiphil causative verbs: they both have insight (sakal) and cause understanding in others (biyn Hiphil). Daniel 12:3 describes this same function as shining (zahar, H2094 — the verb that means "warn/teach" in 28 of 29 occurrences) and turning many to righteousness (matsdiqey, Hiphil of tsadaq). Their brightness is not a separate reward. It is the radiance of their instructing ministry.
 
 Third, they are formed by suffering. The purification triad (barar-laban-tsaraph) — appearing together ONLY in Dan 11:35 and 12:10 — marks their formation process as unique. The stem shift from external pressure (11:35) to internalized transformation (12:10) shows that historical persecution produces eschatological character. The maskilim understand because they have been refined, not because they are intellectually superior. This matches the broad biblical principle that understanding is morally conditioned (Pro 28:5, Hos 14:9, Psa 107:43) and the Day of Atonement pattern where character determines participation (Lev 16:29-31, 23:29-30).
 

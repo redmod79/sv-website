@@ -94,7 +94,7 @@ This is mathematical confirmation. When two independent calculations, starting f
 
 ### The Blessing on the 1335: A Unique Beatitude
 
-Daniel contains many time periods, but only one receives a blessing. The ashrey formula in Dan 12:12 — "Blessed is he that waiteth" — is borrowed from Wisdom literature. The canonical word study (H835-esher.md) shows that 60% of ashrey occurrences are in Psalms, 19% in Proverbs. It appears in beatitudes about Torah-keeping (Psa 1:1, 119:1-2), trusting God (Psa 2:12, 34:8), forgiveness (Psa 32:1-2), and proximity to God's sanctuary (Psa 84:4-5). In every case, the ashrey declares a state of blessedness for those who faithfully do something.
+Daniel contains many time periods, but only one receives a blessing. The ashrey formula in Dan 12:12 — "Blessed is he that waiteth" — is borrowed from Wisdom literature. The canonical word study (H835-esher.md) shows that ~62% of ashrey occurrences are in Psalms, ~18% in Proverbs (based on BLB count of 45 entries). It appears in beatitudes about Torah-keeping (Psa 1:1, 119:1-2), trusting God (Psa 2:12, 34:8), forgiveness (Psa 32:1-2), and proximity to God's sanctuary (Psa 84:4-5). In every case, the ashrey declares a state of blessedness for those who faithfully do something.
 
 Dan 12:12 transplants this formula into apocalyptic prophecy. The result is the only prophetic-eschatological beatitude in Daniel. No other time period — not the 1260, not the 1290, not even the 2300 — gets a blessing. Only the 1335.
 

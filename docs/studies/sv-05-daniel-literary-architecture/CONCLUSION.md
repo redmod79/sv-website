@@ -96,7 +96,7 @@ The tracking system drives the Dan 8-12 narrative:
 
 Note that the shift at 8:16 is not absolute. chazon still appears at 8:17 ("at the time of the end shall be the chazon"). The two terms do not disappear from each other's territory. But their referents differ consistently. Gabriel's commission, Daniel's failure to understand, Gabriel's resumption, and Daniel's resolution — all target the mar'eh, not the chazon. The narrative thread is carried by one word: mar'eh.
 
-The LXX erased this distinction. Both chazon and mar'eh are rendered horasis (G3706) in prophetic contexts (see TR-chazon-horasis.md, TR-mareh-opsis.md). Anyone reading the Septuagint alone could not see the two-track architecture. The Hebrew text preserves a literary structure that the Greek translation destroys.
+The LXX partially erased this distinction. chazon maps primarily to horasis (G3706), but mar'eh maps to both opsis (G3799) and horasis (G3706), with opsis carrying the stronger statistical association (PMI 7.63 vs. 6.40; see TR-chazon-horasis.md, TR-mareh-opsis.md). Anyone reading the Septuagint alone would lose much of the two-track architecture. The Hebrew text preserves a literary structure that the Greek translation largely obscures.
 
 This distinction is what makes Dan 8-12 one continuous narrative. If chazon and mar'eh were synonyms, Dan 9:23 ("consider the mar'eh") would have no special connection to Dan 8:16 ("make him understand the mar'eh"). It would just be "consider the vision" — generic. But because mar'eh is a technical term in Daniel for the specific time element within the broader chazon, the verbal link is precise. Gabriel's unfinished business from Dan 8 is the reason he returns in Dan 9. The word proves the continuity.
 

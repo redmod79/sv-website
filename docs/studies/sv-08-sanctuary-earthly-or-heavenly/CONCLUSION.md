@@ -42,15 +42,15 @@ Who is this Prince? The sar-tsaba construct chain appears in only two places in 
 
 The word mekon (H4349) does something specific in Dan 8:11. It tells the reader which kind of sanctuary is in view.
 
-The canonical word study (H4349-makon.md) shows 17 occurrences in 7 books. The root is kun (H3559) — "to be established, founded." Mekon means a fixed, founded, settled place. Not just any location — a place that has been deliberately established.
+The canonical word study (H4349-makon.md) shows 19 occurrences in 7 books. The root is kun (H3559) — "to be established, founded." Mekon means a fixed, founded, settled place. Not just any location — a place that has been deliberately established.
 
-Eight of those 17 occurrences cluster in Solomon's temple-dedication prayer (1 Ki 8; 2 Chr 6). In every instance, the phrase mekon shibteka ("the established place of thy dwelling") refers to heaven. Solomon prays toward the earthly temple. He asks God to hear "in heaven thy dwelling place [mekon]" (1 Ki 8:30,39,43,49). The word marks the difference between where the worshiper stands (earth, the temple) and where God actually dwells (heaven, the mekon).
+Eight of those 19 occurrences cluster in Solomon's temple-dedication prayer (1 Ki 8; 2 Chr 6). In every instance, the phrase mekon shibteka ("the established place of thy dwelling") refers to heaven. Solomon prays toward the earthly temple. He asks God to hear "in heaven thy dwelling place [mekon]" (1 Ki 8:30,39,43,49). The word marks the difference between where the worshiper stands (earth, the temple) and where God actually dwells (heaven, the mekon).
 
 Exodus 15:17 is equally important. It is the only other OT verse that pairs mekon and miqdash for the same referent: "the Sanctuary, O Lord, which thy hands have established." The sanctuary "which thy hands have established" is God's own dwelling — not a human construction. This is the programmatic template. When Daniel uses mekon in construct over miqdash in 8:11, he is reaching back to Exo 15:17 and the Solomon prayer tradition. He is placing the sanctuary in the heavenly-dwelling register.
 
 One complication exists: 1 Kings 8:13, where Solomon uses mekon for the earthly building ("a settled place for thee to abide in for ever"). But Solomon himself relativizes this two verses later: "Will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?" (1 Ki 8:27). In the very same chapter, mekon shifts from the earthly building to its consistent heavenly reference. The semantic center of gravity is clear.
 
-Psalms 89:14 and 97:2 add another dimension: "Righteousness and judgment are the habitation [mekon] of his throne." Mekon sits at the foundation of God's heavenly throne. It is linked to righteousness (tsedeq) and judgment (mishpat) — the same semantic field as the vindication (tsadaq) of the sanctuary in Dan 8:14. The mekon of the throne is the place where righteousness dwells. The mekon miqdash of Dan 8:11 is the sanctuary rooted in that same reality.
+Psalms 89:14 and 97:2 add another dimension: "Justice and judgment are the habitation [mekon] of thy throne" (89:14). "Clouds and darkness are round about him: righteousness and judgment are the habitation [mekon] of his throne" (97:2). Mekon sits at the foundation of God's heavenly throne. It is linked to righteousness (tsedeq) and judgment (mishpat) — the same semantic field as the vindication (tsadaq) of the sanctuary in Dan 8:14. The mekon of the throne is the place where righteousness dwells. The mekon miqdash of Dan 8:11 is the sanctuary rooted in that same reality.
 
 ### Daniel's Own Vocabulary Stratification
 
@@ -150,7 +150,7 @@ This is consistent with the nitsdaq verdict itself (sv-01). The Niphal of tsadaq
 
 ## Word Studies
 
-**mekon (H4349):** 17 occurrences, 8 in Solomon's prayer material where it consistently means God's heavenly dwelling. The word's root (kun, H3559) carries the sense of permanent, divine establishment. The Exo 15:17 pairing with miqdash provides the programmatic template for Dan 8:11. The LXX renders it katoiketerion — "dwelling-place" — preserving the permanence sense in Greek.
+**mekon (H4349):** 19 occurrences, 8 in Solomon's prayer material where it consistently means God's heavenly dwelling. The word's root (kun, H3559) carries the sense of permanent, divine establishment. The Exo 15:17 pairing with miqdash provides the programmatic template for Dan 8:11. The LXX renders it katoiketerion — "dwelling-place" — preserving the permanence sense in Greek.
 
 **heikal (H1965):** Daniel's Aramaic word for the earthly temple (Dan 5:2-3). Its absence from Dan 8:11 is as significant as mekon's presence. Daniel had the earthly-temple word and did not use it.
 

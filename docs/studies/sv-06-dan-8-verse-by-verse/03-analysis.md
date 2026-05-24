@@ -76,7 +76,7 @@ The trampling verb ramas (H7429) will return in v.13 as the result-state noun mi
 
 **Clause 1:** ve-ad sar-hatsava higdil — "and up to the Prince of the host he magnified [himself]." The Hiphil of gadal (H1431) without an explicit object is reflexive-intensive: the horn exalts itself. The construct chain sar-hatsava ("Prince of the host") identifies the target. sar (H8269) means prince, commander, ruler. This is a heavenly title. The host in v.10 was "the host of heaven" — so the Prince of the host is the ruler of that heavenly host. Gabriel decodes this as sar-sarim ("Prince of princes") in v.25. This is still active voice: the horn acts and is named as agent. This belongs to Zone A of the voice chiasm.
 
-**Clause 2:** u-mimmennu huram hattamid — "and from him was taken away the continual." Now the grammar shifts. huram is Hophal of rum (H7311) — a causative passive. The tamid (H8548) "was taken away." No agent is named. The preposition mimmennu ("from him," 3ms suffix) refers back to the Prince: the tamid was removed from the Prince's domain. sv-03 established that tamid is 100% positive across 104 OT occurrences, always describing God's worship system. Its removal is always negative.
+**Clause 2:** u-mimmennu huram hattamid — "and from him was taken away the continual." Now the grammar shifts. huram is Hophal of rum (H7311) — a causative passive. The tamid (H8548) "was taken away." No agent is named. The preposition mimmennu ("from him," 3ms suffix) refers back to the Prince: the tamid was removed from the Prince's domain. sv-03 established that tamid is 100% positive across 105 OT occurrences, always describing God's worship system. Its removal is always negative.
 
 **Clause 3:** ve-hushlak mekhon miqdasho — "and was cast down the established-place of his sanctuary." hushlak is Hophal of shalak (H7993) — another causative passive with agent suppressed. mekhon (H4349) means "established place, fixed dwelling." It occurs with God's heavenly or Zion-based dwelling in Exo 15:17, 1 Ki 8:13, Psa 89:15. The word never designates a pagan shrine or an ordinary house. It belongs to the divine-dwelling register.
 
@@ -155,7 +155,7 @@ The evening-then-morning order matches the creation-day formula of Genesis 1:5: 
 
 The tamid connection: the question (v.13) asks about ha-tamid. The answer counts in the tamid's own units. The morning and evening are the two daily offerings (Exo 29:38-42, Num 28:3-8). By using erev boqer as the unit of measurement, the text ties the duration directly to the service being attacked.
 
-**nitsdaq** (Niphal of tsadaq, H6663): This is the only Niphal of tsadaq in the entire OT. sv-01 established that tsadaq has 41 occurrences across five stems: Qal (22x), Hiphil (12x), Piel (5x), Hithpael (1x), and Niphal (1x — here). The Niphal is a receiving-passive: the sanctuary receives vindication. This is a judicial term. The Hebrew root tsadaq means "to be righteous, to be vindicated, to be declared right." The KJV translates nitsdaq as "cleansed," following the LXX (katharisthesetai) and Vulgate (mundabitur). But the Hebrew root is judicial, not ritual. taher (H2891) is the cleansing word. kaphar (H3722) is the atonement word. tsadaq is the vindication word.
+**nitsdaq** (Niphal of tsadaq, H6663): This is the only Niphal of tsadaq in the entire OT. sv-01 established that tsadaq has 54 occurrences (per Strong's concordance) across five stems: Qal (22x), Hiphil (12x), Piel (5x), Hithpael (1x), and Niphal (1x — here). The Niphal is a receiving-passive: the sanctuary receives vindication. This is a judicial term. The Hebrew root tsadaq means "to be righteous, to be vindicated, to be declared right." The KJV translates nitsdaq as "cleansed," following the LXX (katharisthesetai) and Vulgate (mundabitur). But the Hebrew root is judicial, not ritual. taher (H2891) is the cleansing word. kaphar (H3722) is the atonement word. tsadaq is the vindication word.
 
 The subject qodesh (H6944) is anarthrous but contextually definite from vv.11-13 — the same sanctuary that was attacked. Note the lexical shift: v.11 used miqdash (the spatial locus, the consecrated precinct). vv.13-14 use qodesh (the broader holiness-sphere). The scope enlarges at the verdict. What is vindicated is not just the physical place but the entire domain of holiness the horn attacked.
 
@@ -319,13 +319,13 @@ The trampling motif continues. The LXX maps ramas (Dan 8:13) → katapateo (Rev 
 
 The verb gadal (H1431) appears five times in Dan 8, building a deliberate escalation:
 
-- v.4: ram "became great" (gadal, Qal)
+- v.4: ram "became great" (higdil, Hiphil)
 - v.8: goat "magnified exceedingly" (higdil ad-meod, Hiphil)
 - v.9: horn "grew with surplus" (tigdal-yeter, Qal + adverb)
 - v.10: horn "grew up to the host of heaven" (tigdal ad, Qal + directional)
 - v.11: horn "magnified himself up to the Prince" (higdil, Hiphil reflexive)
 
-The progression moves from physical growth (vv.4,8) to moral pretension (vv.10-11). The horn exceeds both named empires. The final link (v.11) points upward: the self-magnification reaches the Prince of the host. v.25 restates this: "he shall magnify himself in his heart." Supported by: Dan 8:4, 8:8, 8:9, 8:10, 8:11, 8:25.
+The progression moves from physical growth (vv.4,8) to moral pretension (vv.10-11). The stem alternation is Hiphil-Hiphil-Qal-Qal-Hiphil: the ram and goat both use Hiphil intensive forms, the horn's initial growth shifts to Qal, then the horn's final self-exaltation returns to Hiphil reflexive. The horn exceeds both named empires. The final link (v.11) points upward: the self-magnification reaches the Prince of the host. v.25 restates this: "he shall magnify himself in his heart." Supported by: Dan 8:4, 8:8, 8:9, 8:10, 8:11, 8:25.
 
 ### Pattern 2: The Active-Passive-Active Voice Chiasm
 
@@ -392,7 +392,7 @@ The trampling motif (Dan 8:10,13) extends into Rev 11:2 and Luke 21:24 through t
 
 The self-exaltation of the horn (Dan 8:11, 25) finds its NT parallel in 2 Thess 2:4: the man of sin "exalteth himself above all that is called God." The vocabulary is strikingly similar: gadal/higdil in Daniel, hyperairomenos in Thessalonians. Both describe a power that claims divine prerogatives.
 
-The tsadaq root connects Dan 8:14 (nitsdaq) to Dan 9:24 (tsedeq olamim) and then to Rom 3:25-26 (dikaios kai dikaiou̱nta). The LXX maps tsadaq → dikaioo with a PMI of 26.99 — one of the tightest Hebrew-Greek mappings in Scripture. The vindication vocabulary travels intact from Daniel to Paul.
+The tsadaq root connects Dan 8:14 (nitsdaq) to Dan 9:24 (tsedeq olamim) and then to Rom 3:25-26 (dikaios kai dikaiou̱nta). The LXX maps tsadaq → dikaioo with a composite score of 26.99 (PMI 8.73) — one of the tightest Hebrew-Greek mappings in Scripture. The vindication vocabulary travels intact from Daniel to Paul.
 
 The stars bracket (Dan 8:10 → 12:3) and its NT extension (Rev 12:4) create a cast-down/restored arc. What the horn threw down, the maskilim lift up. The matsdiqey of Dan 12:3 (Hiphil of tsadaq) are the human agents who participate in the vindication announced in 8:14 (Niphal of tsadaq).
 

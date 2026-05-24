@@ -21,7 +21,7 @@
 **Direct statement:** "and by him the daily sacrifice was taken away, and the place of his sanctuary was cast down."
 **Original language:** huram (Hophal perfect 3ms of rum) — "was taken away." The Hophal is the causative passive: the tamid "was caused to be removed" but the agent is suppressed. hushlak (Hophal perfect 3ms of shalak) — "was cast down." Again, passive with agent suppressed. mekon miqdasho — "the place/foundation of HIS sanctuary." The 3ms suffix on miqdash points back to the Prince (sar-ha-tsaba), not the horn (qeren, feminine). This is the Prince's divinely established dwelling (sv-08).
 **Cross-references:** 1 Kings 8:39,43,49 — mekon as God's heavenly dwelling place. Heb 8:1-2 — Christ is "a minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man."
-**Relationship to other evidence:** The passive voice is the key. The grammar prevents the horn from directly touching the heavenly sanctuary. It can only obscure access from earth (sv-08). The tamid is "taken away" not by destruction of Christ's ministry (which is aparabaton, untransferable — Heb 7:24), but by hiding it behind a counterfeit. H8548 tamid is 100% positive across 104 OT uses (sv-03) — the thing being removed is entirely God's own system.
+**Relationship to other evidence:** The passive voice is the key. The grammar prevents the horn from directly touching the heavenly sanctuary. It can only obscure access from earth (sv-08). The tamid is "taken away" not by destruction of Christ's ministry (which is aparabaton, untransferable — Heb 7:24), but by hiding it behind a counterfeit. H8548 tamid is 100% positive across 105 OT uses (sv-03) — the thing being removed is entirely God's own system.
 
 ### Daniel 8:12
 **Context:** The most complex verse in the passage. Four clauses, a voice transition from passive to active, and a divine passive at its center.
@@ -357,7 +357,7 @@ Pesha (covenant rebellion) is the mechanism of divine permission. Dan 8:12 — t
 
 The canonical word studies provide the linguistic foundation for the analysis:
 
-**H8548 tamid** — 100% positive across 104 uses. This eliminates any reading that treats the tamid's removal as removing something pagan or negative. The tamid is always God's own worship system. Its removal is always a loss.
+**H8548 tamid** — 100% positive across 105 uses. This eliminates any reading that treats the tamid's removal as removing something pagan or negative. The tamid is always God's own worship system. Its removal is always a loss.
 
 **A8133 shna** — The Haphel stem means "cause to change." But the participle (Dan 2:21) encodes ongoing reality; the infinitive after "think" (Dan 7:25) encodes mere intention. The word study confirms the grammatical distinction: participle = characteristic action; infinitive = purpose/intention. The same verb in the same stem can carry opposite force depending on its syntactic context.
 

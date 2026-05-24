@@ -90,7 +90,7 @@ The Greek says "his right hand" (*ten dexian*). Dan 12:7 says the figure raised 
 
 **Original language:** *Omosen* (V-AAI-3S) — aorist active of *omnyo* (G3660). The oath is a completed, decisive act. The formula *en to zonti eis tous aionas ton aionon* ("by the one living unto the ages of the ages") directly mirrors Dan 12:7's *be-chey ha-olam* ("by the living one of eternity"). Same verb category (omnyo/shaba), same prepositional structure, same substantival participle identifying the eternal God.
 
-*Chronos* (G5550) — anarthrous (no article), making it qualitative: "time" as a category, not "the time." *Ouketi* — "no longer," which presupposes that this category previously existed. *Estai* — future tense: the termination is declared as something that WILL happen, not something that has already happened.
+*Chronos* (G5550) — anarthrous (no article), making it qualitative: "time" as a category, not "the time." *Ouketi* — "no longer," which presupposes that this category previously existed. *Estai* (V-FDI-3S) — future middle (deponent) indicative of *eimi* (G1510); the middle form carries active meaning, as *eimi* is deponent in the future. The termination is declared as something that WILL happen, not something that has already happened.
 
 From the canonical word study on G5550: every Revelation use of *chronos* denotes a measured duration or allotted span. Rev 2:21 — space to repent. Rev 6:11 — a little season. Rev 20:3 — a little season. The pattern: *chronos* = an allotted time period. "Chronos shall be no longer" = allotted time periods will cease.
 

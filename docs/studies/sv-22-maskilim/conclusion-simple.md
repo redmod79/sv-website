@@ -69,7 +69,7 @@ Daniel 12:3 gives one of the Bible's most memorable descriptions:
 
 > "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever." — Daniel 12:3
 
-The Hebrew word for "shine" here is *zahar*. Across the entire Old Testament, *zahar* appears in 22 places. In 18 of those, it means "warn, admonish, teach." Only here, in Daniel 12:3, is it translated "shine." The root meaning is "to gleam" — and the warning sense developed from the idea of illuminating a danger so others can see it. Ezekiel's watchman passages are its primary home: the watchman sees the threat and makes it visible to the city.
+The Hebrew word for "shine" here is *zahar*. Across the entire Old Testament, *zahar* appears 29 times. In 28 of those, it means "warn, admonish, teach." Only here, in Daniel 12:3, is it translated "shine." The root meaning is "to gleam" — and the warning sense developed from the idea of illuminating a danger so others can see it. Ezekiel's watchman passages are its primary home: the watchman sees the threat and makes it visible to the city.
 
 That is exactly what the maskilim do. Their shining is not a separate reward they receive after their work is done. It is the radiance of their teaching function itself. The one who warns is the one who shines. The Hebrew word refuses to separate the two.
 

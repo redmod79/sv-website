@@ -18,8 +18,8 @@
 
 ### Daniel 8:17
 **Context:** Gabriel approaches Daniel, who falls on his face in fear.
-**Direct statement:** "Understand, O son of man: for at the time of the end shall be the vision." Gabriel's first word to Daniel is biyn (Qal.Impv.2ms) — "understand!"
-**Original language:** The Qal imperative addresses Daniel directly — understand for yourself. The phrase le-'eth-qets ha-chazon anchors the chazon to the eschatological end, not Daniel's near future.
+**Direct statement:** "Understand, O son of man: for at the time of the end shall be the vision." Gabriel's first word to Daniel is biyn (Hiphil.Impv.2ms) — "understand!"
+**Original language:** The Hiphil imperative addresses Daniel directly — the same causative form used in 8:16 and 10:11. The phrase le-'eth-qets ha-chazon anchors the chazon to the eschatological end, not Daniel's near future.
 **Relationship to other evidence:** This is the first hint that full understanding may be beyond Daniel's lifetime. The chazon extends to 'eth qets — a period Daniel will not live to see.
 
 ### Daniel 8:26-27
@@ -38,7 +38,7 @@
 ### Daniel 9:20-23
 **Context:** Daniel is praying and confessing sin for his nation. Gabriel returns.
 **Direct statement:** "I am now come forth to give thee skill and understanding" (9:22). "Therefore understand the matter, and consider the vision" (9:23).
-**Original language:** 9:22 uses vayyaskileni (Hiphil.Wayq.3ms of sakal) — "he caused me to understand" — and biynah (noun). Gabriel came specifically to deliver understanding. 9:23 uses the dual imperative: biyn (Qal.Impv.2ms) + haven (Hiphil.Impv.2ms) — "understand the word AND gain insight into the mar'eh." The grammar reference (dan-9-22-23.md) confirms: both the dabar and the mar'eh are objects of understanding.
+**Original language:** 9:22 uses lehaskiylekha (Hiphil.InfCon + 2ms suffix of sakal) — "to give thee skill" — and biynah (noun). The wayyiqtol verb in this verse (vayyaven) is from biyn, not sakal. Gabriel came specifically to deliver understanding. 9:23 uses the dual imperative: biyn (Qal.Impv.2ms) + haven (Hiphil.Impv.2ms) — "understand the word AND gain insight into the mar'eh." The grammar reference (dan-9-22-23.md) confirms: both the dabar and the mar'eh are objects of understanding.
 **Cross-references:** The chamudoth address first appears here (9:23): "thou art greatly beloved." This is the first of three times Daniel hears this address. sv-12 traced the six lines connecting this return to 8:27.
 **Relationship to other evidence:** Gabriel resumes the mission from 8:16. The commission was to make Daniel understand the mar'eh. Now he adds the 70-week revelation, which provides the starting point the mar'eh lacked. But does Daniel actually understand yet? Not until 10:1.
 
@@ -108,7 +108,7 @@
 ### Daniel 10:18-19
 **Context:** The third touch and the third chamudoth address.
 **Direct statement:** "One like the appearance of a man... strengthened me, And said, O man greatly beloved, fear not: peace be unto thee, be strong, yea, be strong."
-**Original language:** vayechazqeni (Piel.Perf.3ms of chazaq) — "he strengthened me." Then the double imperative: chazaq chazaq — "be strong, be strong!" The repetition signals urgency and affection. shalom lekha = "peace to you." hitchazaqti (Hithpael.Perf.1s) — "I was strengthened / I strengthened myself" — the reflexive shows Daniel receiving and internalizing the strength.
+**Original language:** vayechazqeni (Piel.Wayq.3ms of chazaq) — "he strengthened me." Then the double imperative: chazaq chazaq — "be strong, be strong!" The repetition signals urgency and affection. shalom lekha = "peace to you." hitchazaqti (Hithpael.Perf.1s) — "I was strengthened / I strengthened myself" — the reflexive shows Daniel receiving and internalizing the strength.
 **Cross-references:** Deu 31:6 — "Be strong and of a good courage" — God's charge to Israel before entering the promised land. Same verb chazaq. The pastoral tone is unmistakable.
 **Relationship to other evidence:** The triple pattern is now complete: three touches (10:10, 10:16, 10:18), three chamudoth addresses (9:23, 10:11, 10:19), three "fear not" moments (10:12, 10:19 x2). Heaven did not just dump information on Daniel. It progressively strengthened him to bear it. This is pastoral care at the structural level.
 
@@ -184,7 +184,7 @@
 ### Daniel 12:11
 **Context:** Two additional time periods, given after Daniel's question and the sealing response.
 **Direct statement:** "And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days."
-**Original language:** husar ha-tamid (Hophal.InfCon of sur — "the removal of the tamid") — passive: the tamid is removed (by whom? Agent suppressed). ve-latheth shiqquts meshomem = "and to set up the abomination of desolation." 1,290 yamim — note: Daniel uses yamim (days) here, the standard unit. He did NOT use yamim in 8:14, where he chose erev boqer instead. This confirms the erev boqer in 8:14 was a deliberate encoding choice, not a language limitation (sv-10).
+**Original language:** husar ha-tamid (Hophal.Perf.3ms of sur — "the tamid was removed") — passive: the tamid is removed (by whom? Agent suppressed). ve-latheth shiqquts meshomem = "and to set up the abomination of desolation." 1,290 yamim — note: Daniel uses yamim (days) here, the standard unit. He did NOT use yamim in 8:14, where he chose erev boqer instead. This confirms the erev boqer in 8:14 was a deliberate encoding choice, not a language limitation (sv-10).
 **Cross-references:** Dan 8:11 — the tamid is taken away (same verb sur in different stem). Dan 11:31 — "they shall take away the daily sacrifice, and they shall place the abomination that maketh desolate." Same language, same sequence. sv-03 traced the tamid's role in the daily-to-annual system.
 **Relationship to other evidence:** The 1290 extends 30 days beyond the 1260 baseline. Counted from AD 508 (if using the traditional Clovis/papal ascendancy reckoning), it reaches 1798. Counted from the tamid's removal, +1290 yields a date 30 years beyond the 1260's endpoint. sv-15 placed this at 1828.
 
@@ -264,7 +264,7 @@ Second, the English "I understood not" (12:8) and "none understood" (8:27) look 
 
 Third, the matsdiqey-nitsdaq connection (canonical H6663 study) links 12:3 and 8:14 through the tsadaq root. nitsdaq (Niphal — the sanctuary receives vindication) and matsdiqey (Hiphil — the maskilim cause many to be righteous) are complementary stems of the same root. The English obscures this: "cleansed" (8:14 KJV) and "turn to righteousness" (12:3 KJV) do not look related. In Hebrew, they share a root and work together: God vindicates the sanctuary; the maskilim bring people into that vindication.
 
-Fourth, the purification triad (barar + laban + tsaraph) appears in both 11:35 and 12:10, but with shifted stems. 11:35 uses active/Piel forms (the maskilim are refined by external forces). 12:10 uses Hithpael/Niphal (reflexive/passive — the "many" purify themselves and are refined). The shift from passive suffering to active self-purification suggests growth: those refined by persecution become agents of their own ongoing purification.
+Fourth, the purification triad (barar + laban + tsaraph) appears in both 11:35 and 12:10, but with shifted stems. 11:35 uses active stems (Qal/Piel/Hiphil — tsaraph is Qal.InfCon, barar is Piel.InfCon, laban is Hiphil.InfCon) — external forces refine the maskilim. 12:10 uses Hithpael/Niphal (reflexive/passive — the "many" purify themselves and are refined). The shift from passive suffering to active self-purification suggests growth: those refined by persecution become agents of their own ongoing purification.
 
 Fifth, the LXX flattens the biyn/sakal distinction. Both Hebrew verbs map to syniemi in Greek (canonical TR-biyn-syniemi and TR-sakal-syniemi). A Greek reader of Dan 12:10 cannot distinguish between the biyn chain and the maskilim identity. In Hebrew, 12:10 deliberately uses BOTH: maskilim (sakal) yavinu (biyn). The wise act with practical wisdom AND discern/comprehend. The two words together are richer than either alone.
 

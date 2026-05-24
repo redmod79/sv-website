@@ -134,7 +134,7 @@
 #### Hebrews 9:24-28
 **Context:** The climax of the Hebrews 9 argument: what Christ's entrance into heaven means.
 **Direct statement:** "Christ is not entered into the holy places made with hands... but into heaven itself, now to appear in the presence of God for us" (v.24). "Nor yet that he should offer himself often" (v.25). "But now once in the end of the world hath he appeared to put away sin by the sacrifice of himself" (v.26). "Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation" (v.28).
-**Original language:** v.26: hapax (G530) modifies "appeared" — the appearing for sacrifice is once. v.28: hapax again modifies "offered" — the offering is once. Neither hapax modifies subsequent ministry. v.24: emphanisthenai ("to appear") = Aorist Passive Infinitive — the purpose of Christ's entrance is to appear before God "for us." This is present, ongoing representation.
+**Original language:** v.26: hapax (G530) modifies "appeared" — the appearing for sacrifice is once. v.28: hapax modifies prosenechtheis (Aorist Passive Participle of prosphero, "having been offered") — the offering is once. The Passive voice ("was offered") contrasts with the Active form in 10:12 (prosenenkas, "having offered"), though both describe the same once-for-all sacrifice. Neither hapax modifies subsequent ministry. v.24: emphanisthenai ("to appear") = Aorist Passive Infinitive — the purpose of Christ's entrance is to appear before God "for us." This is present, ongoing representation.
 **Cross-references:** v.28 introduces a "second time" appearing — future, without sin, unto salvation. This three-part sequence (first appearing for sacrifice, ongoing presence before God, second appearing for salvation) maps directly to the three-phase model: ground, application, declaration/consummation.
 **Relationship to other evidence:** Hebrews 9:24-28 is internally three-phased. The author distinguishes: (1) the once-for-all sacrifice (v.26, 28a), (2) the ongoing appearance before God "for us" (v.24), and (3) the future appearing for final salvation (v.28b). These are not the same event.
 
@@ -287,7 +287,7 @@
 #### 2 Corinthians 5:18-21
 **Context:** Paul's teaching on the ministry of reconciliation.
 **Direct statement:** "God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation" (v.19).
-**Original language:** katallaxantos (Aorist Active Participle) = "having reconciled" — completed action at the cross. But "hath committed unto us the ministry of reconciliation" is ongoing. The ground (reconciliation accomplished) is past; the ministry (proclaiming reconciliation) continues.
+**Original language:** In v.18, katallaxantos (Aorist Active Participle) = "having reconciled" — completed action at the cross. In v.19, katallassonn (Present Active Participle) = "reconciling" — describing God's ongoing reconciling work in Christ. "Hath committed unto us the ministry of reconciliation" is also ongoing. The ground (reconciliation accomplished, v.18 Aorist) is past; the reconciling work and its proclamation (v.19 Present) continue.
 **Cross-references:** Col 1:20-22 makes the same distinction: peace made "through the blood of his cross" (past) leads to presenting believers "holy and unblameable" (future goal).
 **Relationship to other evidence:** Reconciliation has a ground (the cross) and an application (the ongoing ministry). Paul distinguishes both in the same passage. The cross made reconciliation possible; the ministry makes it actual in individual lives.
 
@@ -488,7 +488,7 @@ Resolution: The question assumes the type must match the antitype in temporal pr
 ### Hebrews 9:12 — "Having obtained eternal redemption"
 If Christ "obtained eternal redemption" at the entrance, is the redemption already complete? Does this leave room for a future judgment phase?
 
-Resolution: The Perfect participle "having obtained" (heuramenos, Aorist Middle) means the redemption was secured at the entrance. But "obtained" means made available, not exhaustively applied. A ransom can be paid (obtained) before all captives are released. The redemption is real and complete as a secured provision; its application to individuals unfolds over time through confession (1 Jn 1:9) and intercession (Heb 7:25). The judgment phase declares what the redemption accomplished in the lives of specific people.
+Resolution: The participle "having obtained" (heuramenos, 2nd Aorist Middle Participle of heurisko, G2147, lit. "having found for himself"; KJV renders "having obtained") means the redemption was secured at the entrance. But "obtained" means made available, not exhaustively applied. A ransom can be paid (obtained) before all captives are released. The redemption is real and complete as a secured provision; its application to individuals unfolds over time through confession (1 Jn 1:9) and intercession (Heb 7:25). The judgment phase declares what the redemption accomplished in the lives of specific people.
 
 ---
 

@@ -63,7 +63,7 @@
 ### Daniel 8:17
 **Context:** Gabriel arrives and Daniel falls on his face in fear.
 **Direct statement:** "Understand, O son of man: for at the time of the end shall be the vision."
-**Original language:** biyn (Qal imperative) — "understand!" Plus the temporal marker: le-eth-qets he-chazon — the chazon is "for the time of the end." This is the first of three ki-clauses placing the vision in eschatological time.
+**Original language:** biyn (Hiphil imperative) — "understand!" Plus the temporal marker: le-eth-qets he-chazon — the chazon is "for the time of the end." This is the first of three ki-clauses placing the vision in eschatological time.
 **Relationship to other evidence:** The phrase "time of the end" (eth qets) appears here and in the sealing commands (12:4, 12:9) with the preposition ad ("until"). The sealing has a built-in expiration tied to this same temporal marker — confirming the temporal unsealing mechanism.
 
 ### Daniel 8:20-25

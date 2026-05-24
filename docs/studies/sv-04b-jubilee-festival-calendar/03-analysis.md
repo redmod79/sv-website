@@ -184,7 +184,7 @@ The word study confirms the sacrificial acceptance usage (Lev 1:3, lirtsono). Wh
 The word study confirms the Hiphil distribution: 13% of 690 tokens. The Hiphil of avar meaning "cause to pass" appears in both Lev 25:9 (trumpet) and Zech 3:4 (iniquity). The bridge is textually verified.
 
 ### Kaphar (H3722)
-With 102 occurrences, 67 in Leviticus (Piel dominant at 90%), kaphar is the sanctuary word. The DOA formula is kaphar + taher. The daily formula is kaphar + salach. The distinction is absolute (sv-03). The Jubilee follows the kaphar+taher result — liberty after cleansing.
+With 130 occurrences, 67 in Leviticus (Piel dominant at 90%), kaphar is the sanctuary word. The DOA formula is kaphar + taher. The daily formula is kaphar + salach. The distinction is absolute (sv-03). The Jubilee follows the kaphar+taher result — liberty after cleansing.
 
 ### Yeshuah (H3444)
 The word study reveals that the LXX renders yeshuah as dikaiosyne (righteousness) 8 times in prophetic contexts. The translators recognized that in Isaiah's vocabulary, salvation and righteousness overlap. Isa 61:10 pairs bigdey yesha with meil tsedaqah — garments of salvation with robe of righteousness — as near-synonyms, confirming what the LXX data shows.

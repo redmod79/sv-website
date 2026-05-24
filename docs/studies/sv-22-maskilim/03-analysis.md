@@ -35,7 +35,7 @@
 **Direct statement:** "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days."
 **Original language:** The Hebrew parsing confirms: maskiley (Hiphil participle construct of sakal H7919) + am (people) = "those-with-insight-of the people." This construct form means the maskilim come FROM the people, not as an external class imposed on them. yavinu (Hiphil imperfect of biyn H995) = "they shall cause to understand." Two different wisdom verbs, both in the Hiphil (causative) stem. The maskilim both possess insight (sakal) and produce understanding in others (biyn Hiphil). Their four-fold persecution (sword, flame, captivity, spoil) echoes the four modes of suffering in Heb 11:33-38. "Many days" (yamim) signals a long duration.
 **Cross-references:** The teaching function parallels Isa 53:11, where the Servant "by his knowledge shall justify many." Both the Servant and the maskilim act on "the many" (rabbim). The Ezekiel watchman passages (3:17-21; 33:3-9) describe the same warning function using zahar (H2094) — the root that means "shine" in Dan 12:3.
-**Relationship to other evidence:** This is the first maskilim passage. It establishes their identity: they come from among the people, they teach, and they suffer for it. The Hiphil of biyn here reappears in Dan 12:10, completing the biyn chain.
+**Relationship to other evidence:** This is the first maskilim passage. It establishes their identity: they come from among the people, they teach, and they suffer for it. The Hiphil of biyn here shifts to Qal in Dan 12:10 (ha-maskilim yavinu, Qal imperfect) — in 11:33 the maskilim cause understanding in others (Hiphil causative), while in 12:10 they themselves understand (Qal simple active), completing the biyn chain.
 
 ### Daniel 11:34
 **Context:** Partial relief comes during the maskilim's persecution, but not all who join are genuine.
@@ -159,7 +159,7 @@
 ### Daniel 9:22-23
 **Context:** Gabriel returns to give Daniel "skill and understanding."
 **Direct statement:** "O Daniel, I am now come forth to give thee skill and understanding." (9:22) "Understand the matter, and consider the vision." (9:23)
-**Original language:** lehaskileka (Hiphil infinitive of sakal) + biynah (noun from biyn) in 9:22 — BOTH wisdom words appear together, as they will in 12:10. biyn (Hiphil imperative) in 9:23 — Gabriel commands Daniel to understand, echoing the divine command of 8:16.
+**Original language:** lehaskileka (Hiphil infinitive of sakal) + biynah (noun from biyn) in 9:22 — BOTH wisdom words appear together, as they will in 12:10. biyn appears twice in 9:23 — first as Qal imperative (ubiyn, "understand the matter") and then as Hiphil imperative (haven, "consider the vision"), echoing the divine command of 8:16.
 **Cross-references:** The 70 weeks revelation that follows (Dan 9:24-27) provides the starting point that unseals the 2300 time element (sv-13, sv-14).
 **Relationship to other evidence:** Gabriel's explicit pairing of sakal and biyn foreshadows Dan 12:10 where the maskilim (sakal) shall understand (biyn). What Gabriel gives Daniel personally is what the maskilim receive eschatologically.
 
@@ -306,7 +306,7 @@
 ### Hosea 14:9
 **Context:** Hosea's closing wisdom appeal.
 **Direct statement:** "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein."
-**Original language:** chakam (wise) + yavinu (Qal imperfect of biyn) + naval (prudent) — the same wisdom vocabulary cluster. "The just shall walk" / "transgressors shall fall" — the same binary. The "ways of the LORD are right" (yesharim) — the righteous can walk in them; the transgressors stumble on them.
+**Original language:** chakam (wise) + yavinu (Qal imperfect of biyn) + navon (Niphal participle of biyn, "prudent" — not a separate vocabulary word but biyn itself in a different stem) — the same wisdom vocabulary cluster. "The just shall walk" / "transgressors shall fall" — the same binary. The "ways of the LORD are right" (yesharim) — the righteous can walk in them; the transgressors stumble on them.
 **Cross-references:** Dan 12:10 uses yavinu (same form) for both the wicked's failure and the maskilim's success.
 **Relationship to other evidence:** Hosea confirms the pattern: the same truth that enlightens the wise destroys the wicked. The maskilim's understanding is not neutral information — it is a dividing line.
 

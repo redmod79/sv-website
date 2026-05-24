@@ -115,7 +115,7 @@
 ### Hebrews 6:18-19 — Hope as Anchor Within the Veil
 **Context:** The climax of the hope-and-promise argument. The transition point into sanctuary theology.
 **Direct statement:** "We might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us: Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil."
-**Original language:** eiserchmenen (present middle/passive participle of eiserchomai, "entering") — the hope is personified as actively entering the interior space. to esoteron tou katapetasmatos — "the interior of the veil." esoteron (G2082, comparative: "more inner") is substantivized by the article. The genitive tou katapetasmatos specifies what the inner space is relative to (G2082 word study, canonical; grammar reference on Greek comparative adjective).
+**Original language:** eiserchomenen (present middle/passive participle of eiserchomai, "entering") — the hope is personified as actively entering the interior space. to esoteron tou katapetasmatos — "the interior of the veil." esoteron (G2082, comparative: "more inner") is substantivized by the article. The genitive tou katapetasmatos specifies what the inner space is relative to (G2082 word study, canonical; grammar reference on Greek comparative adjective).
 **Critical question — which veil?** The comparative form of esoteros does not automatically mean "innermost of two compartments." It designates the interior relative to the veil named. Since katapetasma in Greek covers both the inner and outer curtain (G2665 word study: LXX maps both H6532 poreketh and H4539 macak to katapetasma), the grammar alone does not resolve the question. But the OT background tips the scales: every Levitical "within the veil" (mibbeyth lapparoketh) means inside the MHP (Lev 16:2,12,15). The Hebrews author is using sanctuary language his readers would recognize.
 **Cross-references:** Heb 9:3 ("the second katapetasma") shows the author knew the ambiguity. He did not add a qualifier here, which may mean he trusted the phrase's OT resonance to convey MHP.
 **Relationship to other evidence:** The anchor metaphor is unique (G45 word study). Hope lodges in the heavenly sanctuary as an anchor lodges in the seabed. The believers' security is anchored in the place where Christ ministers.
@@ -240,7 +240,7 @@
 ### Hebrews 9:24 — Into Heaven Itself
 **Context:** The author's most direct statement about WHERE Christ went.
 **Direct statement:** "Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us."
-**Original language:** eis auton ton ouranon — "into heaven itself." emphanisthenai to prosopo tou theou — "to appear before the face of God" (G4314 word study). antitypa ton alethinon — the earthly sanctuary is the "copy" (antitypos) of the "true" (alethinos).
+**Original language:** eis auton ton ouranon — "into heaven itself." emphanisthenai to prosopo tou theou — "to appear before the face of God" (G4383 word study). antitypa ton alethinon — the earthly sanctuary is the "copy" (antitypos) of the "true" (alethinos).
 **Cross-references:** Heb 8:2 ("the true tabernacle"); Heb 8:5 ("shadow of heavenly things").
 **Relationship to other evidence:** The author equates Christ's destination with "heaven itself" and "God's presence" — not a specific compartment but the divine presence. This favors reading ta hagia in 9:12 as the whole heavenly sanctuary rather than one compartment.
 

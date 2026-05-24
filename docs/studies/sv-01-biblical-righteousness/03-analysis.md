@@ -39,7 +39,7 @@
 
 ### Deuteronomy 25:1 — The Courtroom Model
 **Context:** Civil law instructions for resolving disputes between men.
-**Direct statement:** "When there is a lawsuit between men, and they come unto judgment, then they shall judge them; then they shall justify the righteous, and condemn the wicked."
+**Direct statement:** "If there be a controversy between men, and they come unto judgment, that [the judges] may judge them; then they shall justify the righteous, and condemn the wicked."
 **Original language:** Five key courtroom words converge in one verse: riyb (H7379, lawsuit), mishpat (H4941, judgment), shaphat (H8199, to judge), Hiphil of tsadaq (H6663, to declare righteous/acquit), Hiphil of rasha (H7561, to declare wicked/condemn). Both tsadaq and rasha appear in Hiphil — making both declarative. The court does not make someone righteous or wicked; it declares what they already are.
 **Cross-references:** This judicial model carries directly into the NT through dikaioo (G1344), whose Louw-Nida domain is 56.005 — Courts: Judge, Condemn, Acquit. Rom 8:33-34 uses the same courtroom structure: "Who shall lay anything to the charge? God that justifieth. Who condemns?"
 **Relationship to other evidence:** This is the clearest forensic text. The Hiphil verb pair (justify/condemn) is a courtroom verdict. When Paul says God "justifies," he is using this judicial vocabulary.
@@ -61,7 +61,7 @@
 ### Psalm 103:17-18 — Covenant Righteousness
 **Context:** David praising God's merciful character.
 **Direct statement:** "The mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness (tsedaqah) unto children's children; to such as keep his covenant."
-**Original language:** checed (H2617, covenant loyalty) + tsedaqah (H6666) — the relational vocabulary pair. From the canonical word study (H2617-checed.md), checed appears 241 times and is central to the relational dimension of righteousness. Here, God's covenant loyalty and His righteousness run together and are directed toward those who keep His covenant.
+**Original language:** checed (H2617, covenant loyalty) + tsedaqah (H6666) — the relational vocabulary pair. From the canonical word study (H2617-checed.md), checed appears 255 times and is central to the relational dimension of righteousness. Here, God's covenant loyalty and His righteousness run together and are directed toward those who keep His covenant.
 **Cross-references:** Mic 6:8 asks for checed alongside mishpat. Hos 6:6 says God desires checed, not sacrifice.
 **Relationship to other evidence:** Righteousness is covenant-shaped. God's tsedaqah flows to those within the covenant who respond with faithful obedience. The relational dimension.
 
@@ -299,7 +299,7 @@
 ### 1 Corinthians 6:11 — Washed, Sanctified, Justified
 **Context:** Paul reminding the Corinthians of their transformation.
 **Direct statement:** "But ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God."
-**Original language:** Three aorist passive verbs: apelousasthe (washed), hegiasthete (sanctified), edikaioothete (justified — G1344, aorist passive). All three are divine passives. The order — washed, sanctified, justified — may be liturgical or experiential rather than strictly logical.
+**Original language:** Three aorist verbs (one middle, two passive): apelousasthe (washed — aorist middle), hegiasthete (sanctified), edikaioothete (justified — G1344, aorist passive). All three are divine passives. The order — washed, sanctified, justified — may be liturgical or experiential rather than strictly logical.
 **Cross-references:** Tit 3:5-7 — "washing of regeneration... being justified by his grace." Rev 7:14 — "washed their robes."
 **Relationship to other evidence:** Justification appears alongside washing and sanctification as aspects of the same conversion experience. The three dimensions operate together: cleansing (relational restoration), sanctification (character transformation), justification (forensic verdict).
 
@@ -334,7 +334,7 @@
 ### Titus 2:11-12 — Grace Teaching Righteous Living
 **Context:** Paul instructing Titus on sound doctrine.
 **Direct statement:** "The grace of God that bringeth salvation hath appeared to all men, teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world."
-**Original language:** dikaios (G1346, the adverb — "righteously"). Grace does not just pardon; it teaches righteous living. The character dimension: grace produces conduct.
+**Original language:** dikaiōs (G1346, the adverb — "righteously"). Grace does not just pardon; it teaches righteous living. The character dimension: grace produces conduct.
 **Cross-references:** Rom 6:1-2 — "Shall we continue in sin, that grace may abound? God forbid." Rom 8:4 — righteousness of the law fulfilled in us.
 **Relationship to other evidence:** Grace and righteous conduct are not opposed. Grace is the teacher that produces soberly, righteously, and godly living. The forensic gift (salvation) leads to the character result (righteous living).
 
@@ -419,7 +419,7 @@
 
 The Hebrew and Greek word studies reveal connections that English translation obscures.
 
-**The tsadaq root family (530+ OT occurrences)** functions as a single semantic domain. tsaddiyq (adjective, 210x) describes the righteous person. tsedaqah (noun, 165x) names the quality or act of righteousness. tsedeq (noun, 119x) names the abstract standard. tsadaq (verb, 41x) expresses the action of being righteous or being declared righteous. The verb's five stems encode different dimensions:
+**The tsadaq root family (548+ OT occurrences)** functions as a single semantic domain. tsaddiyq (adjective, 210x) describes the righteous person. tsedaqah (noun, 165x) names the quality or act of righteousness. tsedeq (noun, 119x) names the abstract standard. tsadaq (verb, 54x) expresses the action of being righteous or being declared righteous. The verb's five stems encode different dimensions:
 
 - **Qal** (22x): to BE righteous — the state. "Shall mortal man be more just than God?" (Job 4:17)
 - **Hiphil** (12x): to DECLARE righteous — the verdict. Deu 25:1, Isa 53:11, Exo 23:7.
@@ -429,7 +429,7 @@ The Hebrew and Greek word studies reveal connections that English translation ob
 
 The Niphal of Dan 8:14 is deliberately unique. The grammar reference (stem-niphal.md) classifies it as simple passive — the sanctuary does not vindicate itself but receives vindication from an external judge. This single occurrence carries the weight of the entire series.
 
-**The Greek dik- family (234+ NT occurrences)** maps tightly to the tsadaq family through the LXX. tsaddiyq → dikaios with PMI 32.40. tsedaqah → dikaiosyne with 129 co-occurrences. tsadaq → dikaioo with PMI 26.99. The translation relationship study (TR-tsadaq-dikaioo.md) confirms this is one of the tightest Hebrew-Greek mappings in the entire LXX. When Paul writes dikaioo, he uses the very word the LXX translators chose for tsadaq.
+**The Greek dik- family (234+ NT occurrences)** maps tightly to the tsadaq family through the LXX. tsaddiyq → dikaios with a score of 32.40 (PMI 6.22). tsedaqah → dikaiosyne with 129 co-occurrences. tsadaq → dikaioo with a score of 26.99 (PMI 8.73). The translation relationship study (TR-tsadaq-dikaioo.md) confirms this is one of the tightest Hebrew-Greek mappings in the entire LXX. When Paul writes dikaioo, he uses the very word the LXX translators chose for tsadaq.
 
 English translation hides a key distinction: **dikaioma vs. dikaiosyne.** Both are translated "righteousness" in some contexts, but dikaioma (G1345) means a concrete righteous act, requirement, or regulation, while dikaiosyne (G1343) means the abstract quality or state. Rev 19:8 uses dikaiomata (plural) — righteous deeds — not dikaiosyne. The wedding garment is made of actual deeds, not abstract status. But Luk 1:6 uses dikaiomata for "ordinances" — the regulations Zacharias and Elisabeth walked in. The word carries both senses: the righteous requirement AND the righteous deed done in response.
 
@@ -437,7 +437,7 @@ English translation hides a key distinction: **dikaioma vs. dikaiosyne.** Both a
 
 **The antonym pair** tsaddiyq/rasha (81 co-occurrences) and its verbal equivalent tsadaq/rasha (Hiphil forms in Deu 25:1) establishes the binary courtroom framework: righteous or wicked, acquitted or condemned, justified or sentenced. The Greek equivalent is dikaiosis vs. katakrima (Rom 5:18) — justification vs. condemnation. There is no middle category. In the courtroom, you walk out vindicated or condemned.
 
-**checed (H2617, 241 occurrences)** anchors the relational dimension. Paired with tsedaqah and emeth, checed describes the covenant loyalty that God extends and that He expects in return. Mic 6:8 asks for love of checed alongside mishpat (justice). This is not forensic verdict language — it is relationship language. Yet the relational dimension of righteousness is inseparable from the forensic and character dimensions.
+**checed (H2617, 255 occurrences)** anchors the relational dimension. Paired with tsedaqah and emeth, checed describes the covenant loyalty that God extends and that He expects in return. Mic 6:8 asks for love of checed alongside mishpat (justice). This is not forensic verdict language — it is relationship language. Yet the relational dimension of righteousness is inseparable from the forensic and character dimensions.
 
 ## Cross-Testament Connections
 

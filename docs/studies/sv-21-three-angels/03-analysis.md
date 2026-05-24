@@ -18,7 +18,7 @@
 
 ### Revelation 14:4
 **Context:** Description of the 144,000's character.
-**Direct statement:** "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth."
+**Direct statement:** "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, [being] the firstfruits unto God and to the Lamb."
 **Original language:** "Not defiled" (ouk emolynthesan, aorist passive) — in prophetic context, defilement with "women" is spiritual unfaithfulness (cf. Rev 17:1-5, the harlot system). "Virgins" (parthenoi) describes spiritual purity — they refused Babylon's fornication (Rev 14:8).
 **Cross-references:** Rev 17:2 — kings "committed fornication" with Babylon. The 144,000 refused. This directly connects to the second angel's call to separate from Babylon.
 **Relationship to other evidence:** Their purity is the positive counterpart to the second angel's exposure of Babylon's corruption. They are the people who responded to the three messages.
@@ -65,7 +65,7 @@ The genitive chain tou oinou tou thumou tes porneias autes is dense: "the wine o
 ### Revelation 14:10
 **Context:** The consequences for those who choose beast worship.
 **Direct statement:** "The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb."
-**Original language:** Two wrath words operate together: thumos (G2372, passionate fury) — the wine's content — and orge (G3709, settled judicial wrath) — the cup's nature. kekerasmenou akratou (perfect passive participle + adjective — "mixed unmixed") creates a paradox: wine that has been mixed but is at full strength, undiluted. The future tenses (pietai — "shall drink," basanisthesetai — "shall be tormented") place these consequences in the future.
+**Original language:** Two wrath words operate together: thumos (G2372, passionate fury) — the wine's content — and orge (G3709, settled judicial wrath) — the cup's nature. kekerasmenou akratou (perfect passive participle + adjective — "mixed unmixed") creates a paradox: wine that has been mixed but is at full strength, undiluted. The future tenses (pietai — future middle deponent, "shall drink"; basanisthesetai — future passive, "shall be tormented") place these consequences in the future.
 **Cross-references:** Psa 75:8 — "In the hand of the LORD there is a cup, and the wine is red... all the wicked of the earth shall wring them out and drink them." Isa 51:17 — "the cup of his fury." Jer 25:15 — "Take the wine cup of this fury." The OT cup-of-wrath tradition undergirds the third angel's language.
 **Relationship to other evidence:** Babylon's wine (14:8, thumos of her fornication) is answered by God's wine (14:10, thumos of God). Those who drank Babylon's intoxicating wine will drink God's retributive wine. The symmetry is deliberate: the same metaphor applies to both cause and consequence.
 
@@ -142,7 +142,7 @@ The genitive chain tou oinou tou thumou tes porneias autes is dense: "the wine o
 ### Revelation 19:1-2
 **Context:** After Babylon's final destruction, a great multitude in heaven declares the completed vindication.
 **Direct statement:** "Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God: For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand."
-**Original language:** Halleluyah — a Hebrew loanword (hallelu-yah, "praise the LORD"), used only here and in 19:3-4,6 in the entire NT. alethinai kai dikaiai hai kriseis autou — "true and righteous are his judgments" — identical formula to Rev 16:7 but now applied to the completed judgment. ekrinen (aorist — "he judged") and exedikesen (aorist of ekdikeo, from ekdikesis G1557 — "he avenged") — BOTH verbs aorist, marking BOTH judgment AND vindication as completed actions.
+**Original language:** Halleluyah — a Hebrew loanword (hallelu-yah, "praise the LORD"), used only here and in 19:3-4,6 in the entire NT. alethinai kai dikaiai hai kriseis autou — "true and righteous are his judgments" — identical formula to Rev 16:7 but now applied to the completed judgment. ekrinen (aorist — "he judged") and exedikesen (aorist of ekdikeo, from ekdikeo G1556 — "he avenged") — BOTH verbs aorist, marking BOTH judgment AND vindication as completed actions.
 **Cross-references:** The double aorist (ekrinen + exedikesen) is the climactic counterpart to the single aorist of Rev 14:7 (elthen — "has come"). What was announced as arrived in 14:7 is completed in 19:2. Psa 79:10 — "let the revenging of the blood of thy servants be known among the heathen." Isa 53:11 — the Suffering Servant "shall justify many." Rom 3:25 — propitiation through blood. The vindication avenges blood through the one whose blood provided the propitiation.
 **Relationship to other evidence:** This is vindication declaration #4 (insight #19). The progression is complete: Rev 14:7 (elthen — judgment arrived) → Rev 15:3 (just and true are thy ways) → Rev 16:7 (true and righteous are thy judgments — the altar speaks) → Rev 19:1-2 (true and righteous are his judgments — he has judged and avenged). The vindication announced in Dan 8:14 reaches its full public expression here.
 
@@ -289,14 +289,14 @@ The genitive chain tou oinou tou thumou tes porneias autes is dense: "the wine o
 ### Hebrews 4:1-11
 **Context:** The author of Hebrews develops the Sabbath-rest theology — creation rest as a type of eschatological rest.
 **Direct statement:** "There remaineth therefore a rest to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God did from his."
-**Original language:** sabbatismos (H4520, a Sabbath-rest) — a unique word in the NT. The rest that "remains" (apoleipetai, present passive) is still outstanding — it awaits God's people. katepausen (aorist — "ceased/rested") describes God's completed act of resting at creation, which becomes the pattern for the believers' rest.
+**Original language:** sabbatismos (G4520, a Sabbath-rest) — a unique word in the NT. The rest that "remains" (apoleipetai, present passive) is still outstanding — it awaits God's people. katepausen (aorist — "ceased/rested") describes God's completed act of resting at creation, which becomes the pattern for the believers' rest.
 **Cross-references:** Gen 2:2-3 — God's creation rest. Rev 14:13 — "they may rest from their labours." The rest promised in Hebrews 4 is the rest fulfilled in Rev 14:13.
 **Relationship to other evidence:** The Sabbath-rest theology connects creation (Gen 2), the Fourth Commandment (Exo 20:8-11), the first angel's creation call (Rev 14:7), and the beatitude rest (Rev 14:13). It is one continuous thread from beginning to end.
 
 ### Revelation 17:1-6
 **Context:** The full vision of Babylon as the great harlot.
 **Direct statement:** "With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication."
-**Original language:** pepotismenoi (perfect passive participle — "having been made drunk") — the same root as pepotiken in 14:8. The inhabitants are passive recipients of Babylon's intoxication.
+**Original language:** emethysthesan (aorist passive indicative of methysko, G3182 — "were made drunk"). Rev 17:6 uses methyousan (from methyo, G3184). The inhabitants are passive recipients of Babylon's intoxication; the intoxication imagery parallels pepotiken in 14:8 though the vocabulary differs.
 **Cross-references:** Rev 14:8 announces what Rev 17 describes in detail. The harlot system is the expanded vision of the second angel's brief announcement.
 **Relationship to other evidence:** The second angel's message is the condensed verdict. Rev 17-18 provides the full trial record.
 

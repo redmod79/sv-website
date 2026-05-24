@@ -86,7 +86,7 @@
 
 ### Numbers 19:13
 **Context:** Laws about corpse contamination and the water of purification.
-**Direct statement:** "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel."
+**Direct statement:** "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him."
 **Original language:** "defileth" is the Piel of tame — same causative stem as Lev 15:31. The person does not physically enter the tabernacle. They defile it from wherever they are in the community. The penalty is karet (covenantal cutting off).
 **Cross-references:** Num 19:20 repeats: "he hath defiled the sanctuary of the LORD." Uses miqdash (sanctuary) instead of mishkan (tabernacle) — both terms, same principle.
 **Relationship to other evidence:** Proves that sanctuary defilement occurs WITHOUT any sacrificial channel. A person who fails to purify never brings a sacrifice — yet they defile the sanctuary. This contamination has no daily remedy. Only the DOA addresses it.

@@ -68,7 +68,7 @@ On the daily side, every sin-offering concludes with the kaphar+salach formula: 
 
 On the annual side, the DOA produces the kaphar+taher formula: "the priest shall make an atonement (yekapper, Piel of kaphar) for you, to cleanse (letaher, Piel InfCon of taher) you, that ye may be clean (titharu, Qal of taher) from all your sins before the LORD" (Lev 16:30). This three-verb chain is unique in the Bible. It moves from priestly action (kaphar, Piel) to divine purpose (taher, Piel — God causes cleanness) to human state (taher, Qal — the people are clean). The stem shift within taher captures the full progression: God acts (Piel), people change (Qal).
 
-The partition is absolute. salach (H5545) never appears in Leviticus 16. Verified against all 49 occurrences — none in the DOA legislation. taher (H2891) never appears in the Leviticus 4-5 sin-offering regulations. Verified against all 94 occurrences — taher in Leviticus appears in chapters 11-15 (purity laws), 16 (DOA), and 22 (priestly purity), but not in the sin-offering formulae.
+The partition is absolute. salach (H5545) never appears in Leviticus 16. Verified against all 49 occurrences — none in the DOA legislation. taher (H2891) never appears in the Leviticus 4-5 sin-offering regulations. Verified against all 115 occurrences — taher in Leviticus appears in chapters 11-15 (purity laws), 16 (DOA), and 22 (priestly purity), but not in the sin-offering formulae.
 
 The same core verb (kaphar) is present in both. What changes is the result. Daily: God forgives the sinner. Annual: God cleanses the sanctuary and the people. Different verbs, different objects, different scopes. The daily deals with the individual. The annual deals with the corporate system. The two are complementary, not repetitive.
 
@@ -86,7 +86,7 @@ The three-category formulas in Lev 16:16 and 16:21 deploy repeated kol ("all") b
 
 ### The nasa Connection: Two Directions of Sin-Bearing
 
-The Hebrew verb nasa (H5375, "bear, carry, lift up") ties the daily and annual services together through shared vocabulary. The canonical word study identifies 607 verses and an extremely broad semantic range. But within the sanctuary context, nasa narrows to three registers that map directly onto this study.
+The Hebrew verb nasa (H5375, "bear, carry, lift up") ties the daily and annual services together through shared vocabulary. The canonical word study identifies 759 occurrences and an extremely broad semantic range. But within the sanctuary context, nasa narrows to three registers that map directly onto this study.
 
 **Register 1 — Priestly bearing inward.** Leviticus 10:17: God gave the sin offering to the priests "to bear (laset) the iniquity of the congregation, to make atonement for them before the LORD." The priest bears the congregation's iniquity INTO himself through eating. This is the daily service's second mechanism: sin moves from sinner → sacrifice → priest → sanctuary system. Exodus 28:38 adds the continual dimension: Aaron bears (nasa) the iniquity of the holy things tamid ("continually") on his forehead. The golden plate is always there. The priestly sin-bearing is not occasional but perpetual.
 
@@ -152,7 +152,7 @@ The connection between Daniel 8:14 and the Day of Atonement does not come throug
 
 The link comes through the tamid. Daniel 8:11 — the horn removes the tamid. Daniel 8:13 — "how long... the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?" Daniel 8:14 — the sanctuary is vindicated (nitsdaq). The chain is: horn removes tamid → tamid must be restored → tamid exists to feed the DOA → restoring the tamid restores the system whose endpoint is the DOA → nitsdaq declares that system vindicated.
 
-The word tamid (H8548) appears 104 times in the OT. The canonical word study confirms that every occurrence describes God's worship system — burnt offerings, incense, lampstand, showbread, priestly duty, praise. Not one occurrence describes paganism. Not one is negative. The "paganism" reading of Dan 8:11 (where the tamid would represent the horn's own false worship) is eliminated by the word's universal positive usage. tamid always means God's worship. When the horn "takes away the tamid," it removes God's worship system.
+The word tamid (H8548) appears 105 times in the OT. The canonical word study confirms that every occurrence describes God's worship system — burnt offerings, incense, lampstand, showbread, priestly duty, praise. Not one occurrence describes paganism. Not one is negative. The "paganism" reading of Dan 8:11 (where the tamid would represent the horn's own false worship) is eliminated by the word's universal positive usage. tamid always means God's worship. When the horn "takes away the tamid," it removes God's worship system.
 
 This is why the tamid matters for the series. This study establishes what the tamid IS — the integrated daily-to-annual system. Later studies will show what the horn attacks and what the vindication restores.
 
@@ -160,13 +160,13 @@ This is why the tamid matters for the series. This study establishes what the ta
 
 The Hebrew vocabulary reveals structural features hidden in English translation.
 
-**kaphar (H3722):** 102 occurrences, 67 in Leviticus alone (66%). The Piel (92 uses) is factitive — it causes the state of atonement. The canonical word study (from the shared library) confirms dual collocations: kaphar+salach (12x) and kaphar+taher (12x, though the taher collocations include daily purification contexts beyond the DOA). English "atonement" appears in both daily and annual contexts and completely obscures the distinction in result verbs.
+**kaphar (H3722):** 130 occurrences, 67 in Leviticus alone (52%). The Piel (92 uses) is factitive — it causes the state of atonement. The canonical word study (from the shared library) confirms dual collocations: kaphar+salach (13x) and kaphar+taher (12x, though the taher collocations include daily purification contexts beyond the DOA). English "atonement" appears in both daily and annual contexts and completely obscures the distinction in result verbs.
 
 **salach (H5545):** 49 occurrences with God as the exclusive subject. The 13 Niphal forms (divine passive — "it was forgiven") are all in sacrificial formulae. None in Lev 16. The daily formula is personal: God forgives the sinner. The canonical word study (from the shared library) notes that the LXX renders salach primarily with hileos (gracious/merciful) and aphiemi (forgive).
 
-**taher (H2891):** 94 occurrences, 53 in Leviticus (56%). The Piel (37 uses) causes or declares cleanness. The Qal (34 uses) describes the state of being clean. Absent from Lev 4-5. The Lev 16:30 chain (kaphar Piel → taher Piel → taher Qal) shows divine action producing human state change. The canonical word study (from the shared library) traces the LXX bridge: taher → katharizo (G2511) → 1 John 1:7 (present tense katharizei — "cleanseth us from all sin").
+**taher (H2891):** 115 occurrences, 53 in Leviticus (46%). The Piel (37 uses) causes or declares cleanness. The Qal (34 uses) describes the state of being clean. Absent from Lev 4-5. The Lev 16:30 chain (kaphar Piel → taher Piel → taher Qal) shows divine action producing human state change. The canonical word study (from the shared library) traces the LXX bridge: taher → katharizo (G2511) → 1 John 1:7 (present tense katharizei — "cleanseth us from all sin").
 
-**nasa (H5375):** 607 verses. In the sanctuary context, three registers: divine (God bears/forgives, Exo 34:7), priestly (priest bears inward, Lev 10:17; Exo 28:38), removal (scapegoat bears outward, Lev 16:22). The canonical word study (from the shared library) identifies the LXX bridge: nasa → airo (G142) → John 1:29 (present participle ho airon — "the one taking away"). Same verb across testaments, same function.
+**nasa (H5375):** 759 occurrences. In the sanctuary context, three registers: divine (God bears/forgives, Exo 34:7), priestly (priest bears inward, Lev 10:17; Exo 28:38), removal (scapegoat bears outward, Lev 16:22). The canonical word study (from the shared library) identifies the LXX bridge: nasa → airo (G142) → John 1:29 (present participle ho airon — "the one taking away"). Same verb across testaments, same function.
 
 **chattaah (H2403):** Dual meaning — sin and sin offering in the same word. The singular-to-plural shift (chattato → chatotam) grammatically marks the scope change from daily (individual) to annual (corporate). English uses different words ("sin" vs. "sin offering") and loses the resonance.
 

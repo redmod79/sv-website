@@ -124,7 +124,7 @@
 ### Daniel 8:11-13
 **Context:** The horn's attack on the sanctuary system.
 **Direct statement:** The horn magnifies itself to the prince of the host. "The daily [tamid] was taken away, and the place of his sanctuary was cast down" (8:11). "An host was given him against the daily [tamid] by reason of transgression" (8:12). The question in 8:13: "How long shall be the vision concerning the daily [tamid] and the transgression of desolation?"
-**Original language:** tamid (H8548) appears at 8:11, 8:12, and 8:13. The canonical word study confirms 100% positive usage across 104 OT occurrences (established in sv-03). Dan 8:13 uses chazon — "how long the chazon." The question addresses the broad panoramic vision, not the specific mar'eh.
+**Original language:** tamid (H8548) appears at 8:11, 8:12, and 8:13. The canonical word study confirms 100% positive usage across 105 OT occurrences (established in sv-03). Dan 8:13 uses chazon — "how long the chazon." The question addresses the broad panoramic vision, not the specific mar'eh.
 **Cross-references:** Dan 11:31 and 12:11 pair tamid with shiqquts (H8251). The tamid/shiqquts chain runs through three chapters (8, 11, 12), binding the Hebrew section's sanctuary theme.
 **Relationship to other evidence:** sv-03 established that tamid is the textual link between Daniel and the DOA. The horn removes the tamid, the tamid feeds the DOA, restoring the tamid restores the system whose endpoint is the DOA, and nitsdaq declares that system vindicated. This chain is why the tamid vocabulary matters for the literary structure.
 
@@ -271,7 +271,7 @@
 ### Revelation 22:10
 **Context:** The angel speaks to John at the close of the Revelation.
 **Direct statement:** "Seal not the sayings of the prophecy of this book: for the time is at hand."
-**Original language:** Greek me sphragises — negative imperative of sphragizo (G4972). The LXX of Dan 12:4 uses sphragizo for chatham. Same vocabulary, opposite command.
+**Original language:** Greek me sphragises — prohibitive subjunctive (aorist active subjunctive) of sphragizo (G4972). The LXX of Dan 12:4 uses sphragizo for chatham. Same vocabulary, opposite command.
 **Cross-references:** Dan 12:4 — "seal the book." Rev 22:10 — "seal NOT the book." The dan3-25 study confirmed this as a verbatim vocabulary reversal using cognate terms.
 **Relationship to other evidence:** The sealed-to-unsealed arc completes here. What Daniel sealed, John is told not to seal. The literary structure that begins in Daniel reaches its counterpart in Revelation. The two books are companion volumes — a claim supported by the vocabulary chain.
 
@@ -305,7 +305,7 @@ The sealing vocabulary creates a trajectory from concealment to revelation that 
 
 The chazon/mar'eh distinction is invisible in English. The KJV translates both as "vision." The canonical word studies (H2377-chazon.md, H4758-mareh.md) reveal that chazon comes from chazah (specialized prophetic gazing) while mar'eh comes from raah (ordinary seeing). In Daniel 8-10, these words track independently. chazon is the broad panoramic revelation — the whole sweep of empires, attacks, and judgments. mar'eh is the specific element within the vision — the 2300 evening-morning time element that Gabriel is sent to explain.
 
-Dan 8:26 makes the distinction unmistakable. In one verse, the mar'eh of the evening-morning is declared "true" (emeth), and the chazon is commanded to be sealed. Two words, two treatments. The LXX erased this distinction by rendering both as horasis (G3706) in prophetic contexts. Anyone reading the Greek text alone would miss the two-track architecture.
+Dan 8:26 makes the distinction unmistakable. In one verse, the mar'eh of the evening-morning is declared "true" (emeth), and the chazon is commanded to be sealed. Two words, two treatments. The LXX partially erased this distinction — chazon maps primarily to horasis (G3706), while mar'eh maps to both opsis (G3799) and horasis (G3706), with opsis having a stronger statistical association (PMI 7.63 vs. 6.40). Anyone reading the Greek text alone would lose much of the two-track architecture.
 
 The biyn/sakal pair is similarly flattened in translation. Both map to syniemi (G4920) in the LXX (see TR-biyn-syniemi.md, TR-sakal-syniemi.md). But the Hebrew distinguishes them: biyn = mental perception and discernment; sakal = prudent action and its successful outcome. Dan 12:10 pairs them deliberately: "the maskilim (sakal) shall yabiynuw (biyn)" — the wise in prudent action will discern. Two dimensions of understanding converge at the eschatological endpoint.
 

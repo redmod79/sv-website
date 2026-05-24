@@ -5,7 +5,7 @@
 ### Daniel 8:10
 **Context:** The little horn's first attack. Daniel watches the horn grow from exceeding greatness into direct assault on heavenly realities.
 **Direct statement:** "And it waxed great, even to the host of heaven; and it cast down some of the host and of the stars to the ground, and stamped upon them."
-**Original language:** The horn casts down (Hiphil of shalak, H7993 — active voice, horn named as agent) the host and stars, then tramples them (ramas, H7429). The active voice is important: the horn directly persecutes God's people. This is the first of four attacks.
+**Original language:** The horn casts down (Hiphil of naphal, H5307 — active voice, horn named as agent) the host and stars, then tramples them (ramas, H7429). The active voice is important: the horn directly persecutes God's people. This is the first of four attacks.
 **Cross-references:** Dan 7:21 — "the same horn made war with the saints, and prevailed against them." Same attack, same result. Rev 12:10 — Satan as "the accuser of our brethren" who "accused them before our God day and night." The persecution includes both physical harm and legal accusation.
 **Relationship to other evidence:** This is the first dimension of the attack that nitsdaq answers. The corresponding vindication: judgment given TO the saints (Dan 7:22), and God as the one who justifies (Rom 8:33). The trampled host is acquitted.
 
@@ -180,7 +180,7 @@ Stopping at step 1 leaves a clean person with nothing positive. Stopping at step
 ### Revelation 15:3-4
 **Context:** The saints sing after overcoming the beast system.
 **Direct statement:** "Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints. Who shall not fear thee, O Lord, and glorify thy name? for thou only art holy: for thy judgments are made manifest."
-**Original language:** dikaiai kai alēthinai hai hodoi sou — "just [dikaios, G1342] and true [alethinos, G228] are thy ways." The saints declare God's character vindicated. dikaiōmata (G1345, nominative neuter plural) in v.4 — God's "righteous ordinances/decrees are made manifest" (ephanerōthēsan, aorist passive — brought to light). hagios (G40) — "thou only art holy." The vindication of God's character includes His holiness, His justice, and His truth.
+**Original language:** dikaiai kai alēthinai hai hodoi sou — "just [dikaios, G1342] and true [alethinos, G228] are thy ways." The saints declare God's character vindicated. dikaiōmata (G1345, nominative neuter plural) in v.4 — God's "righteous ordinances/decrees are made manifest" (ephanerōthēsan, aorist passive — brought to light). hosios (G3741) — "thou only art holy." The vindication of God's character includes His holiness, His justice, and His truth.
 **Cross-references:** Dan 8:12 — the horn cast emeth (truth) to the ground. Rev 15:3 uses alethinos (the Greek equivalent of emeth, per TR-emeth-aletheia.md) to declare God's ways true. What was cast down is lifted up.
 **Relationship to other evidence:** Second beneficiary — God's character declared just. The saints themselves are the witnesses. The vocabulary pair dikaios + alethinos = tsedeq + emeth. The horn attacked both; the verdict restores both.
 
@@ -326,13 +326,13 @@ Supported by: Dan 9:24, Rom 3:25-26, Isa 53:11, Heb 7:25, Heb 8:1-2, Dan 7:9-10,
 
 The original language data transforms the English reading of Dan 8:14 in several ways.
 
-First, the KJV's "cleansed" obscures the Hebrew. The root tsadaq (H6663) means "to be righteous/just/vindicated." It never means "to cleanse" in any of its 41 OT occurrences. The cleansing word — taher (H2891) — was available to Daniel. He did not use it. The LXX Old Greek uses dikaiothesatai (future passive of dikaioo) — "shall be justified." The ancient translators understood the forensic meaning. The KJV's "cleansed" follows a later tradition, not the Hebrew root.
+First, the KJV's "cleansed" obscures the Hebrew. The root tsadaq (H6663) means "to be righteous/just/vindicated." It never means "to cleanse" in any of its 54 OT occurrences. The cleansing word — taher (H2891) — was available to Daniel. He did not use it. The LXX Old Greek uses dikaiothesatai (future passive of dikaioo) — "shall be justified." The ancient translators understood the forensic meaning. The KJV's "cleansed" follows a later tradition, not the Hebrew root.
 
 Second, the Niphal stem is decisive. tsadaq appears in Qal (22x, "be righteous"), Hiphil (12x, "justify/declare righteous"), Piel (5x, "prove right"), Hithpael (1x, "clear oneself") — and Niphal exactly once: Dan 8:14. The Niphal is the simple passive. The sanctuary receives the action: it IS vindicated. The agent (God) is unnamed but implied by the divine passive register, matching tinnaten in 8:12.
 
 Third, the collocations of tsadaq confirm the forensic field. The verb collocates with mishpat (judgment) 8 times, shaphat (judge) 8 times, rasha (condemn) 6 times, and tsaddiyq (righteous) 7 times. Every collocate is a courtroom word. tsadaq lives in the legal register.
 
-Fourth, the cross-testament bridge is tight. tsadaq maps to dikaioo with PMI 26.99 — the strongest Hebrew-Greek verb bridge in the righteousness family. emeth maps to aletheia/alethinos. The Revelation declarations (dikaios + alethinos) are the Greek expression of the Hebrew reality (tsedeq + emeth). The vocabulary threads run seamlessly from Daniel to Revelation.
+Fourth, the cross-testament bridge is tight. tsadaq maps to dikaioo with score 26.99 (PMI 8.73) — the strongest Hebrew-Greek verb bridge in the righteousness family. emeth maps to aletheia/alethinos. The Revelation declarations (dikaios + alethinos) are the Greek expression of the Hebrew reality (tsedeq + emeth). The vocabulary threads run seamlessly from Daniel to Revelation.
 
 Fifth, the taher/tsadaq distinction is absolute in the DOA context. Leviticus 16 uses kaphar→taher. It never uses tsadaq. The LXX of Lev 16 uses katharizo. It never uses dikaioo. Daniel 8:14 uses tsadaq, not taher. The vocabulary shift is deliberate: the antitype goes beyond what the type accomplished. taher describes what happens to objects (purification). tsadaq describes what happens in a court (vindication). Both are real. But vindication is the bigger category.
 

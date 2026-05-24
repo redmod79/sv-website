@@ -119,7 +119,7 @@ Furthermore, the three-phase model itself suggests internal structure within the
 
 ### tsadaq (H6663) — Niphal
 
-The root tsadaq appears 41 times in the OT across five stems: Qal (22), Hiphil (12), Piel (5), Niphal (1), Hithpael (1). The single Niphal occurrence is Dan 8:14. The Niphal means "be vindicated, be declared righteous, be restored to rightness." The KJV renders it "cleansed," which is a functional translation — the ritual cleansing word in Hebrew is taher (H2891), not tsadaq. Daniel chose tsadaq (forensic/judicial) over taher (ritual/ceremonial) deliberately. The vindication is a verdict, not a ritual washing.
+The root tsadaq appears 54 times in the OT across five stems (Qal, Hiphil, Piel, Niphal, and Hithpael). The single Niphal occurrence is Dan 8:14. The Niphal means "be vindicated, be declared righteous, be restored to rightness." The KJV renders it "cleansed," which is a functional translation — the ritual cleansing word in Hebrew is taher (H2891), not tsadaq. Daniel chose tsadaq (forensic/judicial) over taher (ritual/ceremonial) deliberately. The vindication is a verdict, not a ritual washing.
 
 ### ad (H5704) — The Terminus Preposition
 

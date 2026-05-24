@@ -152,7 +152,7 @@ The word study data confirms the distinct semantic fields of the two sealing ver
 
 **chatham (H2856):** 26 occurrences, 24 unique verses, 11 books. Legal/documentary sealing (1 Kgs 21:8; Jer 32:10; Est 8:8; Neh 9:38) and divine sealing (Deut 32:34; Job 14:17) are the primary categories. The semantic core is securing a container — stamping with authority and closing for preservation.
 
-**chowtham (H2368):** 13 occurrences, the noun form — the physical signet ring. Used for priestly garment engravings (Exo 28:11,21,36), personal identity (Gen 38:18), royal authority (1 Kgs 21:8), and intimate relationship metaphor (Song 8:6; Hag 2:23). The Jer 22:24/Hag 2:23 reversal — God removes Coniah's signet, then restores it for Zerubbabel — shows that the seal-as-person metaphor grounds sealing in personal relationship, not mere bureaucracy.
+**chowtham (H2368):** 15 occurrences, the noun form — the physical signet ring. Used for priestly garment engravings (Exo 28:11,21,36), personal identity (Gen 38:18), royal authority (1 Kgs 21:8), and intimate relationship metaphor (Song 8:6; Hag 2:23). The Jer 22:24/Hag 2:23 reversal — God removes Coniah's signet, then restores it for Zerubbabel — shows that the seal-as-person metaphor grounds sealing in personal relationship, not mere bureaucracy.
 
 **katasphragizo (G2696):** Hapax in Rev 5:1. kata- prefix intensifies sphragizo. Perfect passive participle = completed, settled state of maximum sealing. The only other LXX parallel is Job 9:7, where God "seals up the stars" — controlling access to cosmic light.
 

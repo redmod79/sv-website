@@ -26,7 +26,7 @@ The atonement is a unified process with three distinct phases: the cross provide
 
 > **Romans 3:25-26** "Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; to declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus."
 
-> **Daniel 7:9-10** "I beheld till the thrones were cast down, and the Ancient of days did sit... the judgment was set, and the books were opened."
+> **Daniel 7:9-10** "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened."
 
 ## Analysis
 
@@ -117,7 +117,7 @@ Hebrews 10:11-12 draws the standing-sitting contrast: Levitical priests "stand d
 
 The Bible's own vocabulary tracks the three phases through three distinct word families.
 
-**Phase 1 — kaphar (H3722):** The verb of atonement, appearing 102 times, 90% in the Piel stem. The word study (H3722-kaphar.md) confirms that kaphar describes the blood-APPLICATION action — what happens when blood meets the altar or mercy seat, not the killing itself. In Leviticus 16, kaphar appears 13 times, always for what the priest does WITH the blood, never for the slaughter. kaphar is the ground — the sacrificial action that makes everything else possible.
+**Phase 1 — kaphar (H3722):** The verb of atonement, appearing 130 times in the OT, predominantly in the Piel stem. The word study (H3722-kaphar.md) confirms that kaphar describes the blood-APPLICATION action — what happens when blood meets the altar or mercy seat, not the killing itself. In Leviticus 16, kaphar appears 13 times, always for what the priest does WITH the blood, never for the slaughter. kaphar is the ground — the sacrificial action that makes everything else possible.
 
 **Phase 2 — taher (H2891) / katharizo (G2511):** The DOA result-verb. Leviticus 16:30's unique three-verb formula uses kaphar→taher: "the priest shall make atonement for you, TO CLEANSE you, that ye may be clean." The taher is the PURPOSE of kaphar — the cleansing that the blood application accomplishes. In the NT, katharizo (the LXX equivalent of taher, documented in TR-taher-katharizo.md) appears in present tense: "cleanseth us from all sin" (1 Jn 1:7), and as an infinitive for heavenly things needing purification (Heb 9:23). This is the application phase — the ongoing work of applying the sacrifice's cleansing power.
 

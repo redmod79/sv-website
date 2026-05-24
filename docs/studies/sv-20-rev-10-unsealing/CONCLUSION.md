@@ -146,7 +146,7 @@ No other biblical book satisfies all five. Isaiah's sealed content has no unseal
 
 ## Word Studies
 
-**G974 biblaridion** — Double diminutive (biblos → biblion → biblaridion). All 4 NT occurrences in Rev 10 (vv. 2, 8, 9, 10). The diminutive form signals a smaller document — a portion of a larger scroll. The heavenly voice shifts to *biblion* (G975) in v. 8, possibly identifying the little book as a section of the larger sealed scroll from Rev 5:1. (Canonical library entry: G974-bibliaridion.md)
+**G974 biblaridion** — Double diminutive (biblos → biblion → biblaridion). 4 total NT occurrences. Three clearly use G974 (Rev 10:2, 9, 10); at v. 8 the heavenly voice shifts to *biblion* (G975) in the critical text, though some textual traditions (e.g., Textus Receptus) read *biblaridion* there as well. The diminutive form signals a smaller document — a portion of a larger scroll. The shift to *biblion* in v. 8 may identify the little book as a section of the larger sealed scroll from Rev 5:1. (Canonical library entry: G974-bibliaridion.md)
 
 **G455 anoigo** — "To open." 78 tokens; Revelation has the highest concentration (25 occurrences). The perfect passive participle cluster in Revelation describes settled open states: Rev 3:8 (open door), 4:1 (heaven opened), 10:2 and 10:8 (little book open), 19:11 (heaven opened). The Hebrew source *pathach* (H6605) has 85 LXX co-occurrences — one of the strongest translation bridges. (Canonical library entry: G455-anoigo.md)
 

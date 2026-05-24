@@ -7,9 +7,9 @@ Daniel 8:14 ends with a famous phrase that the King James Bible translates as "t
 
 ## The Word That Changes Everything
 
-In Hebrew, Daniel 8:14 uses the word *nitsdaq* (from the root *tsadaq*). In the Old Testament, *tsadaq* appears 41 times, and every single occurrence has a legal or moral meaning — declaring someone righteous, being proven right in court, or being acquitted of a charge. Not one of those 41 uses means ritual cleansing.
+In Hebrew, Daniel 8:14 uses the word *nitsdaq* (from the root *tsadaq*). In the Old Testament, *tsadaq* appears 54 times, and every single occurrence has a legal or moral meaning — declaring someone righteous, being proven right in court, or being acquitted of a charge. Not one of those 54 uses means ritual cleansing.
 
-Daniel had perfectly good options if he wanted to say "cleansed." The Hebrew word *taher* (used 94 times in the Old Testament, 53 of them in Leviticus alone) is the standard word for ritual purification. The Day of Atonement in Leviticus 16 uses *taher*. Daniel did not choose it.
+Daniel had perfectly good options if he wanted to say "cleansed." The Hebrew word *taher* (used 115 times in the Old Testament, 53 of them in Leviticus alone) is the standard word for ritual purification. The Day of Atonement in Leviticus 16 uses *taher*. Daniel did not choose it.
 
 He also could have used *kaphar* — the word for atonement. He did not choose that either.
 

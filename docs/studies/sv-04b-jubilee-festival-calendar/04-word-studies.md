@@ -74,8 +74,8 @@
 
 ### H3722 kaphar (atone)
 **Source:** `word-studies/H3722-kaphar.md`
-- 102 occurrences. Piel (92 = 90%). "make atonement" (72%)
-- Leviticus: 67 of 102 occurrences — sanctuary word
+- 130 occurrences. Piel (92 = 90%). "make atonement" (72%)
+- Leviticus: 67 of 130 occurrences — sanctuary word
 - DOA formula: kaphar + taher (Lev 16:30). Daily formula: kaphar + salach
 
 ### H2891 taher (be clean/cleanse)

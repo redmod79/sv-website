@@ -225,7 +225,7 @@
 ### Mark 7:20-23 — Defilement Comes from Within
 **Context:** Private explanation to the disciples.
 **Direct statement:** "That which cometh out of the man, that defileth the man. For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders..." (vv.20-21). "All these evil things come from within, and defile the man" (v.23).
-**Original language:** koinounta (Present Active Participle of koinoo) — "the things that defile." The present tense indicates ongoing action. The heart is an ongoing source of defilement, not a one-time contamination.
+**Original language:** koinoi (Present Active Indicative of koinoo) — "defileth." The present tense indicates ongoing action. The heart is an ongoing source of defilement, not a one-time contamination. (The participle form koinounta appears in Mark 7:15; vv.20 and 23 use the indicative koinoi.)
 **Cross-references:** The vice list (vv.21-22) overlaps significantly with the moral defilement categories in Lev 18 and the abomination lists in Deuteronomy.
 **Relationship to other evidence:** Jesus' list includes several of the same moral categories that produced tame in the OT (adultery, fornication — Lev 18; murder — Num 35:33; covetousness/idolatry — Ezek 20:7). The NT does not invent new categories of moral defilement. It traces them to their internal source.
 

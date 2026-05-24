@@ -50,11 +50,11 @@ Lev 16:21 is the only verse in the Pentateuch where all three words appear in a 
 
 This match anchors Dan 9:24 to the DOA. Gabriel is not using general sin-language. He is using the DOA confession vocabulary, the words the high priest spoke over the scapegoat. And Daniel himself set this up. His prayer in Dan 9:5 uses chatanu ("we sinned," from the chattaah root), avinu ("we committed iniquity," from the avon root), and maradnu ("we rebelled," in the pesha semantic field). Gabriel's six purposes answer Daniel's confession point by point: you confessed pesha, chattat, and avon — I promise to finish, end, and atone for exactly those three.
 
-The word studies from the canonical library sharpen these distinctions. pesha (H6588, 90 verses) carries the sense of active rebellion — breaking away from legitimate authority (sv-01 and the canonical entry confirm this is the strongest sin-word). chattat (H2403, 270 verses) has a dual meaning: the sin itself and the sin offering that addresses it (canonical entry). avon (H5771, 213 verses) operates in three senses: the crookedness of the act, the guilt it produces, and the punishment it brings (canonical entry). Together they cover the full scope of human failure: rebellion, wrongdoing, and guilt. The DOA addresses all three under one rite (Lev 16:16,33). Dan 9:24 promises the Messianic resolution of all three.
+The word studies from the canonical library sharpen these distinctions. pesha (H6588, 95 occurrences) carries the sense of active rebellion — breaking away from legitimate authority (sv-01 and the canonical entry confirm this is the strongest sin-word). chattat (H2403, 306 occurrences) has a dual meaning: the sin itself and the sin offering that addresses it (canonical entry). avon (H5771, 234 occurrences) operates in three senses: the crookedness of the act, the guilt it produces, and the punishment it brings (canonical entry). Together they cover the full scope of human failure: rebellion, wrongdoing, and guilt. The DOA addresses all three under one rite (Lev 16:16,33). Dan 9:24 promises the Messianic resolution of all three.
 
 ### The kaphar-tsedeq Bridge: The Only Verse Where Both Systems Meet
 
-Purpose 3 uses kaphar (H3722, "make atonement") and purpose 4 uses tsedeq (H6664, "righteousness"). The canonical word studies document their collocation patterns. kaphar appears 102 times in the OT, 66% in Leviticus. Its regular partners are chattaah (38 co-occurrences), kohen (27), mizbeach (17), dam (12), salach (12), and taher (12). tsedeq appears 119 times across 12 books, collocating with YHWH (33), mishpat (30), shaphat (19), and emeth (8). These two words run on completely separate vocabulary tracks. kaphar lives in Leviticus with priests and altars and blood. tsedeq lives in Psalms and Isaiah with justice and truth and righteousness.
+Purpose 3 uses kaphar (H3722, "make atonement") and purpose 4 uses tsedeq (H6664, "righteousness"). The canonical word studies document their collocation patterns. kaphar appears 130 times in the OT, 66% in Leviticus. Its regular partners are chattaah (38 co-occurrences), kohen (27), mizbeach (17), dam (12), salach (12), and taher (12). tsedeq appears 119 times across 12 books, collocating with YHWH (33), mishpat (30), shaphat (19), and emeth (8). These two words run on completely separate vocabulary tracks. kaphar lives in Leviticus with priests and altars and blood. tsedeq lives in Psalms and Isaiah with justice and truth and righteousness.
 
 They never co-occur — except in Dan 9:24.
 
@@ -104,7 +104,7 @@ These passages don't replace Dan 9:24's unique kaphar + tsedeq pairing. But they
 
 ### The chathak Hapax: Proof of Severance
 
-The verb nechtak (Niphal Perfect 3ms of chathak, H2852) occurs exactly once in the entire Hebrew Bible — Dan 9:24. It is an absolute hapax. The canonical word study documents its root meaning: "to cut off." The cognate cutting-verb family includes gazar (H1504, "cut off/divide/decree," 13 occurrences), karath (H3772, "cut off/cut covenant," 288 occurrences), and charats (H2782, "to determine/decree," 12 occurrences).
+The verb nechtak (Niphal Perfect 3ms of chathak, H2852) occurs exactly once in the entire Hebrew Bible — Dan 9:24. It is an absolute hapax. The canonical word study documents its root meaning: "to cut off." The cognate cutting-verb family includes gazar (H1504, "cut off/divide/decree," 13 occurrences), karath (H3772, "cut off/cut covenant," 360 occurrences), and charats (H2782, "to determine/decree," 14 occurrences).
 
 The KJV translates nechtak as "are determined," capturing the decree sense. But the cutting sense is primary. Two pieces of evidence support this. First, Theodotion's Greek translation of Daniel uses synetmethesan (from syntemno, "to cut short/cut together"), preserving the cutting metaphor. The Old Greek (Septuagint) uses ekrithesan (from krino, "to judge/decide"), rendering the decree sense. The fact that both Greek translators recognized the dual meaning — cutting and decreeing — confirms both are present in the Hebrew root.
 
@@ -171,7 +171,7 @@ sv-13 noted the numeric correspondence: 2 Chr 36:21 says the 70-year exile fulfi
 
 The canonical word studies from the shared library are the foundation of this analysis:
 
-**kaphar (H3722):** The DOA's signature verb. 102 OT uses, 66% in Leviticus. Its collocations tell the story: chattaah (38x), salach (12x), taher (12x) — but never tsedeq. Dan 9:24 is where kaphar steps outside its usual partners and joins tsedeq for the first and only time.
+**kaphar (H3722):** The DOA's signature verb. 130 OT occurrences, 66% in Leviticus. Its collocations tell the story: chattaah (38x), salach (12x), taher (12x) — but never tsedeq. Dan 9:24 is where kaphar steps outside its usual partners and joins tsedeq for the first and only time.
 
 **tsedeq (H6664):** Vindication vocabulary. 119 tokens, concentrated in Psalms and Isaiah. Its collocations include mishpat (30x) and emeth (8x) — but never kaphar. The two vocabulary systems run on parallel tracks that converge only in Dan 9:24.
 

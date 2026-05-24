@@ -192,7 +192,7 @@ The 22 studies are not 22 disconnected topics. They are held together by eight v
 
 **Chain 6: tinnaten → nitsdaq.** The divine passive frame. What God permitted (tinnaten, Niphal, Dan 8:12), God sets right (nitsdaq, Niphal, Dan 8:14). Extended across three languages: Hebrew tinnaten → Aramaic yithavun (Dan 7:25) → Greek edothe (Rev 13:5,7). The permission is bounded. The verdict is final.
 
-**Chain 7: emeth → alethinos.** The truth chain. Horn casts emeth to the ground (Dan 8:12). Psa 119:142 equates emeth with torah. The vindication declarations restore it: God's ways are dikaiai kai alethinai (Rev 15:3, 16:7, 19:2). The TR-emeth-aletheia translation relationship (PMI 16.05) bridges the testaments. What was attacked is declared true.
+**Chain 7: emeth → alethinos.** The truth chain. Horn casts emeth to the ground (Dan 8:12). Psa 119:142 equates emeth with torah. The vindication declarations restore it: God's ways are dikaiai kai alethinai (Rev 15:3, 16:7, 19:2). The TR-emeth-aletheia translation relationship (score 16.05, PMI 6.08) bridges the testaments. What was attacked is declared true.
 
 **Chain 8: nitsdaq → matsdiqey → terountes.** The participation chain. Sanctuary receives vindication (nitsdaq, Niphal, Dan 8:14). Maskilim cause many to be righteous (matsdiqey, Hiphil, Dan 12:3). Remnant keeps commandments (terountes, present active participle, Rev 14:12). Same tsadaq root in Hebrew. Same obedience field in Greek. The divine verdict has human participants.
 
@@ -226,13 +226,13 @@ Or shorter still: **The God who dwells with sinners built a system to manage sin
 
 The word studies are woven into the analysis above. Key findings from the canonical library that shape the entire synthesis:
 
-**tsadaq (H6663):** 41 occurrences, 5 stems. The Niphal (Dan 8:14 only) is the series destination. tsadaq has ZERO occurrences in Leviticus. kaphar has 67. Dan 9:24 is the only verse where both meet. The LXX maps tsadaq to dikaioo with PMI 26.99 — but the Niphal has no direct NT parallel through dikaioo. The concept migrates to the dikaios+alethinos pair in Revelation.
+**tsadaq (H6663):** 54 occurrences, 5 stems. The Niphal (Dan 8:14 only) is the series destination. tsadaq has ZERO occurrences in Leviticus. kaphar has 67. Dan 9:24 is the only verse where both meet. The LXX maps tsadaq to dikaioo with score 26.99 (PMI 8.73) — but the Niphal has no direct NT parallel through dikaioo. The concept migrates to the dikaios+alethinos pair in Revelation.
 
-**kaphar (H3722):** 102 occurrences, 92 Piel. Daily collocation = kaphar+salach (forgiveness). Annual collocation = kaphar+taher (cleansing). The partition is absolute. The LXX maps kapporeth to hilasterion (G2435), which appears in Rom 3:25 (Christ as mercy seat) and Heb 9:5 (the physical mercy seat). Christ IS the place where atonement happens.
+**kaphar (H3722):** 130 occurrences, 92 Piel. Daily collocation = kaphar+salach (forgiveness). Annual collocation = kaphar+taher (cleansing). The partition is absolute. The LXX maps kapporeth to hilasterion (G2435), which appears in Rom 3:25 (Christ as mercy seat) and Heb 9:5 (the physical mercy seat). Christ IS the place where atonement happens.
 
-**biyn (H995):** 189 occurrences, Daniel density 5.3 per 100 verses (highest of any book). The 19 Daniel occurrences form the narrative engine. The LXX maps biyn to syniemi (G4920, PMI 27.04). The Hiphil imperative in 8:16 ("make this man understand") drives the entire five-chapter arc.
+**biyn (H995):** 189 occurrences, Daniel density 5.3 per 100 verses (highest of any book). The 19 Daniel occurrences form the narrative engine. The LXX maps biyn to syniemi (G4920, score 27.04, PMI 6.50). The Hiphil imperative in 8:16 ("make this man understand") drives the entire five-chapter arc.
 
-**tamid (H8548):** 104 occurrences, 100% positive. Every single use describes God's worship system. Never pagan. Never negative. The "paganism" reading of Dan 8:11 is eliminated by the word's universal distribution.
+**tamid (H8548):** 105 occurrences, 100% positive. Every single use describes God's worship system. Never pagan. Never negative. The "paganism" reading of Dan 8:11 is eliminated by the word's universal distribution.
 
 ## Difficult Passages
 

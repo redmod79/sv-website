@@ -23,7 +23,7 @@ Daniel 8:12 tells us the daily service (called the "tamid" in Hebrew — meaning
 
 Two actions, always together. Take away, then install. The removal isn't the end — it's the setup for a replacement. What gets installed is called the "abomination that makes desolate," a phrase that across every use in the Old Testament refers to a concrete false worship object or system — something humans made up to substitute for what God established.
 
-The tamid itself, by contrast, is 100% positive across all 104 times it appears in the Old Testament. It never refers to anything pagan or corrupt. It always describes God's own system: the continual offerings, the perpetual lampstand, the constant bread of the Presence, the unbroken intercession. Removing it is always removing something good. What replaces it is always something false.
+The tamid itself, by contrast, is 100% positive across all 105 times it appears in the Old Testament. It never refers to anything pagan or corrupt. It always describes God's own system: the continual offerings, the perpetual lampstand, the constant bread of the Presence, the unbroken intercession. Removing it is always removing something good. What replaces it is always something false.
 
 ---
 

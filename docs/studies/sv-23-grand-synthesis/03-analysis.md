@@ -78,7 +78,7 @@
 ### Daniel 9:21-23
 **Context:** Gabriel returns during Daniel's prayer after studying Jeremiah's 70 years.
 **Direct statement:** "Gabriel... said, O Daniel, I am now come forth to give thee skill and understanding... understand the matter, and consider the vision."
-**Original language:** lehavinekha (Hiphil of biyn) — "to cause you to understand." biyn (Qal imperative) + Hithpael imperative of biyn — "understand the matter, consider the vision." Six vocabulary connections tie this to Dan 8:16 (sv-12): same angel, same commission verb, same target (mar'eh).
+**Original language:** lehaskilekha (Hiphil of sakal, H7919) — "to give you insight/understanding" (v.22). In v.23: biyn (Qal imperative) + haven (Hiphil imperative of biyn) — "understand the matter, consider the vision." Six vocabulary connections tie this to Dan 8:16 (sv-12): same angel, same commission verb, same target (mar'eh).
 **Cross-references:** Dan 9:2 records Daniel studying Jeremiah "by books" — the bridge event that connects Dan 8's failure to Dan 9's resumption (sv-12).
 
 ### Daniel 9:24
@@ -204,7 +204,7 @@ A six-station vocabulary chain traces the prophecy from concealment to disclosur
 **Supported by:** Dan 8:26, Dan 9:24, Dan 12:4, Rev 5:1, Rev 10:2, Rev 22:10
 
 ### Pattern 4: The biyn Chain — Narrative Engine
-The verb biyn (H995) appears 19 times in Dan 8-12, tracking the understanding process: commission (8:16 Hiphil imperative) → failure (8:27 Hiphil participle + negative) → bridge event (9:2 Qal — Daniel studies Jeremiah) → return (9:22-23 Hiphil + Qal + Hithpael) → resolution (10:1 Qal — "he understood the mar'eh") → second failure on new content (12:8 Qal + negative) → eschatological transfer (12:10 Qal x2 — "the wise shall understand"). Understanding moves from angel to prophet to end-time community.
+The verb biyn (H995) appears 19 times in Dan 8-12, tracking the understanding process: commission (8:16 Hiphil imperative) → failure (8:27 Hiphil participle + negative) → bridge event (9:2 Qal — Daniel studies Jeremiah) → return (9:22 Hiphil of sakal; 9:23 Qal + Hiphil of biyn) → resolution (10:1 Qal — "he understood the mar'eh") → second failure on new content (12:8 Qal + negative) → eschatological transfer (12:10 Qal x2 — "the wise shall understand"). Understanding moves from angel to prophet to end-time community.
 **Supported by:** Dan 8:16, 8:27, 9:2, 9:22-23, 10:1, 12:8, 12:10
 
 ### Pattern 5: The tame→tahor→tsadaq Progression

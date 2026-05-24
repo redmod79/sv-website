@@ -7,7 +7,7 @@ The Bible uses the word "righteousness" constantly — but it means more than mo
 
 ## The Words Behind the Word
 
-The Old Testament is written in Hebrew, and the Hebrew root behind "righteousness" is *ts-d-q* (tsadaq). Four major words grow from this root, and together they appear more than 530 times across the Old Testament. That is a massive number — roughly once every three pages. The root shows up in nearly every book of the Bible.
+The Old Testament is written in Hebrew, and the Hebrew root behind "righteousness" is *ts-d-q* (tsadaq). Four major words grow from this root, and together they appear more than 548 times across the Old Testament. That is a massive number — roughly once every three pages. The root shows up in nearly every book of the Bible.
 
 The New Testament, written in Greek, uses a family of words built on *dik-* (roughly pronounced "dike"). These appear over 230 times in the New Testament.
 
@@ -23,7 +23,7 @@ The first dimension of righteousness is legal — a declaration made in court.
 
 In ancient Israel, when two people had a dispute and brought it to a judge, the judge would look at the evidence and pronounce a verdict. The innocent person was "declared righteous" (in Hebrew, tsadaq in the Hiphil form — the causative, declarative form of the verb). The guilty person was "condemned." The court was not changing anyone's character. It was declaring what the evidence showed.
 
-> **Deuteronomy 25:1** "When there is a lawsuit between men, and they come unto judgment, then they shall judge them; then they shall justify the righteous, and condemn the wicked."
+> **Deuteronomy 25:1** "If there be a controversy between men, and they come unto judgment, that [the judges] may judge them; then they shall justify the righteous, and condemn the wicked."
 
 God operates within the same framework. He will not falsely acquit the guilty. Proverbs 17:15 calls it an abomination when anyone "justifies the wicked or condemns the just."
 
@@ -63,7 +63,7 @@ This is where the Old Testament's frequent pairing of "righteousness" (*tsedaqah
 
 > **Micah 6:8** "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
 
-The word translated "mercy" here is *checed* in Hebrew — one of the most important words in the entire Old Testament. It means covenant loyalty: the steady, faithful commitment that holds a relationship together. It appears 241 times. It is the relational glue of the covenant.
+The word translated "mercy" here is *checed* in Hebrew — one of the most important words in the entire Old Testament. It means covenant loyalty: the steady, faithful commitment that holds a relationship together. It appears 255 times. It is the relational glue of the covenant.
 
 This dimension does not contradict the courtroom dimension. It operates at a different level. The courtroom answers: on what basis does God acquit a guilty sinner? (Answer: faith in Christ.) The covenant dimension answers: how does a redeemed person live? (Answer: faithfully, walking with God, doing justice, loving loyalty.)
 
@@ -83,7 +83,7 @@ That verse is not complicated. The person who *does* righteous things *is* right
 
 Ezekiel 18 gives the most detailed picture of what righteous conduct looks like: not worshipping idols, not committing adultery, not oppressing others, feeding the hungry, clothing the naked, being honest in dealings, treating people fairly. This is not abstract status — it is a list of concrete actions.
 
-> **Ezekiel 18:5,9** "But if a man be just, and do that which is lawful and right... he is just, he shall surely live, saith the Lord GOD."
+> **Ezekiel 18:5,9** "But if a man be just, and do that which is lawful and right... he [is] just, he shall surely live, saith the Lord GOD."
 
 Jesus raises the bar even higher in Matthew 5. He says the righteousness of his followers must exceed that of the Pharisees — religious leaders famous for careful rule-following. Why? Because true righteousness reaches the heart. Anger is not just anger — it touches on the spirit of murder. Lust is not just lust — it touches on the spirit of adultery. Genuine righteous character goes deeper than behavior into motivation.
 

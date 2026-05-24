@@ -21,7 +21,7 @@
 ### Daniel 8:10
 **Context:** The horn grows "to the host of heaven" and casts down some of the host and stars, stamping on them.
 **Direct statement:** The horn reaches upward — toward heaven itself. Its victims are "the host of heaven."
-**Original language:** tsaba ha-shamayim ("host of heaven," H6635 + H8064). The tsaba word (canonical library entry H6635-tsaba.md) appears 462 times. In Daniel 8, it clusters five times in vv. 10-13. The phrase "host of heaven" points to God's people viewed from a heavenly perspective.
+**Original language:** tsaba ha-shamayim ("host of heaven," H6635 + H8064). The tsaba word (canonical library entry H6635-tsaba.md) appears 492 times. In Daniel 8, it clusters five times in vv. 10-13. The phrase "host of heaven" points to God's people viewed from a heavenly perspective.
 **Cross-references:** Dan 8:24 interprets this as "the mighty and the holy people" (am-qedoshim). The vision's own explanation section equates the heavenly host with God's covenant people.
 **Relationship to other evidence:** The upward trajectory begins here. The horn does not simply destroy an earthly building — it reaches toward heaven. The verb forms are active (Hiphil of gadal) because the horn is acting on its own level (earth), attacking people it can physically reach.
 
@@ -36,14 +36,14 @@
 **Context:** The first of three passive-voice clauses in the central zone. The tamid is removed.
 **Direct statement:** The tamid ("the continual") is taken away. The KJV adds "sacrifice" but the Hebrew has only ha-tamid — the continual ministry as a whole.
 **Original language:** huram (Hophal perfect 3ms of rum) — passive voice, agent suppressed. The grammar shifts from active (higdil in 11a) to passive here. The horn is NOT named as the agent. The tamid was "lifted away" — by whom? The text does not say.
-**Cross-references:** The tamid is 100% positive across all 104 OT uses (sv-03, canonical library entry H8548-tamid.md). It always refers to God's own worship system. The heavenly tamid is Christ's ongoing intercession (Heb 7:25).
+**Cross-references:** The tamid is 100% positive across all 105 OT uses (sv-03, canonical library entry H8548-tamid.md). It always refers to God's own worship system. The heavenly tamid is Christ's ongoing intercession (Heb 7:25).
 **Relationship to other evidence:** The voice shift from active to passive is central. The grammar reference entry (dan-8-11-12-voice-alternation.md) documents a seven-verb A-B-A chiasm. Everything touching the heavenly sanctuary system gets passive voice. Everything the horn does on its own level gets active voice. The horn cannot directly act on heaven — it can only obscure access from earth.
 
 ### Daniel 8:11c — "the place of his sanctuary was cast down"
 **Context:** The second passive clause. The mekon of the Prince's sanctuary is cast down.
 **Direct statement:** mekon miqdasho — "the established place of his sanctuary."
 **Original language:** Three critical features converge here:
-1. **mekon** (H4349, canonical library entry): From the root kun (H3559, "to be established, founded"). Occurs 17 times. Eight cluster in Solomon's dedication prayer (1 Ki 8:39,43,49; 2 Chr 6:30,33,39) where mekon consistently means God's heavenly dwelling place. Solomon prays toward the earthly temple but asks God to hear "in heaven thy dwelling place [mekon]." Exo 15:17 is the only other verse pairing mekon and miqdash for the same referent — "the Sanctuary, O Lord, which thy hands have established." The word pulls miqdash into the heavenly-dwelling register.
+1. **mekon** (H4349, canonical library entry): From the root kun (H3559, "to be established, founded"). Occurs 19 times. Eight cluster in Solomon's dedication prayer (1 Ki 8:39,43,49; 2 Chr 6:30,33,39) where mekon consistently means God's heavenly dwelling place. Solomon prays toward the earthly temple but asks God to hear "in heaven thy dwelling place [mekon]." Exo 15:17 is the only other verse pairing mekon and miqdash for the same referent — "the Sanctuary, O Lord, which thy hands have established." The word pulls miqdash into the heavenly-dwelling register.
 2. **The 3ms suffix on miqdasho** ("his sanctuary"): The suffix is third-person masculine singular. The nearest feminine noun is qeren (horn, H7161 — confirmed feminine by canonical library entry and parsing data). A feminine noun cannot be the antecedent for a masculine suffix. The nearest masculine antecedent is sar-ha-tsaba. Therefore "his sanctuary" = the Prince's sanctuary.
 3. **hushlak** (Hophal perfect 3ms of shalak) — passive voice, agent suppressed, continuing the passive zone. The same root shalak appears in active Hiphil in v.12 when the horn casts truth to the ground. The author knew how to name the horn as agent — and chose not to here.
 **Cross-references:** 1 Ki 8:27-30 — Solomon acknowledges God cannot be contained in an earthly building. He prays toward the earthly house, but God hears from mekon — heaven. The mekon is not the earthly building; it is where God actually dwells. Dan 8:11's mekon miqdasho echoes this exact register.
@@ -140,11 +140,11 @@
 ### 1 Kings 8:39, 43, 49
 **Context:** Three more occurrences of mekon in Solomon's prayer.
 **Direct statement:** Each time: "hear thou in heaven thy dwelling place [mekon]." Consistently heaven, not the earthly temple.
-**Relationship to other evidence:** 8 of 17 mekon occurrences cluster in this prayer material. The word's semantic center of gravity is heavenly.
+**Relationship to other evidence:** 8 of 19 mekon occurrences cluster in this prayer material. The word's semantic center of gravity is heavenly.
 
 ### Psalms 89:14 and 97:2
 **Context:** Psalms describing God's throne.
-**Direct statement:** "Righteousness and judgment are the habitation [makon] of thy throne" (89:14). "Clouds and darkness are round about him: righteousness and judgment are the habitation [makon] of his throne" (97:2).
+**Direct statement:** "Justice and judgment are the habitation [makon] of thy throne" (89:14). "Clouds and darkness are round about him: righteousness and judgment are the habitation [makon] of his throne" (97:2).
 **Relationship to other evidence:** These verses place mekon at the foundation of God's heavenly throne. The word is associated with divine governance, not earthly structures. Notably, righteousness (tsedeq) and judgment (mishpat) are the makon of the throne — the same semantic field as the vindication (tsadaq) of the sanctuary in Dan 8:14.
 
 ### Psalms 33:14
@@ -307,7 +307,7 @@ Gabriel twice states the vision reaches to "the time of the end" (Dan 8:17,19). 
 
 The original-language data transforms this question from a matter of theological opinion into a matter of textual evidence.
 
-**mekon (H4349):** The word's distribution makes the case. Eight of 17 occurrences sit in Solomon's prayer where mekon means heaven — every time. Solomon prays toward the earthly temple, but asks God to hear "in heaven thy dwelling place [mekon]." The word marks the difference between where the worshiper stands and where God actually dwells. When Daniel uses mekon in construct over miqdash, he is telling the reader which kind of sanctuary is in view: the one God established, the one where God actually dwells. Not the earthly copy. The heavenly original.
+**mekon (H4349):** The word's distribution makes the case. Eight of 19 occurrences sit in Solomon's prayer where mekon means heaven — every time. Solomon prays toward the earthly temple, but asks God to hear "in heaven thy dwelling place [mekon]." The word marks the difference between where the worshiper stands and where God actually dwells. When Daniel uses mekon in construct over miqdash, he is telling the reader which kind of sanctuary is in view: the one God established, the one where God actually dwells. Not the earthly copy. The heavenly original.
 
 **The heikal/mekon miqdash distinction:** Daniel wrote in both Aramaic and Hebrew. In the Aramaic chapters, he used heikal for the earthly temple (Dan 5:2-3). In the Hebrew vision chapter, he used mekon miqdash (Dan 8:11). If he meant the same building, he had no reason to switch vocabulary. The switch is the evidence. He is distinguishing between two different referents.
 

@@ -17,7 +17,7 @@
 
 The first three verbs deal with the sin problem (using the DOA triad: pesha, chattat, avon). The last three install positive realities (righteousness, authenticated prophecy, anointed sanctuary). This 3+3 structure mirrors the DOA itself: first remove the defilement, then declare the result.
 
-The kaphar in purpose 3 is the DOA's signature verb (H3722, canonical word study: 102 OT occurrences, 66% in Leviticus). The tsedeq olamim in purpose 4 is vindication vocabulary (H6664, canonical word study: 119 tokens across 12 books). These two vocabulary systems — DOA process language and forensic vindication language — never appear together anywhere else in Scripture. Dan 9:24 is the sole bridge (confirmed by collocation data: kaphar's partners are chattaah, kohen, mizbeach, salach, taher — never tsedeq; tsedeq's partners are YHWH, mishpat, shaphat, emeth — never kaphar).
+The kaphar in purpose 3 is the DOA's signature verb (H3722, canonical word study: 130 OT occurrences, 66% in Leviticus). The tsedeq olamim in purpose 4 is vindication vocabulary (H6664, canonical word study: 119 tokens across 12 books). These two vocabulary systems — DOA process language and forensic vindication language — never appear together anywhere else in Scripture. Dan 9:24 is the sole bridge (confirmed by collocation data: kaphar's partners are chattaah, kohen, mizbeach, salach, taher — never tsedeq; tsedeq's partners are YHWH, mishpat, shaphat, emeth — never kaphar).
 
 **Cross-references:** Lev 16:16,21 use the same three sin-words (pesha, chattat, avon) — the only Pentateuch verse with all three in one clause is Lev 16:21. Exo 34:7 uses avon, pesha, and chattaah in God's self-disclosure. Psa 32:5 confesses with the same triad and uses kaphar ("thou forgavest the iniquity of my sin").
 
@@ -30,7 +30,7 @@ The kaphar in purpose 3 is the DOA's signature verb (H3722, canonical word study
 
 **Direct statement:** "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks."
 
-**Original language:** mashiyach nagiyd — "Anointed Prince." Two absolute nouns in apposition (canonical word study: H4899, 38 OT occurrences). The mashiyach here connects to purpose 6 — the anointing of qodesh qodashim. The nagiyd connects to the sar ha-tsaba ("Prince of the host") in Dan 8:11 whose sanctuary was attacked. biyn and sakhal roots echo Dan 8:16's commission.
+**Original language:** mashiyach nagiyd — "Anointed Prince." Two absolute nouns in apposition (canonical word study: H4899, 44 OT occurrences). The mashiyach here connects to purpose 6 — the anointing of qodesh qodashim. The nagiyd connects to the sar ha-tsaba ("Prince of the host") in Dan 8:11 whose sanctuary was attacked. biyn and sakhal roots echo Dan 8:16's commission.
 
 **Cross-references:** sv-12 established six independent lines connecting Dan 8 to Dan 9. The vocabulary resumption (biyn, sakhal, mar'eh) proves Gabriel is continuing the same explanation. sv-13 confirmed the 457 BC starting point and the 483-year calculation to AD 27.
 
@@ -277,7 +277,7 @@ The kaphar in purpose 3 is the DOA's signature verb (H3722, canonical word study
 
 **Direct statement:** "But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets."
 
-**Original language:** dikaiosyne theou (G1343, "God's righteousness") — the Greek equivalent of tsedeq elohim. This righteousness exists apart from law-keeping but is "witnessed by the law and the prophets." Dan 9:24 is part of that witness — the prophetic promise of tsedeq olamim. The LXX maps tsedeq to dikaiosyne with PMI 26.71 (one of the tightest word mappings in the entire LXX).
+**Original language:** dikaiosyne theou (G1343, "God's righteousness") — the Greek equivalent of tsedeq elohim. This righteousness exists apart from law-keeping but is "witnessed by the law and the prophets." Dan 9:24 is part of that witness — the prophetic promise of tsedeq olamim. The LXX maps tsedeq to dikaiosyne with score 26.71 (PMI 6.06) (one of the tightest word mappings in the entire LXX).
 
 **Cross-references:** Dan 9:18 denied human righteousness as a basis: "not for our righteousnesses." Rom 3:21 answers: God's own righteousness is now available apart from human performance.
 
@@ -552,7 +552,7 @@ Across 40+ OT occurrences, qodesh qodashim designates the Most Holy Place (Exo 2
 
 The canonical word studies provide the strongest evidence for this analysis:
 
-**kaphar (H3722):** 102 OT occurrences, 66% in Leviticus. The Piel dominates (90%) and means "make atonement." The library entry documents key collocations — chattaah (38x), kohen (27x), salach (12x), taher (12x). What the library makes clear is what is ABSENT from these collocations: any tsedeq-family word. The DOA process language and the vindication result language run on separate tracks everywhere in Scripture — except Dan 9:24.
+**kaphar (H3722):** 130 OT occurrences, 66% in Leviticus. The Piel dominates (90%) and means "make atonement." The library entry documents key collocations — chattaah (38x), kohen (27x), salach (12x), taher (12x). What the library makes clear is what is ABSENT from these collocations: any tsedeq-family word. The DOA process language and the vindication result language run on separate tracks everywhere in Scripture — except Dan 9:24.
 
 **tsedeq (H6664):** 119 tokens, heavily concentrated in Psalms (44%) and Isaiah (22%). Almost absent from Pentateuch (7 occurrences). The library entry documents its collocations: YHWH (33x), mishpat (30x), emeth (8x). Again, no kaphar. The two systems never meet — until Daniel brings them together.
 
@@ -568,9 +568,9 @@ The canonical word studies provide the strongest evidence for this analysis:
 
 **OT to NT via LXX bridges:**
 - kaphar (H3722) → hilaskomai (G2433) / hilasterion (G2435): The DOA verb becomes the propitiation concept. Rom 3:25 sets Christ forth as hilasterion — the NT mercy seat where atonement happens.
-- tsedeq (H6664) → dikaiosyne (G1343): The vindication vocabulary crosses languages with PMI 26.71, one of the tightest LXX mappings. When Dan 9:24 says tsedeq olamim, Paul hears dikaiosyne theou.
+- tsedeq (H6664) → dikaiosyne (G1343): The vindication vocabulary crosses languages with score 26.71 (PMI 6.06), one of the tightest LXX mappings. When Dan 9:24 says tsedeq olamim, Paul hears dikaiosyne theou.
 - tsadaq (H6663) → dikaioo (G1344): The verb crosses with the same precision. Isa 53:11's yatsdiq becomes Romans' dikaioo.
-- mashach (H4886) → chrio (G5548): 51 co-occurrences in LXX, composite PMI 32.44. The anointing vocabulary is stable across testaments.
+- mashach (H4886) → chrio (G5548): 51 co-occurrences in LXX, score 32.44 (PMI 8.21). The anointing vocabulary is stable across testaments.
 
 **The progression chain crosses both testaments:**
 1. Lev 16:30 (kaphar → taher) — OT type, DOA language

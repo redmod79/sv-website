@@ -8,7 +8,7 @@ No. Leviticus 4 does not require blood-into-the-building for every sin. The text
 
 ## Key Verses
 
-> **Leviticus 4:6-7** "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary. And the priest shall put some of the blood upon the horns of the altar of sweet incense before the LORD, which is in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering."
+> **Leviticus 4:6-7** "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary. And the priest shall put some of the blood upon the horns of the altar of sweet incense before the LORD, which is in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation."
 
 > **Leviticus 4:25** "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering."
 
@@ -20,7 +20,7 @@ No. Leviticus 4 does not require blood-into-the-building for every sin. The text
 
 > **Leviticus 15:31** "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that is among them."
 
-> **Numbers 19:13** "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel."
+> **Numbers 19:13** "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him."
 
 > **Leviticus 16:16** "And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness."
 

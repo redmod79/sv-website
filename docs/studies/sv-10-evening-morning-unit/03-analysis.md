@@ -98,7 +98,7 @@
 ### Daniel 9:21
 **Context:** Gabriel returns to Daniel at the time of the evening oblation.
 **Direct statement:** "The man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation."
-**Original language:** Minchath ha-erev -- "the evening offering." The word erev appears in a tamid context within Daniel.
+**Original language:** Minchath-erev -- "the evening offering." The phrase is a construct chain (minhah construct + erev absolute), which conveys definiteness through the construct relationship rather than through an article. The word erev appears in a tamid context within Daniel.
 **Cross-references:** Gabriel's return at the time of the evening oblation ties the Dan 9 revelation to the tamid cycle.
 **Relationship to other evidence:** Daniel uses erev in a tamid context here, showing he knows the word in its sanctuary setting. But in 8:14 he pairs it with boqer in a completely different grammatical construction -- a counting unit, not a liturgical time-reference.
 
